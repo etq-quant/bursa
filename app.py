@@ -23,9 +23,9 @@ glevel = st.multiselect(
 )
 
 col1, col2 = st.columns(2)
-
-start_date = col1.date_input('Start date', sorted(df['date'].unique())[-5])
-end_date = col2.date_input('End date', sorted(df['date'].unique())[-1])
+udates = sorted(df['date'].unique())
+start_date = col1.date_input('Start date', udates[-5], min_value=udates[0], max_value=udates[-2])
+end_date = col2.date_input('End date', udates[-1], min_value=udates[1], max_value=udates[-1])
 
 
 st.table(get_table(df, glevel, start_date, end_date))
