@@ -3,7 +3,7 @@ cols = ['id','gics_sector_name', 'gics_industry_group_name', 'gics_industry_name
 def get_table(df, glevel, sdate, edate):
     fdf = df.sort_values(['date','id']).reset_index(drop=True)
     sdf = fdf[(fdf['date']==sdate)|(fdf['date']==edate)]
-    pdf = sdf.pivot_table(index=cols, columns=['date'], values=['company_market_cap']).reset_index()
+    pdf = sdf.pivot_table(index=cols, columns=['date'], values=['company_market_cap']).reset_index().dropna()
     pdf.columns = [b if b else a for a,b in pdf.columns]
     adf = pdf.groupby(glevel)[[sdate, edate]].sum()
     adf['change'] = adf[edate] - adf[sdate]
