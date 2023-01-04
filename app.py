@@ -10,7 +10,7 @@ st.set_page_config(
 st.title("Bursa Malaysia | Market Capitalization")
 
 
-@st.cache(allow_output_mutation=True)
+#@st.cache(allow_output_mutation=True)
 def load_data():
     df = pd.read_csv(DATA_PATH)
     return df
