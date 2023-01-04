@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from plot import get_table
+from plot import get_table, get_table_raw
 
 DATA_PATH = "data/bursa_data.csv"
 
@@ -28,4 +28,10 @@ start_date = col1.date_input('Start date', udates[-5], min_value=udates[0], max_
 end_date = col2.date_input('End date', udates[-1], min_value=udates[1], max_value=udates[-1])
 
 
-st.table(get_table(df, glevel, start_date, end_date))
+tdf = get_table(df, glevel, start_date, end_date)
+tdfr = get_table_raw(df, glevel, start_date, end_date)
+tab1, tab2, = st.tabs(["summary", "raw"])
+with tab1:
+    st.table(tdf)
+with tab2:
+    st.table(tdfr)
