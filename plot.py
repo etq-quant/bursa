@@ -33,6 +33,9 @@ def get_table(df, glevel, sdate, edate):
     adf['change'] = adf[edate] - adf[sdate]
     adf['change_pct'] = adf['change']/adf[sdate]*100
     adf = adf[['change_pct']]
+    return adf 
+
+def style_table(adf):
     a={}
     for k,i in zip(adf.index, adf['change_pct']):
         if i>0:
@@ -54,6 +57,9 @@ def get_table_raw(df, glevel, sdate, edate):
     adf = pdf.groupby(glevel)[[sdate, edate]].sum()
     adf['change'] = adf[edate] - adf[sdate]
     adf['change_pct'] = adf['change']/adf[sdate]*100
+    return adf
+
+def style_raw_table(adf, sdate, edate):
     a={}
     for k,i in zip(adf.index, adf['change_pct']):
         if i>0:

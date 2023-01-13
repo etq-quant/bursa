@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from plot import get_table, get_table_raw
+from plot import get_table, get_table_raw, style_table, style_raw_table
 
 DATA_PATH = "data/bursa_data.csv"
 
@@ -29,9 +29,25 @@ end_date = col2.date_input('End date', udates[-1], min_value=udates[1], max_valu
 
 
 tdf = get_table(df, glevel, start_date, end_date)
+stdf = style_table(tdf)
 tdfr = get_table_raw(df, glevel, start_date, end_date)
+stdfr = style_raw_table(tdfr, start_date, end_date)
 tab1, tab2, = st.tabs(["summary", "raw"])
 with tab1:
-    st.table(tdf)
+    st.table(stdf)
+    st.download_button(
+   "Press to Download",
+   tdf.to_csv(),
+   "bursa_market_cap_{}_{}.csv".format(start_date, end_date),
+   "text/csv",
+   key='download-csv'
+)
 with tab2:
-    st.table(tdfr)
+    st.table(stdfr)
+    st.download_button(
+   "Press to Download",
+   tdfr.to_csv(),
+   "bursa_market_cap_raw_{}_{}.csv".format(start_date, end_date),
+   "text/csv",
+   key='download-raw-csv'
+)
