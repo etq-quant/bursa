@@ -51,7 +51,7 @@ def bursa_malaysia():
     key='download-csv'
     )
     with tab2:
-        st.table(stdfr)
+        st.dataframe(stdfr)
         st.download_button(
     "Press to Download",
     tdfr.to_csv(),
@@ -99,7 +99,7 @@ def fbm100():
     key='download-csv'
     )
     with tab2:
-        st.table(stdfr)
+        st.dataframe(stdfr)
         st.download_button(
     "Press to Download",
     tdfr.to_csv(),

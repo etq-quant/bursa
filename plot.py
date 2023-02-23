@@ -70,6 +70,7 @@ def style_raw_table(adf, sdate, edate):
             a[k]=white
     
     return adf.style.format("{:,.0f}", subset=[sdate,edate,'change']).format("{:,.2f}%", subset=['change_pct'])\
+    .background_gradient(cmap='YlOrRd_r', axis=0)\
     .bar(subset=(adf['change_pct']<0, 'change_pct'), color='#FF6347', align="zero")\
     .bar(subset=(adf['change_pct']>0, 'change_pct'), color="#54C571", align="zero")\
     .apply(highlight_col, subset=[i for i in adf.columns if i!='change_pct'], axis=None)\
