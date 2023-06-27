@@ -13,14 +13,17 @@ st.set_page_config(
 # """)
 
 def bursa_malaysia():
-    DATA_PATH = "data/bursa_data.csv"
-
+    DAILY_DATA_PATH = "data/daily_data.csv"
+    META_DATA_PATH = "data/meta_data.csv"
+    
     st.title("Bursa Malaysia | Market Capitalization")
 
 
     #@st.cache(allow_output_mutation=True)
     def load_data():
-        df = pd.read_csv(DATA_PATH)
+        df1 = pd.read_csv(DAILY_DATA_PATH)
+        df2 = pd.read_csv(META_DATA_PATH)
+        df = df1.merge(df2, on=['id'])
         return df
 
     df = load_data()
