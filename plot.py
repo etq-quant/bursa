@@ -6,9 +6,9 @@ def highlight_rows(x):
     else:
         return 'background-color: blue'
 
-green = [{'selector': 'th', 'props': 'background-color: #98FB98'}]
-white = [{'selector': 'th', 'props': 'background-color: ""'}]
-red = [{'selector': 'th', 'props': 'background-color: #FFA07A'}]
+green = [{'selector': 'th', 'props': 'background-color: #98FB98; color: black'}]
+white = [{'selector': 'th', 'props': 'background-color: ""; color: black'}]
+red = [{'selector': 'th', 'props': 'background-color: #FFA07A; color: black'}]
 
 def highlight_col(x):
     #copy df to new - original data are not changed
@@ -17,9 +17,9 @@ def highlight_col(x):
     maskp = df['change'] > 0
     mask0 = df['change'] == 0
     maskn = df['change'] < 0
-    df.loc[maskp, :] = 'background-color: #98FB98'
-    df.loc[mask0, :] = 'background-color: ""'
-    df.loc[maskn, :] = 'background-color: #FFA07A'
+    df.loc[maskp, :] = 'background-color: #98FB98; color: black'
+    df.loc[mask0, :] = 'background-color: ""; color: black'
+    df.loc[maskn, :] = 'background-color: #FFA07A; color: black'
     return df 
 
 cols = ['id','gics_sector_name', 'gics_industry_group_name', 'gics_industry_name', 'gics_sub_industry_name', 'company_common_name']
