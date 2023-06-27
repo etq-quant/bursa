@@ -48,7 +48,7 @@ tdf.to_csv(),
 key='download-csv'
 )
 with tab2:
-    st.table(stdfr)
+    st.dataframe(stdfr)
     st.download_button(
 "Press to Download",
 tdfr.to_csv(),
