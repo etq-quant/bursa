@@ -7,7 +7,7 @@ def highlight_rows(x):
         return 'background-color: blue'
 
 green = [{'selector': 'th', 'props': 'background-color: #98FB98; color: black'}]
-white = [{'selector': 'th', 'props': 'background-color: ""; color: black'}]
+white = [{'selector': 'th', 'props': 'background-color: white; color: black'}]
 red = [{'selector': 'th', 'props': 'background-color: #FFA07A; color: black'}]
 
 def highlight_col(x):
@@ -18,7 +18,7 @@ def highlight_col(x):
     mask0 = df['change'] == 0
     maskn = df['change'] < 0
     df.loc[maskp, :] = 'background-color: #98FB98; color: black'
-    df.loc[mask0, :] = 'background-color: ""; color: black'
+    df.loc[mask0, :] = 'background-color: white; color: black'
     df.loc[maskn, :] = 'background-color: #FFA07A; color: black'
     return df 
 
