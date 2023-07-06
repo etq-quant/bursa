@@ -157,7 +157,7 @@ id,gics_sector_name,gics_industry_group_name,gics_industry_name,gics_sub_industr
 6882097,Industrials,Transportation,Air Freight & Logistics,Air Freight & Logistics,Transocean Holdings Bhd,False
 6882729,Consumer Discretionary,Consumer Discretionary Distribution & Retail,Specialty Retail,Apparel Retail,Teo Guan Lee Corporation Bhd,False
 6889612,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Household Appliances,Milux Corporation Bhd,False
-6891833,Information Technology,Software & Services,IT Services,IT Consulting & Other Services,Dagang NeXchange Bhd,True
+6891833,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,Semiconductors,Dagang NeXchange Bhd,True
 6892063,Industrials,Transportation,Air Freight & Logistics,Air Freight & Logistics,Tiong Nam Logistics Holdings Bhd,False
 6892160,Consumer Discretionary,Consumer Discretionary Distribution & Retail,Distributors,Distributors,Pegasus Heights Bhd,False
 6898403,Materials,Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,Tomypak Holdings Bhd,False
@@ -684,7 +684,7 @@ B3D64D6,Consumer Staples,Household & Personal Products,Personal Care Products,Pe
 B3FKMY3,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,UEM Sunrise Bhd,True
 B3KB661,Financials,Financial Services,Capital Markets,Asset Management & Custody Banks,Fintec Global Bhd,False
 B3KG7D0,Industrials,Capital Goods,Electrical Equipment,Electrical Components & Equipment,Fibon Bhd,False
-B3P45R9,Consumer Discretionary,Consumer Services,Diversified Consumer Services,Education Services,Minda Global Bhd,False
+B3P45R9,Consumer Discretionary,Consumer Services,Diversified Consumer Services,Education Services,Cyberjaya Education Group Bhd,False
 B3RZ1Q1,Real Estate,Equity Real Estate Investment Trusts (REITs),Retail REITs,Retail REITs,Capitaland Malaysia Trust,False
 B3SQ4Z3,Information Technology,Software & Services,Software,Application Software,Censof Holdings Bhd,False
 B3W45N8,Information Technology,Software & Services,IT Services,IT Consulting & Other Services,EA Holdings Bhd,False
@@ -888,7 +888,7 @@ BPNTZZ8,Information Technology,Software & Services,IT Services,IT Consulting & O
 BQ1K390,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,Reach Energy Bhd,False
 BQ749F4,Information Technology,Technology Hardware & Equipment,"Electronic Equipment, Instruments & Components",Electronic Manufacturing Services,Nationgate Holdings Bhd,False
 BQQ9808,Materials,Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,DS Sigma Holdings Bhd,False
-BQQ9B10,,,,,L&P Global Bhd,False
+BQQ9B10,Materials,Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,L&P Global Bhd,False
 BSL6X92,Energy,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,Carimin Petroleum Bhd,False
 BTF7ZK3,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,EA Technique (M) Bhd,False
 BTG8635,Information Technology,Software & Services,Software,Systems Software,Kronologi Asia Bhd,False
