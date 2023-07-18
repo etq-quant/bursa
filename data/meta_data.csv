@@ -1,4 +1,239 @@
 id,gics_sector_name,gics_industry_group_name,gics_industry_name,gics_sub_industry_name,company_common_name,FBM100
+6577898,Materials,Materials,Paper & Forest Products,Forest Products,Mentiga Corporation Bhd,False
+6579678,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,MKH Bhd,False
+6580391,Consumer Discretionary,Consumer Discretionary Distribution & Retail,Specialty Retail,Apparel Retail,Mesb Bhd,False
+6581844,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,Thriven Global Bhd,False
+6583486,Industrials,Commercial  & Professional Services,Commercial Services & Supplies,Commercial Printing,Fima Corporation Bhd,False
+6586786,Communication Services,Telecommunication Services,Wireless Telecommunication Services,Wireless Telecommunication Services,XOX Technology Bhd,False
+6587121,Information Technology,Software & Services,Software,Application Software,Lambo Group Bhd,False
+6587347,Materials,Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,Ornapaper Bhd,False
+6592921,Materials,Materials,Metals & Mining,Steel,Lion Industries Corporation Bhd,False
+6595652,Materials,Materials,Paper & Forest Products,Forest Products,Minho (M) Bhd,False
+6599074,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Mitrajaya Holdings Bhd,False
+6599438,Materials,Materials,Paper & Forest Products,Forest Products,Mieco Chipboard Bhd,False
+6603362,Consumer Staples,Household & Personal Products,Household Products,Household Products,NTPM Holdings Bhd,False
+6606565,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Services,Harn Len Corporation Bhd,False
+6608453,Information Technology,Software & Services,Software,Systems Software,Netx Holdings Bhd,False
+6608798,Materials,Materials,Containers & Packaging,"Metal, Glass & Plastic Containers",CYL Corp Bhd,False
+6609230,Materials,Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,Muda Holdings Bhd,False
+6609304,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Muhibbah Engineering (M) Bhd,False
+6609597,Financials,Financial Services,Financial Services,Multi-Sector Holdings,Mulpha International Bhd,False
+6609627,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure",Casinos & Gaming,Magnum Bhd,False
+6628150,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Services,Negri Sembilan Oil Palms Bhd,False
+6629335,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats,Nestle (Malaysia) Bhd,True
+6632300,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Crest Builder Holdings Bhd,False
+6644372,Materials,Materials,Chemicals,Diversified Chemicals,Hexza Corp Bhd,False
+6654898,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Services,BLD Plantation Bhd,False
+6654984,Industrials,Commercial  & Professional Services,Commercial Services & Supplies,Environmental & Facilities Services,JAG Bhd,False
+6655040,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,OSK Holdings Bhd,False
+6655200,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats,Ocb Bhd,False
+6658317,Industrials,Capital Goods,Machinery,Industrial Machinery & Supplies & Components,Pentamaster Corporation Bhd,True
+6658458,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",Parlo Bhd,False
+6660840,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,Oriental Interest Bhd,False
+6661434,Consumer Discretionary,Automobiles & Components,Automobiles,Automobile Manufacturers,Oriental Holdings Bhd,False
+6665577,Industrials,Capital Goods,Trading Companies & Distributors,Trading Companies & Distributors,Pansar Bhd,False
+6666592,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,Maxim Global Bhd,False
+6667261,Materials,Materials,Chemicals,Commodity Chemicals,RGT Bhd,False
+6668918,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats,Pan Malaysia Corporation Bhd,False
+6668963,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,Asian Pac Holdings Bhd,False
+6670236,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Diversified Real Estate Activities,Paramount Corporation Bhd,False
+6671273,Industrials,Capital Goods,Building Products,Building Products,Astino Bhd,False
+6673053,Industrials,Capital Goods,Machinery,Industrial Machinery & Supplies & Components,YBS International Bhd,False
+6673268,Information Technology,Software & Services,Software,Application Software,IFCA MSC Bhd,False
+6673699,Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",Prolexus Bhd,False
+6674711,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Housewares & Specialties,CSH Alliance Bhd,False
+6674904,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Protasco Bhd,False
+6677215,Financials,Insurance,Insurance,Property & Casualty Insurance,Pacific & Orient Berhad,False
+6677442,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,PJBumi Bhd,False
+6679932,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",Pan Malaysia Holdings Bhd,False
+6680116,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,M K Land Holdings Bhd,False
+6680310,Information Technology,Software & Services,Software,Application Software,Nova Msc Bhd,False
+6681669,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats,PPB Group Bhd,True
+6685081,Materials,Materials,Metals & Mining,Steel,Hiap Teck Venture Bhd,False
+6690104,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Home Furnishings,Paragon Union Bhd,False
+6690290,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,AWC Bhd,False
+6691077,Materials,Materials,Chemicals,Commodity Chemicals,Luster Industries Bhd,False
+6691464,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Naim Holdings Bhd,False
+6692326,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Services,PLS Plantations Bhd,False
+6692768,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,Global Oriental Bhd,False
+6693266,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Pintaras Jaya Bhd,False
+6693589,Materials,Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,KYM Holdings Bhd,False
+6694247,Industrials,Capital Goods,Building Products,Building Products,PGF Capital Bhd,False
+6695938,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing,Petronas Dagangan Bhd,True
+6696726,Industrials,Capital Goods,Trading Companies & Distributors,Trading Companies & Distributors,Lion Posim Bhd,False
+6697644,Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",PCCS Group Bhd,False
+6703972,Utilities,Utilities,Gas Utilities,Gas Utilities,Petronas Gas Bhd,True
+6705439,Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goods",Textiles,PRG Holdings Bhd,False
+6707350,Materials,Materials,Paper & Forest Products,Forest Products,Dominant Enterprise Bhd,False
+6708096,Information Technology,Technology Hardware & Equipment,"Electronic Equipment, Instruments & Components",Electronic Components,Pne Pcb Bhd,False
+6708739,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Lfe Corporation Bhd,False
+6710358,Materials,Materials,Construction Materials,Construction Materials,Quality Concrete Holdings Bhd,False
+6710723,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats,Able Global Bhd,False
+6711469,Materials,Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,Versatile Creative Bhd,False
+6711641,Materials,Materials,Metals & Mining,Aluminum,PMB Technology Bhd,True
+6711793,Information Technology,Software & Services,IT Services,IT Consulting & Other Services,Digistar Corporation Bhd,False
+6712365,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,Ynh Property Bhd,False
+6712406,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,MGB Bhd,False
+6712417,Materials,Materials,Chemicals,Specialty Chemicals,Toyo Ventures Holdings Bhd,False
+6714800,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,Plenitude Bhd,False
+6715171,Information Technology,Technology Hardware & Equipment,"Electronic Equipment, Instruments & Components",Electronic Components,Scope Industries Bhd,False
+6716055,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,S & F Capital Bhd,False
+6719128,Industrials,Transportation,Marine Transportation,Marine Transportation,Malaysian Bulk Carriers Bhd,False
+6721413,Materials,Materials,Containers & Packaging,"Metal, Glass & Plastic Containers",Ralco Corporation Bhd,False
+6724122,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Ageson Bhd,False
+6725631,Energy,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,Marine & General Bhd,False
+6725653,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats,TPC Plus Bhd,False
+6726515,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats,CAB Cakaran Corporation Bhd,False
+6726861,Information Technology,Technology Hardware & Equipment,Communications Equipment,Communications Equipment,OPCOM Holdings Bhd,False
+6728287,Information Technology,Software & Services,IT Services,IT Consulting & Other Services,Key Alliance Group Bhd,False
+6728782,Industrials,Transportation,Marine Transportation,Marine Transportation,Harbour-Link Group Bhd,False
+6729525,Communication Services,Telecommunication Services,Diversified Telecommunication Services,Alternative Carriers,Redtone Digital Bhd,False
+6729837,Health Care,"Pharmaceuticals, Biotechnology & Life Sciences",Pharmaceuticals,Pharmaceuticals,YSP Southeast Asia Holding Bhd,False
+6730011,Information Technology,Technology Hardware & Equipment,"Electronic Equipment, Instruments & Components",Electronic Manufacturing Services,ATA IMS Bhd,False
+6731036,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure",Casinos & Gaming,RGB International Bhd,False
+6731371,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",Avillion Bhd,False
+6731382,Materials,Materials,Chemicals,Specialty Chemicals,Artroniq Berhad,False
+6735931,Information Technology,Technology Hardware & Equipment,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",OpenSys (M) Bhd,False
+6739869,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,Lagenda Properties Bhd,False
+6740236,Information Technology,Software & Services,IT Services,IT Consulting & Other Services,ARB Bhd,False
+6740281,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Home Furnishings,Sern Kou Resources Bhd,False
+6740957,Information Technology,Software & Services,IT Services,IT Consulting & Other Services,MMAG Holdings Bhd,False
+6740979,Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",Poh Kong Holdings Bhd,False
+6741701,Industrials,Capital Goods,Trading Companies & Distributors,Trading Companies & Distributors,Iqzan Holding Bhd,False
+6742232,Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",G3 Global Bhd,False
+6742469,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Services,Riverview Rubber Estates Bhd,False
+6742715,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Operating Companies,Rapid Synergy Bhd,False
+6750729,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats,Rex Industry Bhd,False
+6752349,Consumer Staples,"Food, Beverage & Tobacco",Tobacco,Tobacco,British American Tobacco (Malaysia) Bhd,True
+6770556,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Services,Sarawak Oil Palms Bhd,True
+6771429,Materials,Materials,Paper & Forest Products,Forest Products,W T K Holdings Bhd,False
+6773737,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,Eco World Development Group Bhd,True
+6776598,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Diversified Real Estate Activities,I-Bhd,False
+6783178,Consumer Discretionary,Automobiles & Components,Automobile Components,Automotive Parts & Equipment,Sapura Industrial Bhd,False
+6786757,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Diversified Real Estate Activities,SEAL Incorporated Bhd,False
+6787590,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Diversified Real Estate Activities,SHL Consolidated Bhd,False
+6788816,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Rohas Tecnic Bhd,False
+6791427,Utilities,Utilities,Water Utilities,Water Utilities,Salcon Bhd,False
+6791870,Industrials,Capital Goods,Machinery,Construction Machinery & Heavy Transportation Equipment,Boustead Heavy Industries Corporation Bhd,False
+6794017,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,Selangor Dredging Bhd,False
+6795322,Communication Services,Media & Entertainment,Media,Advertising,Seni Jaya Corporation Bhd,False
+6798150,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Home Furnishings,Shh Resources Holdings Bhd,False
+6799971,Industrials,Commercial  & Professional Services,Commercial Services & Supplies,Office Services & Supplies,Pelikan International Corporation Bhd,False
+6801133,Industrials,Capital Goods,Building Products,Building Products,Sarawak Consolidated Industries Bhd,False
+6801519,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",Shangri-La Hotels (Malaysia) Bhd,False
+6803504,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing,Hengyuan Refining Company Bhd,True
+6807272,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,Sbc Corporation Bhd,False
+6808123,Financials,Insurance,Insurance,Multi-line Insurance,Syarikat Takaful Malaysia Keluarga Bhd,True
+6809137,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats,Sinmah Capital Bhd,False
+6810883,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Services,Sin Heng Chan (Malaya) Bhd,False
+6812555,Communication Services,Media & Entertainment,Media,Broadcasting,Media Prima Bhd,False
+6812599,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,Semiconductor Materials & Equipment,Turiya Bhd,False
+6812771,Industrials,Capital Goods,Trading Companies & Distributors,Trading Companies & Distributors,Kumpulan Perangsang Selangor Bhd,False
+6820796,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Services,Innoprise Plantations Bhd,False
+6824260,Materials,Materials,Chemicals,Commodity Chemicals,Southern Acids (M) Bhd,False
+6825337,Materials,Materials,Metals & Mining,Steel,Southern Steel Bhd,False
+6825423,Materials,Materials,Metals & Mining,Steel,South Malaysia Industries Bhd,False
+6825531,Materials,Materials,Paper & Forest Products,Forest Products,Jaya Tiasa Holdings Bhd,False
+6834601,Industrials,Transportation,Transportation Infrastructure,Marine Ports & Services,Suria Capital Holdings Bhd,False
+6841571,Communication Services,Media & Entertainment,Media,Publishing,Star Media Group Bhd,False
+6856865,Materials,Materials,Paper & Forest Products,Forest Products,Subur Tiasa Holdings Bhd,False
+6860684,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Services,Sungei Bagan Rubber Company (Malaya) Bhd,False
+6868398,Communication Services,Telecommunication Services,Diversified Telecommunication Services,Integrated Telecommunication Services,Telekom Malaysia Bhd,True
+6868774,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,S P Setia Bhd,True
+6868815,Consumer Discretionary,Consumer Services,Diversified Consumer Services,Education Services,Seg International Bhd,False
+6870586,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,Talam Transform Bhd,False
+6871125,Consumer Discretionary,Automobiles & Components,Automobiles,Automobile Manufacturers,Tan Chong Motor Holdings Bhd,False
+6874544,Financials,Financial Services,Financial Services,Multi-Sector Holdings,Igb Bhd,False
+6876960,Industrials,Capital Goods,Industrial Conglomerates,Industrial Conglomerates,Texchem Resources Bhd,False
+6877736,Industrials,Transportation,Ground Transportation,Passenger Ground Transportation,G Capital Bhd,False
+6882097,Industrials,Transportation,Air Freight & Logistics,Air Freight & Logistics,Transocean Holdings Bhd,False
+6882729,Consumer Discretionary,Consumer Discretionary Distribution & Retail,Specialty Retail,Apparel Retail,Teo Guan Lee Corporation Bhd,False
+6889612,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Household Appliances,Milux Corporation Bhd,False
+6891833,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,Semiconductors,Dagang NeXchange Bhd,True
+6892063,Industrials,Transportation,Air Freight & Logistics,Air Freight & Logistics,Tiong Nam Logistics Holdings Bhd,False
+6892160,Consumer Discretionary,Consumer Discretionary Distribution & Retail,Distributors,Distributors,Pegasus Heights Bhd,False
+6898403,Materials,Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,Tomypak Holdings Bhd,False
+6902014,Industrials,Capital Goods,Trading Companies & Distributors,Trading Companies & Distributors,WMG Holdings Bhd,False
+6904021,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Services,TDM Bhd,False
+6904612,Utilities,Utilities,Electric Utilities,Electric Utilities,Tenaga Nasional Bhd,True
+6904690,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Zelan Bhd,False
+6007919,Materials,Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,Advanced Packaging Technology (M) Bhd,False
+6009454,Financials,Banks,Banks,Diversified Banks,Affin Bank Bhd,True
+6010973,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats,Ajinomoto (Malaysia) Bhd,False
+6013002,Industrials,Capital Goods,Building Products,Building Products,Ajiya Bhd,False
+6013671,Industrials,Capital Goods,Machinery,Industrial Machinery & Supplies & Components,Kobay Technology Bhd,False
+6016829,Industrials,Capital Goods,Building Products,Building Products,YLI Holdings Bhd,False
+6017123,Materials,Materials,Metals & Mining,Steel,Asteel Group Bhd,False
+6017327,Consumer Discretionary,Automobiles & Components,Automobile Components,Automotive Parts & Equipment,Mce Holdings Bhd,False
+6017424,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,ARK Resources Holdings Bhd,False
+6018375,Industrials,Capital Goods,Trading Companies & Distributors,Trading Companies & Distributors,Chuan Huat Resources Bhd,False
+6019312,Industrials,Capital Goods,Trading Companies & Distributors,Trading Companies & Distributors,PTT Synergy Group Bhd,False
+6021953,Materials,Materials,Metals & Mining,Aluminum,Alcom Group Bhd,False
+6024565,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,Parkwood Holdings Bhd,False
+6024996,Consumer Discretionary,Consumer Discretionary Distribution & Retail,Specialty Retail,Other Specialty Retail,Amway (Malaysia) Holdings Bhd,False
+6028471,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Y&G Corporation Bhd,False
+6030409,Consumer Discretionary,Consumer Discretionary Distribution & Retail,Broadline Retail,Broadline Retail,Parkson Holdings Bhd,False
+6031758,Materials,Materials,Chemicals,Diversified Chemicals,Ancom Nylex Bhd,False
+6034155,Industrials,Commercial  & Professional Services,Commercial Services & Supplies,Office Services & Supplies,AHB Holdings Bhd,False
+6036322,Consumer Discretionary,Automobiles & Components,Automobile Components,Automotive Parts & Equipment,Pasdec Holdings Bhd,False
+6039514,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,Kub Malaysia Bhd,False
+6040947,Industrials,Commercial  & Professional Services,Commercial Services & Supplies,Office Services & Supplies,Komarkcorp Bhd,False
+6041940,Industrials,Capital Goods,Building Products,Building Products,Woodlandor Holdings Bhd,False
+6044370,Materials,Materials,Metals & Mining,Steel,Ann Joo Resources Bhd,False
+6045179,Industrials,Transportation,Transportation Infrastructure,Marine Ports & Services,Perak Corporation Bhd,False
+6045470,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats,Apollo Food Holdings Bhd,False
+6045942,Financials,Financial Services,Capital Markets,Investment Banking & Brokerage,Apex Equity Holdings Bhd,False
+6047023,Financials,Banks,Banks,Diversified Banks,AMMB Holdings Bhd,True
+6047465,Industrials,Commercial  & Professional Services,Commercial Services & Supplies,Office Services & Supplies,Asia File Corporation Bhd,False
+6053990,Industrials,Capital Goods,Machinery,Construction Machinery & Heavy Transportation Equipment,CME Group Bhd,False
+6057680,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Services,Genting Plantations Bhd,False
+6069061,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,AYER Holdings Bhd,False
+6073813,Consumer Discretionary,Consumer Discretionary Distribution & Retail,Distributors,Distributors,Fiamma Holdings Bhd,False
+6073835,Materials,Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,Master-Pack Group Bhd,False
+6075745,Financials,Banks,Banks,Diversified Banks,CIMB Group Holdings Bhd,True
+6081593,Energy,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,Scomi Energy Services Bhd,False
+6081731,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Zecon Bhd,False
+6083748,Consumer Discretionary,Consumer Discretionary Distribution & Retail,Distributors,Distributors,FCW Holdings Bhd,False
+6084086,Information Technology,Technology Hardware & Equipment,"Electronic Equipment, Instruments & Components",Technology Distributors,Amtel Holdings Bhd,False
+6084622,Materials,Materials,Chemicals,Commodity Chemicals,Batu Kawan Bhd,False
+6084707,Industrials,Capital Goods,Industrial Conglomerates,Industrial Conglomerates,Advance Synergy Bhd,False
+6085380,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure",Restaurants,Borneo Oil Bhd,False
+6086190,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Bintai Kinden Corporation Bhd,False
+6086231,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats,CCK Consolidated Holdings Bhd,False
+6086509,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,BCB Bhd,False
+6087375,Materials,Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,Thong Guan Industries Bhd,False
+6089360,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Diversified Real Estate Activities,GuocoLand (Malaysia) Bhd,False
+6091462,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,Yong Tai Bhd,False
+6092391,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Services,Pinehill Pacific Bhd,False
+6092904,Industrials,Transportation,Air Freight & Logistics,Air Freight & Logistics,See Hup Consolidated Bhd,False
+6093167,Consumer Discretionary,Consumer Discretionary Distribution & Retail,Specialty Retail,Apparel Retail,Padini Holdings Berhad,True
+6095969,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Fajarbaru Builder Group Bhd,False
+6096166,Industrials,Capital Goods,Machinery,Industrial Machinery & Supplies & Components,Kumpulan H & L High-Tech Bhd,False
+6100324,Materials,Materials,Construction Materials,Construction Materials,BIG Industries Bhd,False
+6100379,Financials,Banks,Banks,Diversified Banks,Bank Islam Malaysia Bhd,False
+6100517,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Bina Puri Holdings Bhd,False
+6100562,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Bina Darulaman Bhd,False
+6100863,Materials,Materials,Construction Materials,Construction Materials,Hume Cement Industries Bhd,False
+6106195,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Services,Astral Asia Bhd,False
+6108317,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,PLB Engineering Bhd,False
+6110668,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,Symphony Life Bhd,False
+6111810,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Household Appliances,Khind Holdings Bhd,False
+6113043,Consumer Discretionary,Automobiles & Components,Automobile Components,Automotive Parts & Equipment,New Hoong Fatt Holdings Bhd,False
+6113429,Information Technology,Technology Hardware & Equipment,"Electronic Equipment, Instruments & Components",Electronic Manufacturing Services,VS Industry Bhd,True
+6114701,Materials,Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,Box-Pak (Malaysia) Bhd,False
+6130019,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Stella Holdings Bhd,False
+6136415,Materials,Materials,Containers & Packaging,"Metal, Glass & Plastic Containers",Bright Packaging Industry Bhd,False
+6137311,Financials,Insurance,Insurance,Life & Health Insurance,Manulife Holdings Bhd,False
+6140568,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Vizione Holdings Bhd,False
+6141635,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,Ocr Group Bhd,False
+6145325,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",Lien Hoe Corporation Bhd,False
+6145347,Materials,Materials,Paper & Forest Products,Forest Products,Eksons Corporation Bhd,False
+6149792,Materials,Materials,Paper & Forest Products,Forest Products,BTM Resources Bhd,False
+6150460,Industrials,Capital Goods,Building Products,Building Products,Seacera Group Bhd,False
+6153362,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Ahmad Zaki Resources Bhd,False
+6153414,Financials,Insurance,Insurance,Life & Health Insurance,MAA Group Bhd,False
+6154376,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,Kerjaya Prospek Property Bhd,False
+6159906,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats,CI Holdings Bhd,False
 6173683,Industrials,Capital Goods,Trading Companies & Distributors,Trading Companies & Distributors,Harrisons Holdings (Malaysia) Bhd,False
 6175407,Industrials,Capital Goods,Building Products,Building Products,White Horse Bhd,False
 6178042,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,TWL Holdings Bhd,False
@@ -101,6 +336,7 @@ id,gics_sector_name,gics_industry_group_name,gics_industry_name,gics_sub_industr
 6436450,Financials,Banks,Banks,Diversified Banks,Hong Leong Financial Group Bhd,True
 6436717,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Ho Hup Construction Company Bhd,False
 6436892,Financials,Banks,Banks,Diversified Banks,Hong Leong Bank Bhd,True
+6449414,Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goods",Textiles,Reneuco Bhd,False
 6449425,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,Meridian Bhd,False
 6455217,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,IJM Corporation Bhd,False
 6456221,Financials,Financial Services,Capital Markets,Investment Banking & Brokerage,Insas Bhd,False
@@ -149,84 +385,6 @@ id,gics_sector_name,gics_industry_group_name,gics_industry_name,gics_sub_industr
 6518875,Information Technology,Software & Services,Software,Systems Software,Willowglen Msc Bhd,False
 6520234,Information Technology,Software & Services,IT Services,IT Consulting & Other Services,Theta Edge Bhd,False
 6520427,Industrials,Capital Goods,Building Products,Building Products,YB Ventures Bhd,False
-6007919,Materials,Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,Advanced Packaging Technology (M) Bhd,False
-6009454,Financials,Banks,Banks,Diversified Banks,Affin Bank Bhd,True
-6010973,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats,Ajinomoto (Malaysia) Bhd,False
-6013002,Industrials,Capital Goods,Building Products,Building Products,Ajiya Bhd,False
-6013671,Industrials,Capital Goods,Machinery,Industrial Machinery & Supplies & Components,Kobay Technology Bhd,False
-6016829,Industrials,Capital Goods,Building Products,Building Products,YLI Holdings Bhd,False
-6017123,Materials,Materials,Metals & Mining,Steel,Asteel Group Bhd,False
-6017327,Consumer Discretionary,Automobiles & Components,Automobile Components,Automotive Parts & Equipment,Mce Holdings Bhd,False
-6017424,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,ARK Resources Holdings Bhd,False
-6018375,Industrials,Capital Goods,Trading Companies & Distributors,Trading Companies & Distributors,Chuan Huat Resources Bhd,False
-6019312,Industrials,Capital Goods,Trading Companies & Distributors,Trading Companies & Distributors,PTT Synergy Group Bhd,False
-6021953,Materials,Materials,Metals & Mining,Aluminum,Alcom Group Bhd,False
-6024565,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,Parkwood Holdings Bhd,False
-6024996,Consumer Discretionary,Consumer Discretionary Distribution & Retail,Specialty Retail,Other Specialty Retail,Amway (Malaysia) Holdings Bhd,False
-6028471,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Y&G Corporation Bhd,False
-6030409,Consumer Discretionary,Consumer Discretionary Distribution & Retail,Broadline Retail,Broadline Retail,Parkson Holdings Bhd,False
-6031758,Materials,Materials,Chemicals,Diversified Chemicals,Ancom Nylex Bhd,False
-6034155,Industrials,Commercial  & Professional Services,Commercial Services & Supplies,Office Services & Supplies,AHB Holdings Bhd,False
-6036322,Consumer Discretionary,Automobiles & Components,Automobile Components,Automotive Parts & Equipment,Pasdec Holdings Bhd,False
-6039514,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,Kub Malaysia Bhd,False
-6040947,Industrials,Commercial  & Professional Services,Commercial Services & Supplies,Office Services & Supplies,Komarkcorp Bhd,False
-6041940,Industrials,Capital Goods,Building Products,Building Products,Woodlandor Holdings Bhd,False
-6044370,Materials,Materials,Metals & Mining,Steel,Ann Joo Resources Bhd,False
-6045179,Industrials,Transportation,Transportation Infrastructure,Marine Ports & Services,Perak Corporation Bhd,False
-6045470,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats,Apollo Food Holdings Bhd,False
-6045942,Financials,Financial Services,Capital Markets,Investment Banking & Brokerage,Apex Equity Holdings Bhd,False
-6047023,Financials,Banks,Banks,Diversified Banks,AMMB Holdings Bhd,True
-6047465,Industrials,Commercial  & Professional Services,Commercial Services & Supplies,Office Services & Supplies,Asia File Corporation Bhd,False
-6053990,Industrials,Capital Goods,Machinery,Construction Machinery & Heavy Transportation Equipment,CME Group Bhd,False
-6057680,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Services,Genting Plantations Bhd,False
-6069061,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,AYER Holdings Bhd,False
-6073813,Consumer Discretionary,Consumer Discretionary Distribution & Retail,Distributors,Distributors,Fiamma Holdings Bhd,False
-6073835,Materials,Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,Master-Pack Group Bhd,False
-6075745,Financials,Banks,Banks,Diversified Banks,CIMB Group Holdings Bhd,True
-6081593,Energy,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,Scomi Energy Services Bhd,False
-6081731,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Zecon Bhd,False
-6083748,Consumer Discretionary,Consumer Discretionary Distribution & Retail,Distributors,Distributors,FCW Holdings Bhd,False
-6084086,Information Technology,Technology Hardware & Equipment,"Electronic Equipment, Instruments & Components",Technology Distributors,Amtel Holdings Bhd,False
-6084622,Materials,Materials,Chemicals,Commodity Chemicals,Batu Kawan Bhd,False
-6084707,Industrials,Capital Goods,Industrial Conglomerates,Industrial Conglomerates,Advance Synergy Bhd,False
-6085380,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure",Restaurants,Borneo Oil Bhd,False
-6086190,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Bintai Kinden Corporation Bhd,False
-6086231,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats,CCK Consolidated Holdings Bhd,False
-6086509,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,BCB Bhd,False
-6087375,Materials,Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,Thong Guan Industries Bhd,False
-6089360,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Diversified Real Estate Activities,GuocoLand (Malaysia) Bhd,False
-6091462,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,Yong Tai Bhd,False
-6092391,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Services,Pinehill Pacific Bhd,False
-6092904,Industrials,Transportation,Air Freight & Logistics,Air Freight & Logistics,See Hup Consolidated Bhd,False
-6093167,Consumer Discretionary,Consumer Discretionary Distribution & Retail,Specialty Retail,Apparel Retail,Padini Holdings Berhad,True
-6095969,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Fajarbaru Builder Group Bhd,False
-6096166,Industrials,Capital Goods,Machinery,Industrial Machinery & Supplies & Components,Kumpulan H & L High-Tech Bhd,False
-6100324,Materials,Materials,Construction Materials,Construction Materials,BIG Industries Bhd,False
-6100379,Financials,Banks,Banks,Diversified Banks,Bank Islam Malaysia Bhd,False
-6100517,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Bina Puri Holdings Bhd,False
-6100562,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Bina Darulaman Bhd,False
-6100863,Materials,Materials,Construction Materials,Construction Materials,Hume Cement Industries Bhd,False
-6106195,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Services,Astral Asia Bhd,False
-6108317,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,PLB Engineering Bhd,False
-6110668,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,Symphony Life Bhd,False
-6111810,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Household Appliances,Khind Holdings Bhd,False
-6113043,Consumer Discretionary,Automobiles & Components,Automobile Components,Automotive Parts & Equipment,New Hoong Fatt Holdings Bhd,False
-6113429,Information Technology,Technology Hardware & Equipment,"Electronic Equipment, Instruments & Components",Electronic Manufacturing Services,VS Industry Bhd,True
-6114701,Materials,Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,Box-Pak (Malaysia) Bhd,False
-6130019,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Stella Holdings Bhd,False
-6136415,Materials,Materials,Containers & Packaging,"Metal, Glass & Plastic Containers",Bright Packaging Industry Bhd,False
-6137311,Financials,Insurance,Insurance,Life & Health Insurance,Manulife Holdings Bhd,False
-6140568,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Vizione Holdings Bhd,False
-6141635,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,Ocr Group Bhd,False
-6145325,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",Lien Hoe Corporation Bhd,False
-6145347,Materials,Materials,Paper & Forest Products,Forest Products,Eksons Corporation Bhd,False
-6149792,Materials,Materials,Paper & Forest Products,Forest Products,BTM Resources Bhd,False
-6150460,Industrials,Capital Goods,Building Products,Building Products,Seacera Group Bhd,False
-6153362,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Ahmad Zaki Resources Bhd,False
-6153414,Financials,Insurance,Insurance,Life & Health Insurance,MAA Group Bhd,False
-6154376,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,Kerjaya Prospek Property Bhd,False
-6159906,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats,CI Holdings Bhd,False
-6449414,Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goods",Textiles,Reneuco Bhd,False
 6522672,Financials,Insurance,Insurance,Property & Casualty Insurance,Lpi Capital Bhd,False
 6523589,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,Country View Bhd,False
 6524151,Materials,Materials,Metals & Mining,Steel,Lysaght Galvanized Steel Bhd,False
@@ -270,165 +428,8 @@ id,gics_sector_name,gics_industry_group_name,gics_industry_name,gics_sub_industr
 6574877,Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",Jerasia Capital Bhd,False
 6575740,Utilities,Utilities,Independent Power and Renewable Electricity Producers,Renewable Electricity,Mega First Corporation Bhd,False
 6577401,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,Menang Corporation (M) Bhd,False
-6577898,Materials,Materials,Paper & Forest Products,Forest Products,Mentiga Corporation Bhd,False
-6579678,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,MKH Bhd,False
-6580391,Consumer Discretionary,Consumer Discretionary Distribution & Retail,Specialty Retail,Apparel Retail,Mesb Bhd,False
-6581844,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,Thriven Global Bhd,False
-6583486,Industrials,Commercial  & Professional Services,Commercial Services & Supplies,Commercial Printing,Fima Corporation Bhd,False
-6586786,Communication Services,Telecommunication Services,Wireless Telecommunication Services,Wireless Telecommunication Services,XOX Technology Bhd,False
-6587121,Information Technology,Software & Services,Software,Application Software,Lambo Group Bhd,False
-6587347,Materials,Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,Ornapaper Bhd,False
-6592921,Materials,Materials,Metals & Mining,Steel,Lion Industries Corporation Bhd,False
-6595652,Materials,Materials,Paper & Forest Products,Forest Products,Minho (M) Bhd,False
-6599074,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Mitrajaya Holdings Bhd,False
-6599438,Materials,Materials,Paper & Forest Products,Forest Products,Mieco Chipboard Bhd,False
-6603362,Consumer Staples,Household & Personal Products,Household Products,Household Products,NTPM Holdings Bhd,False
-6606565,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Services,Harn Len Corporation Bhd,False
-6608453,Information Technology,Software & Services,Software,Systems Software,Netx Holdings Bhd,False
-6608798,Materials,Materials,Containers & Packaging,"Metal, Glass & Plastic Containers",CYL Corp Bhd,False
-6609230,Materials,Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,Muda Holdings Bhd,False
-6609304,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Muhibbah Engineering (M) Bhd,False
-6609597,Financials,Financial Services,Financial Services,Multi-Sector Holdings,Mulpha International Bhd,False
-6609627,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure",Casinos & Gaming,Magnum Bhd,False
-6628150,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Services,Negri Sembilan Oil Palms Bhd,False
-6629335,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats,Nestle (Malaysia) Bhd,True
-6632300,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Crest Builder Holdings Bhd,False
-6644372,Materials,Materials,Chemicals,Diversified Chemicals,Hexza Corp Bhd,False
-6654898,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Services,BLD Plantation Bhd,False
-6654984,Industrials,Commercial  & Professional Services,Commercial Services & Supplies,Environmental & Facilities Services,JAG Bhd,False
-6655040,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,OSK Holdings Bhd,False
-6655200,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats,Ocb Bhd,False
-6658317,Industrials,Capital Goods,Machinery,Industrial Machinery & Supplies & Components,Pentamaster Corporation Bhd,True
-6658458,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",Parlo Bhd,False
-6660840,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,Oriental Interest Bhd,False
-6661434,Consumer Discretionary,Automobiles & Components,Automobiles,Automobile Manufacturers,Oriental Holdings Bhd,False
-6665577,Industrials,Capital Goods,Trading Companies & Distributors,Trading Companies & Distributors,Pansar Bhd,False
-6666592,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,Maxim Global Bhd,False
-6667261,Materials,Materials,Chemicals,Commodity Chemicals,RGT Bhd,False
-6668918,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats,Pan Malaysia Corporation Bhd,False
-6668963,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,Asian Pac Holdings Bhd,False
-6670236,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Diversified Real Estate Activities,Paramount Corporation Bhd,False
-6673053,Industrials,Capital Goods,Machinery,Industrial Machinery & Supplies & Components,YBS International Bhd,False
-6673268,Information Technology,Software & Services,Software,Application Software,IFCA MSC Bhd,False
-6673699,Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",Prolexus Bhd,False
-6674711,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Housewares & Specialties,CSH Alliance Bhd,False
-6674904,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Protasco Bhd,False
-6677215,Financials,Insurance,Insurance,Property & Casualty Insurance,Pacific & Orient Berhad,False
-6677442,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,PJBumi Bhd,False
-6679932,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",Pan Malaysia Holdings Bhd,False
-6680116,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,M K Land Holdings Bhd,False
-6680310,Information Technology,Software & Services,Software,Application Software,Nova Msc Bhd,False
-6681669,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats,PPB Group Bhd,True
-6685081,Materials,Materials,Metals & Mining,Steel,Hiap Teck Venture Bhd,False
-6690104,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Home Furnishings,Paragon Union Bhd,False
-6690290,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,AWC Bhd,False
-6691077,Materials,Materials,Chemicals,Commodity Chemicals,Luster Industries Bhd,False
-6691464,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Naim Holdings Bhd,False
-6692326,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Services,PLS Plantations Bhd,False
-6692768,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,Global Oriental Bhd,False
-6693266,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Pintaras Jaya Bhd,False
-6693589,Materials,Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,KYM Holdings Bhd,False
-6694247,Industrials,Capital Goods,Building Products,Building Products,PGF Capital Bhd,False
-6695938,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing,Petronas Dagangan Bhd,True
-6696726,Industrials,Capital Goods,Trading Companies & Distributors,Trading Companies & Distributors,Lion Posim Bhd,False
-6697644,Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",PCCS Group Bhd,False
-6703972,Utilities,Utilities,Gas Utilities,Gas Utilities,Petronas Gas Bhd,True
-6705439,Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goods",Textiles,PRG Holdings Bhd,False
-6707350,Materials,Materials,Paper & Forest Products,Forest Products,Dominant Enterprise Bhd,False
-6708096,Information Technology,Technology Hardware & Equipment,"Electronic Equipment, Instruments & Components",Electronic Components,Pne Pcb Bhd,False
-6708739,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Lfe Corporation Bhd,False
-6710358,Materials,Materials,Construction Materials,Construction Materials,Quality Concrete Holdings Bhd,False
-6710723,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats,Able Global Bhd,False
-6711469,Materials,Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,Versatile Creative Bhd,False
-6711641,Materials,Materials,Metals & Mining,Aluminum,PMB Technology Bhd,True
-6711793,Information Technology,Software & Services,IT Services,IT Consulting & Other Services,Digistar Corporation Bhd,False
-6712365,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,Ynh Property Bhd,False
-6712406,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,MGB Bhd,False
-6712417,Materials,Materials,Chemicals,Specialty Chemicals,Toyo Ventures Holdings Bhd,False
-6714800,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,Plenitude Bhd,False
-6715171,Information Technology,Technology Hardware & Equipment,"Electronic Equipment, Instruments & Components",Electronic Components,Scope Industries Bhd,False
-6716055,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,S & F Capital Bhd,False
-6719128,Industrials,Transportation,Marine Transportation,Marine Transportation,Malaysian Bulk Carriers Bhd,False
-6721413,Materials,Materials,Containers & Packaging,"Metal, Glass & Plastic Containers",Ralco Corporation Bhd,False
-6724122,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Ageson Bhd,False
-6725631,Energy,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,Marine & General Bhd,False
-6725653,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats,TPC Plus Bhd,False
-6726515,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats,CAB Cakaran Corporation Bhd,False
 6726827,Health Care,Health Care Equipment & Services,Health Care Equipment & Supplies,Health Care Supplies,One Glove Group Bhd,False
-6726861,Information Technology,Technology Hardware & Equipment,Communications Equipment,Communications Equipment,OPCOM Holdings Bhd,False
-6728287,Information Technology,Software & Services,IT Services,IT Consulting & Other Services,Key Alliance Group Bhd,False
-6728782,Industrials,Transportation,Marine Transportation,Marine Transportation,Harbour-Link Group Bhd,False
-6729525,Communication Services,Telecommunication Services,Diversified Telecommunication Services,Alternative Carriers,Redtone Digital Bhd,False
-6729837,Health Care,"Pharmaceuticals, Biotechnology & Life Sciences",Pharmaceuticals,Pharmaceuticals,YSP Southeast Asia Holding Bhd,False
-6730011,Information Technology,Technology Hardware & Equipment,"Electronic Equipment, Instruments & Components",Electronic Manufacturing Services,ATA IMS Bhd,False
-6731036,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure",Casinos & Gaming,RGB International Bhd,False
-6731371,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",Avillion Bhd,False
-6731382,Materials,Materials,Chemicals,Specialty Chemicals,Artroniq Berhad,False
-6735931,Information Technology,Technology Hardware & Equipment,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",OpenSys (M) Bhd,False
-6739869,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,Lagenda Properties Bhd,False
-6740236,Information Technology,Software & Services,IT Services,IT Consulting & Other Services,ARB Bhd,False
-6740281,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Home Furnishings,Sern Kou Resources Bhd,False
-6740957,Information Technology,Software & Services,IT Services,IT Consulting & Other Services,MMAG Holdings Bhd,False
-6740979,Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",Poh Kong Holdings Bhd,False
-6741701,Industrials,Capital Goods,Trading Companies & Distributors,Trading Companies & Distributors,Iqzan Holding Bhd,False
-6742232,Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",G3 Global Bhd,False
-6742469,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Services,Riverview Rubber Estates Bhd,False
-6742715,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Operating Companies,Rapid Synergy Bhd,False
-6750729,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats,Rex Industry Bhd,False
-6752349,Consumer Staples,"Food, Beverage & Tobacco",Tobacco,Tobacco,British American Tobacco (Malaysia) Bhd,True
 6759254,Consumer Staples,Household & Personal Products,Household Products,Household Products,Hextar Healthcare Bhd,False
-6770556,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Services,Sarawak Oil Palms Bhd,True
-6771429,Materials,Materials,Paper & Forest Products,Forest Products,W T K Holdings Bhd,False
-6773737,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,Eco World Development Group Bhd,True
-6776598,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Diversified Real Estate Activities,I-Bhd,False
-6783178,Consumer Discretionary,Automobiles & Components,Automobile Components,Automotive Parts & Equipment,Sapura Industrial Bhd,False
-6786757,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Diversified Real Estate Activities,SEAL Incorporated Bhd,False
-6787590,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Diversified Real Estate Activities,SHL Consolidated Bhd,False
-6788816,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Rohas Tecnic Bhd,False
-6791427,Utilities,Utilities,Water Utilities,Water Utilities,Salcon Bhd,False
-6791870,Industrials,Capital Goods,Machinery,Construction Machinery & Heavy Transportation Equipment,Boustead Heavy Industries Corporation Bhd,False
-6794017,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,Selangor Dredging Bhd,False
-6795322,Communication Services,Media & Entertainment,Media,Advertising,Seni Jaya Corporation Bhd,False
-6798150,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Home Furnishings,Shh Resources Holdings Bhd,False
-6799971,Industrials,Commercial  & Professional Services,Commercial Services & Supplies,Office Services & Supplies,Pelikan International Corporation Bhd,False
-6801133,Industrials,Capital Goods,Building Products,Building Products,Sarawak Consolidated Industries Bhd,False
-6801519,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",Shangri-La Hotels (Malaysia) Bhd,False
-6803504,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing,Hengyuan Refining Company Bhd,True
-6807272,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,Sbc Corporation Bhd,False
-6808123,Financials,Insurance,Insurance,Multi-line Insurance,Syarikat Takaful Malaysia Keluarga Bhd,True
-6809137,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats,Sinmah Capital Bhd,False
-6810883,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Services,Sin Heng Chan (Malaya) Bhd,False
-6812555,Communication Services,Media & Entertainment,Media,Broadcasting,Media Prima Bhd,False
-6812599,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,Semiconductor Materials & Equipment,Turiya Bhd,False
-6812771,Industrials,Capital Goods,Trading Companies & Distributors,Trading Companies & Distributors,Kumpulan Perangsang Selangor Bhd,False
-6820796,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Services,Innoprise Plantations Bhd,False
-6824260,Materials,Materials,Chemicals,Commodity Chemicals,Southern Acids (M) Bhd,False
-6825337,Materials,Materials,Metals & Mining,Steel,Southern Steel Bhd,False
-6825423,Materials,Materials,Metals & Mining,Steel,South Malaysia Industries Bhd,False
-6825531,Materials,Materials,Paper & Forest Products,Forest Products,Jaya Tiasa Holdings Bhd,False
-6834601,Industrials,Transportation,Transportation Infrastructure,Marine Ports & Services,Suria Capital Holdings Bhd,False
-6841571,Communication Services,Media & Entertainment,Media,Publishing,Star Media Group Bhd,False
-6856865,Materials,Materials,Paper & Forest Products,Forest Products,Subur Tiasa Holdings Bhd,False
-6860684,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Services,Sungei Bagan Rubber Company (Malaya) Bhd,False
-6868398,Communication Services,Telecommunication Services,Diversified Telecommunication Services,Integrated Telecommunication Services,Telekom Malaysia Bhd,True
-6868774,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,S P Setia Bhd,True
-6868815,Consumer Discretionary,Consumer Services,Diversified Consumer Services,Education Services,Seg International Bhd,False
-6870586,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,Talam Transform Bhd,False
-6871125,Consumer Discretionary,Automobiles & Components,Automobiles,Automobile Manufacturers,Tan Chong Motor Holdings Bhd,False
-6874544,Financials,Financial Services,Financial Services,Multi-Sector Holdings,Igb Bhd,False
-6876960,Industrials,Capital Goods,Industrial Conglomerates,Industrial Conglomerates,Texchem Resources Bhd,False
-6877736,Industrials,Transportation,Ground Transportation,Passenger Ground Transportation,G Capital Bhd,False
-6882097,Industrials,Transportation,Air Freight & Logistics,Air Freight & Logistics,Transocean Holdings Bhd,False
-6882729,Consumer Discretionary,Consumer Discretionary Distribution & Retail,Specialty Retail,Apparel Retail,Teo Guan Lee Corporation Bhd,False
-6889612,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Household Appliances,Milux Corporation Bhd,False
-6891833,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,Semiconductors,Dagang NeXchange Bhd,True
-6892063,Industrials,Transportation,Air Freight & Logistics,Air Freight & Logistics,Tiong Nam Logistics Holdings Bhd,False
-6892160,Consumer Discretionary,Consumer Discretionary Distribution & Retail,Distributors,Distributors,Pegasus Heights Bhd,False
-6898403,Materials,Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,Tomypak Holdings Bhd,False
-6902014,Industrials,Capital Goods,Trading Companies & Distributors,Trading Companies & Distributors,WMG Holdings Bhd,False
-6904021,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Services,TDM Bhd,False
-6904612,Utilities,Utilities,Electric Utilities,Electric Utilities,Tenaga Nasional Bhd,True
-6904690,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Zelan Bhd,False
 6907440,Industrials,Commercial  & Professional Services,Commercial Services & Supplies,Commercial Printing,Tien Wah Press Holdings Bhd,False
 6909093,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats,Teck Guan Perdana Bhd,False
 6910266,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,Pimpinan Ehsan Bhd,False
@@ -652,7 +653,7 @@ B1WD8F4,Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & 
 B1XFDH6,Consumer Staples,"Food, Beverage & Tobacco",Beverages,Soft Drinks & Non-alcoholic Beverages,Power Root Bhd,False
 B1Y3WG1,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Services,IOI Corporation Bhd,True
 B1Y9MF8,Energy,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,Deleum Bhd,False
-B1YY2W0,Industrials,Transportation,Ground Transportation,Passenger Ground Transportation,Konsortium Transnasional Bhd,False
+B1YY2W0,Industrials,Transportation,Ground Transportation,Passenger Ground Transportation,Epicon Bhd,False
 B1YYNJ4,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,Mah Sing Group Bhd,True
 B2369M3,Energy,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,Petra Energy Bhd,False
 B23C352,Industrials,Capital Goods,Building Products,Building Products,Scanwolf Corporation Bhd,False
@@ -715,7 +716,7 @@ B4Z0Z18,Information Technology,Software & Services,Software,Systems Software,Evd
 B5387L5,Communication Services,Telecommunication Services,Wireless Telecommunication Services,Wireless Telecommunication Services,Maxis Bhd,True
 B549KB8,Consumer Discretionary,Consumer Discretionary Distribution & Retail,Distributors,Distributors,Yoong Onn Corporation Bhd,False
 B54JP79,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,Semiconductors,Inari Amertron Bhd,True
-B56H333,Industrials,Transportation,Marine Transportation,Marine Transportation,Shin Yang Shipping Corporation Bhd,False
+B56H333,Industrials,Transportation,Marine Transportation,Marine Transportation,Shin Yang Group Bhd,False
 B56NX86,Industrials,Capital Goods,Machinery,Industrial Machinery & Supplies & Components,Muar Ban Lee Group Bhd,False
 B58PQ81,,,,,Catcha Digital Bhd,False
 B58PZN9,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure",Restaurants,Berjaya Food Bhd,True
@@ -913,7 +914,6 @@ BYZLX84,Real Estate,Equity Real Estate Investment Trusts (REITs),Retail REITs,Re
 BZ57CS2,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,Semiconductor Materials & Equipment,MI Technovation Bhd,True
 BZ6T4Z8,Industrials,Commercial  & Professional Services,Commercial Services & Supplies,Environmental & Facilities Services,Gfm Services Bhd,False
 BZ982W5,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Advancecon Holdings Bhd,False
-6671273,Industrials,Capital Goods,Building Products,Building Products,Astino Bhd,False
 6520580,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Services,NPC Resources Bhd,False
 6563790,Information Technology,Technology Hardware & Equipment,"Electronic Equipment, Instruments & Components",Technology Distributors,Pineapple Resources Bhd,False
 6744216,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,Lebtech Bhd,False
@@ -970,8 +970,8 @@ BYVNW76,Energy,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services
 6414199,,,,,Anzo Holdings Bhd,False
 BD1KFK4,Health Care,Health Care Equipment & Services,Health Care Providers & Services,Health Care  Services,Metro Healthcare Berhad,False
 BGMGJK0,Communication Services,Media & Entertainment,Media,Advertising,MCOM Holdings Bhd,False
-6038210,Consumer Discretionary,Consumer Discretionary Distribution & Retail,Specialty Retail,Other Specialty Retail,Atlan Holdings Bhd,False
 B0984H9,Industrials,Commercial  & Professional Services,Professional Services,Research & Consulting Services,Rekatech Capital Bhd,False
+6038210,Consumer Discretionary,Consumer Discretionary Distribution & Retail,Specialty Retail,Other Specialty Retail,Atlan Holdings Bhd,False
 6535465,Energy,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,Wasco Bhd,False
 6782540,Materials,Materials,Metals & Mining,Steel,Mayu Global Group Bhd,False
 6905563,Materials,Materials,Paper & Forest Products,Forest Products,Timberwell Bhd,False
