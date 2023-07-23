@@ -7,7 +7,7 @@ DAILY_DATA_PATH = "data/daily_data.csv"
 META_DATA_PATH = "data/meta_data.csv"
 
 st.set_page_config(
-    page_title="Bursa Malaysia", layout="wide",
+    page_title="Bursa Malaysia", #layout="wide",
 )
 st.title("Bursa Malaysia | Market Capitalization")
 st.sidebar.title("Bursa Malaysia")
