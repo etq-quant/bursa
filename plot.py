@@ -1,4 +1,4 @@
-cols = ['id','gics_sector_name', 'gics_industry_group_name', 'gics_industry_name', 'gics_sub_industry_name', 'company_common_name']
+cols = ['id','sector', 'name']
 
 def highlight_rows(x):
     if x.change_pct>0:
@@ -22,12 +22,12 @@ def highlight_col(x):
     df.loc[maskn, :] = 'background-color: #FFA07A; color: black'
     return df 
 
-cols = ['id','gics_sector_name', 'gics_industry_group_name', 'gics_industry_name', 'gics_sub_industry_name', 'company_common_name']
+cols = ['id','sector', 'name']
 
 def get_table(df, glevel, sdate, edate):
     fdf = df.sort_values(['date','id']).reset_index(drop=True)
     sdf = fdf[(fdf['date']==sdate)|(fdf['date']==edate)]
-    pdf = sdf.pivot_table(index=cols, columns=['date'], values=['company_market_cap']).reset_index().dropna()
+    pdf = sdf.pivot_table(index=cols, columns=['date'], values=['cur_mkt_cap']).reset_index().dropna()
     pdf.columns = [b if b else a for a,b in pdf.columns]
     adf = pdf.groupby(glevel)[[sdate, edate]].sum()
     adf['change'] = adf[edate] - adf[sdate]
@@ -51,7 +51,7 @@ def style_table(adf):
 def get_table_raw(df, glevel, sdate, edate):
     fdf = df.sort_values(['date','id']).reset_index(drop=True)
     sdf = fdf[(fdf['date']==sdate)|(fdf['date']==edate)]
-    pdf = sdf.pivot_table(index=cols, columns=['date'], values=['company_market_cap']).reset_index().dropna()
+    pdf = sdf.pivot_table(index=cols, columns=['date'], values=['cur_mkt_cap']).reset_index().dropna()
     pdf.columns = [b if b else a for a,b in pdf.columns]
     adf = pdf.groupby(glevel)[[sdate, edate]].sum()
     adf['change'] = adf[edate] - adf[sdate]
@@ -68,7 +68,7 @@ def style_raw_table(adf, sdate, edate):
         else:
             a[k]=white
     
-    return adf.style.format("{:,.0f}", subset=[sdate,edate,'change']).format("{:,.2f}%", subset=['change_pct'])\
+    return adf.style.format("{:,.0f}", subset=[sdate, edate,'change']).format("{:,.2f}%", subset=['change_pct'])\
     .background_gradient(cmap='YlOrRd_r', axis=0)\
     .bar(subset=['change_pct'], color=['#FF6347','#54C571'], align="zero")\
     .apply(highlight_col, subset=[i for i in adf.columns if i!='change_pct'], axis=None)\
