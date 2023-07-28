@@ -5,6 +5,9 @@ from plot import get_table, get_table_raw, style_table, style_raw_table
 DAILY_DATA_PATH = "data/daily_data.csv"
 META_DATA_PATH = "data/meta_data.csv"
 
+st.set_page_config(
+    page_title="FBM100", layout="wide",
+)
 st.title("FBM100 | Market Capitalization")
 st.sidebar.title("FBM100")
 
