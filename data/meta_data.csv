@@ -1,591 +1,899 @@
-id_bbg,id,sector,FBM100,name
-SIME MK Equity,B29TTR1,Automotive,True,Sime Darby Bhd
-UMWH MK Equity,6910824,Automotive,False,UMW Holdings Bhd
-ORH MK Equity,6661434,Automotive,False,Oriental Holdings BHD
-DRB MK Equity,6269816,Automotive,True,DRB-Hicom Bhd
-BAUTO MK Equity,BGLKMM6,Automotive,True,Bermaz Auto Bhd
-MBM MK Equity,6550327,Automotive,False,MBM Resources BHD
-PECCA MK Equity,BYPD8G3,Automotive,False,Pecca Group Bhd
-TCM MK Equity,6871125,Automotive,False,Tan Chong Motor Holdings Bhd
-APM MK Equity,6202792,Automotive,False,APM Automotive Holdings Bhd
-PU MK Equity,6690104,Automotive,False,Paragon Union BHD
-NHF MK Equity,6113043,Automotive,False,New Hoong Fatt Holdings Bhd
-EPMB MK Equity,6302852,Automotive,False,EP Manufacturing Bhd
-MAY MK Equity,6556325,Banks,True,Malayan Banking Bhd
-PBK MK Equity,B012W42,Banks,True,Public Bank Bhd
-CIMB MK Equity,6075745,Banks,True,CIMB Group Holdings Bhd
-HLBK MK Equity,6436892,Banks,True,Hong Leong Bank Bhd
-RHBBANK MK Equity,6244675,Banks,True,RHB Bank Bhd
-AMM MK Equity,6047023,Banks,True,AMMB Holdings Bhd
-ABMB MK Equity,6556938,Banks,True,Alliance Bank Malaysia Bhd
-BIMB MK Equity,6100379,Banks,False,Bank Islam Malaysia Bhd
-MBS MK Equity,6556789,Banks,True,Malaysia Building Society Bhd
-ABANK MK Equity,6009454,Banks,True,AFFIN Bank Bhd
-HEIM MK Equity,6397803,Brewery & Tobacco,True,Heineken Malaysia Bhd
-CAB MK Equity,B09FGC9,Brewery & Tobacco,False,Carlsberg Brewery Malaysia Bhd
-ROTH MK Equity,6752349,Brewery & Tobacco,True,British American Tobacco Malay
-SSB8 MK Equity,B01BTP9,Construction,False,Southern Score Builders Bhd
-MLG MK Equity,6712406,Construction,False,MGB Bhd
-KKB MK Equity,6493488,Construction,False,KKB Engineering BHD
-CITAGLB MK Equity,B2ND8F0,Construction,False,Citaglobal Bhd
-MESTRON MK Equity,BKDZYC1,Construction,False,Mestron Holdings Bhd
-KASB MK Equity,BF368L6,Construction,False,Kinergy Advancement Bhd
-TRC MK Equity,6534592,Construction,False,TRC Synergy Bhd
-HO MK Equity,6436717,Construction,False,Ho Hup Construction Co Bhd
-EVSD MK Equity,B4QGNB1,Construction,False,Eversendai Corp Bhd
-GAM MK Equity,6359881,Construction,True,Gamuda Bhd
-CHIN MK Equity,BYXBL71,Construction,True,Chin Hin Group Bhd
-YTL MK Equity,6436126,Construction,True,YTL Corp Bhd
-IJM MK Equity,6455217,Construction,False,IJM Corp Bhd
-LMC MK Equity,6556518,Construction,False,Malayan Cement Bhd
-SCGB MK Equity,BX909K4,Construction,False,Sunway Construction Group Bhd
-WCE MK Equity,6506104,Construction,False,WCE Holdings Bhd
-KPG MK Equity,6912961,Construction,False,Kerjaya Prospek Group Bhd
-MRC MK Equity,6557867,Construction,True,Malaysian Resources Corp Bhd
-WGB MK Equity,B63NKB8,Construction,False,Widad Group Bhd
-CMS MK Equity,6182861,Construction,False,Cahya Mata Sarawak Bhd
-EKO MK Equity,6308010,Construction,False,Ekovest BHD
-UEME MK Equity,6310985,Construction,False,UEM Edgenta Bhd
-LSH MK Equity,BNNNGZ3,Construction,False,Lim Seong Hai Capital Bhd
-WCTHG MK Equity,BBP6LY0,Construction,False,WCT Holdings Bhd
-CHGP MK Equity,B00NLX8,Construction,False,Chin Hin Group Property Bhd
-HUME MK Equity,6100863,Construction,False,Hume Cement Industries Bhd
-MDJ MK Equity,B012521,Construction,False,Mudajaya Group Bhd
-ECON MK Equity,BNG7Y25,Construction,False,Econpile Holdings Bhd
-PINT MK Equity,6693266,Construction,False,Pintaras Jaya BHD
-LTK MK Equity,6505491,Construction,False,Lingkaran Trans Kota Holdings
-KICB MK Equity,B60JFL4,Construction,False,Kimlun Corp Bhd
-NESTCON MK Equity,BMCPYX7,Construction,False,Nestcon Sdn Bhd
-GKEN MK Equity,6490092,Construction,False,George Kent Malaysia BHD
-HSS MK Equity,BYZKLK9,Construction,False,HSS Engineers Bhd
-GNCB MK Equity,BG875N2,Construction,False,Gagasan Nadi Cergas Bhd
-GADG MK Equity,6500388,Construction,False,Gadang Holdings BHD
-FBC MK Equity,6095969,Construction,False,Fajarbaru Builder Group Bhd
-DKLS MK Equity,6275567,Construction,False,DKLS Industries Bhd
-OKAC MK Equity,6525983,Construction,False,Oka Corp BHD
-MHB MK Equity,6599074,Construction,False,Mitrajaya Holdings Bhd
-VINVEST MK Equity,B05LHT5,Construction,False,Vinvest Capital Holdings Bhd
-AQRS MK Equity,B7RKJT3,Construction,False,Gabungan AQRS Bhd
-SUNMOW MK Equity,BM9HMM1,Construction,False,Sunmow Holdings Bhd
-GDB MK Equity,BFMN647,Construction,False,GDB Holdings Bhd
-INTA MK Equity,BDVJR61,Construction,False,Inta Bina Group Bhd
-SCIB MK Equity,6801133,Construction,False,Sarawak Consolidated Industrie
-VZH MK Equity,6140568,Construction,False,Vizione Holdings Bhd
-AZR MK Equity,6153362,Construction,False,Ahmad Zaki Resources Bhd
-PRTA MK Equity,6674904,Construction,False,Protasco Bhd
-MTI MK Equity,6225841,Consumer Discretionary,False,Magni-Tech Industries Bhd
-FCW MK Equity,6083748,Consumer Discretionary,False,FCW Holdings BHD
-MILUX MK Equity,6889612,Consumer Discretionary,False,Milux Corp BHD
-MRDIY MK Equity,BN4JBJ9,Consumer Discretionary,True,MR DIY Group M Bhd
-PAD MK Equity,6093167,Consumer Discretionary,True,Padini Holdings Bhd
-BFD MK Equity,B58PZN9,Consumer Discretionary,True,Berjaya Food Bhd
-PMM MK Equity,6572600,Consumer Discretionary,False,Panasonic Manufacturing Malays
-SHMB MK Equity,6801519,Consumer Discretionary,False,Shangri-La Hotels Malaysia Bhd
-AMW MK Equity,6024996,Consumer Discretionary,False,Amway Malaysia Holdings Bhd
-ZHCB MK Equity,B1WD8F4,Consumer Discretionary,False,Zhulian Corp Bhd
-ALN MK Equity,6038210,Consumer Discretionary,False,Atlan Holdings Bhd
-SENHENG MK Equity,BP95XF6,Consumer Discretionary,False,Senheng New Retail Bhd
-FHB MK Equity,6073813,Consumer Discretionary,False,Fiamma Holdings BHD
-BON MK Equity,B1W2P83,Consumer Discretionary,False,Bonia Corp Bhd
-INNATURE MK Equity,BKDMLR6,Consumer Discretionary,False,InNature Bhd
-PKH MK Equity,6740979,Consumer Discretionary,False,Poh Kong Holdings Bhd
-MNHB MK Equity,BDG1T00,Consumer Discretionary,False,Mynews Holdings Bhd
-MUI MK Equity,6556756,Consumer Discretionary,False,Malayan United Industries Bhd
-MARC MK Equity,B04ZNB2,Consumer Discretionary,False,Marco Holdings BHD
-NCHB MK Equity,6524883,Consumer Discretionary,False,Niche Capital Emas Holdings BH
-CRG MK Equity,BGSYZQ6,Consumer Discretionary,False,Carlo Rino Group Bhd
-PKS MK Equity,6030409,Consumer Discretionary,False,Parkson Holdings Bhd
-PROL MK Equity,6673699,Consumer Discretionary,False,Prolexus BHD
-ABB MK Equity,6427227,Consumer Discretionary,False,Asia Brands BHD
-PCCS MK Equity,6697644,Consumer Discretionary,False,PCCS Group BHD
-PELI MK Equity,6799971,Consumer Services,False,Pelikan International Corp Bhd
-TAFI MK Equity,B064179,Consumer Services,False,TAFI Industries Bhd
-TWP MK Equity,6907440,Consumer Services,False,Tien Wah Press Holdings Bhd
-DKSH MK Equity,6253176,Consumer Services,False,DKSH Holdings Malaysia Bhd
-NGB MK Equity,B29H5B1,Consumer Services,False,Nextgreen Global Bhd
-FMB MK Equity,6583486,Consumer Services,False,Fima Corp BHD
-MBRIGHT MK Equity,6139823,Consumer Services,False,Meta Bright Group Bhd
-AF MK Equity,6047465,Consumer Services,False,Asia File Corp BHD
-OWG MK Equity,BTGQB89,Consumer Services,False,Only World Group Holdings Bhd
-CFM MK Equity,6215626,Consumer Services,False,Computer Forms Malaysia Bhd
-HHM MK Equity,6173683,Consumer Services,False,Harrisons Holdings Malaysia Bh
-BORN MK Equity,B0JT319,Consumer Staples,False,Bahvest Resources Bhd
-YENHER MK Equity,BP6DTV1,Consumer Staples,False,Yenher Holdings Bhd
-NESZ MK Equity,6629335,Consumer Staples,True,Nestle Malaysia Bhd
-QLG MK Equity,B00G234,Consumer Staples,True,QL Resources Bhd
-FNH MK Equity,6555946,Consumer Staples,True,Fraser & Neave Holdings Bhd
-GUAN MK Equity,B0742L9,Consumer Staples,True,Guan Chong Bhd
-FFB MK Equity,BNDMT28,Consumer Staples,True,Farm Fresh Bhd
-SEM MK Equity,BMN9S81,Consumer Staples,False,7-Eleven Malaysia Holdings Bhd
-LHIB MK Equity,BHNC6X6,Consumer Staples,False,Leong Hup International Bhd
-AEON MK Equity,6506160,Consumer Staples,True,Aeon Co M Bhd
-DLM MK Equity,6289160,Consumer Staples,False,Dutch Lady Milk Industries BHD
-PWRT MK Equity,B1XFDH6,Consumer Staples,False,Power Root Bhd
-AJI MK Equity,6010973,Consumer Staples,False,Ajinomoto Malaysia Bhd
-SYS MK Equity,6868815,Consumer Staples,False,SEG International BHD
-KFB MK Equity,B0F1NS6,Consumer Staples,False,Kawan Food Bhd
-MFL MK Equity,6556585,Consumer Staples,False,Malayan Flour Mills Bhd
-HSI MK Equity,6296900,Consumer Staples,False,Hup Seng Industries Bhd
-MSM MK Equity,B40GYF8,Consumer Staples,False,MSM Malaysia Holdings Bhd
-CAN MK Equity,B0CSZR3,Consumer Staples,False,Can-One Bhd
-CIH MK Equity,6159906,Consumer Staples,False,CI Holdings Bhd
-SPZ MK Equity,6286398,Consumer Staples,False,Spritzer BHD
-CABC MK Equity,6726515,Consumer Staples,False,CAB Cakaran Corp Bhd
-NTPM MK Equity,6603362,Consumer Staples,False,NTPM Holdings Bhd
-CCK MK Equity,6086231,Consumer Staples,False,CCK Consolidated Holdings BHD
-ABLE MK Equity,6710723,Consumer Staples,False,Able Global Bhd
-TARE MK Equity,6534945,Consumer Staples,False,Three-A Resources BHD
-BESHOM MK Equity,6407122,Consumer Staples,False,Beshom Holdings Bhd
-APOF MK Equity,6045470,Consumer Staples,False,Apollo Food Holdings Bhd
-MAGH MK Equity,B0HWY40,Consumer Staples,False,Mag Holdings Bhd
-SDS MK Equity,BJNFPY3,Consumer Staples,False,SDS Group Bhd
-OFIH MK Equity,6282114,Consumer Staples,False,Oriental Food Industries Holdi
-TSCB MK Equity,B1VP2N7,Consumer Staples,False,Teo Seng Capital Bhd
-PTRB MK Equity,BMGH2X5,Consumer Staples,False,RESOURCES HOLDINGS BHD PT
-LAY MK Equity,6508520,Consumer Staples,False,Lay Hong BHD
-LTKM MK Equity,6219822,Consumer Staples,False,LTKM BHD
-XLH MK Equity,6419945,Consumer Staples,False,XL Holdings BHD
-PIE MK Equity,6264996,EMS,False,PIE Industrial BHD
-SALUT MK Equity,BYMJ734,EMS,False,Salutica Bhd
-EITA MK Equity,B7Z7KV5,EMS,False,EITA Resources Bhd
-VSI MK Equity,6113429,EMS,True,VS Industry Bhd
-SFPTECH MK Equity,BLD6YZ4,EMS,False,SFP Tech Holdings Bhd
-SKP MK Equity,B03DHR1,EMS,True,SKP Resources Bhd
-UCHI MK Equity,B00PSW2,EMS,True,Uchi Technologies Bhd
-CEB MK Equity,BN2CDR2,EMS,False,Cape Ems Manufacturing M Sdn B
-ATECH MK Equity,BMYQG54,EMS,False,Aurelius Technologies Bhd
-KOBAY MK Equity,6013671,EMS,False,Kobay Technology BHD
-FOR MK Equity,6348395,EMS,False,Formosa Prosonic Industries BH
-EG MK Equity,6253154,EMS,False,EG Industries Bhd
-QES MK Equity,BG00JS2,EMS,False,QES Group Bhd
-CNERGEN MK Equity,BP2G1P2,EMS,False,Cnergenz Bhd
-AIB MK Equity,6730011,EMS,False,ATA IMS Bhd
-BETA MK Equity,BNDS7N3,EMS,False,Betamek Bhd
-SCP MK Equity,6715171,EMS,False,Scope Industries Bhd
-PETRONM MK Equity,6321590,Energy,False,Petron Malaysia Refining & Mar
-HYR MK Equity,6803504,Energy,True,Hengyuan Refining Co Bhd
-PETD MK Equity,6695938,Energy,True,Petronas Dagangan Bhd
-HLFG MK Equity,6436450,Financial,True,Hong Leong Financial Group Bhd
-BURSA MK Equity,B06FV38,Financial,True,Bursa Malaysia Bhd
-LPI MK Equity,6522672,Financial,False,LPI Capital Bhd
-ACSM MK Equity,B29H4P8,Financial,False,AEON Credit Service M Bhd
-STMB MK Equity,6808123,Financial,True,Syarikat Takaful Malaysia Kelu
-ALLZ MK Equity,6552464,Financial,False,Allianz Malaysia Bhd
-HLG MK Equity,6989200,Financial,True,Hong Leong Capital Bhd
-RCE MK Equity,B012W31,Financial,False,RCE Capital Bhd
-MNRB MK Equity,6543101,Financial,False,MNRB Holdings Bhd
-MIT MK Equity,6609597,Financial,False,Mulpha International Bhd
-MPHB MK Equity,B9XQDY2,Financial,False,MPHB Capital Bhd
-KNKIB MK Equity,BD2Z8V0,Financial,False,Kenanga Investment Bank Bhd
-INS MK Equity,6456221,Financial,False,Insas Bhd
-ELK MK Equity,B8CNCY0,Financial,False,ELK-Desa Resources Bhd
-MHBS MK Equity,6137311,Financial,False,Manulife Holdings Bhd
-PPJACK MK Equity,BPCTJT1,Financial,False,Pappajack Bhd
-TIH MK Equity,B95RLP0,Financial,False,Tune Protect Group Bhd
-PO MK Equity,6677215,Financial,False,Pacific & Orient Bhd
-APX MK Equity,6045942,Financial,False,Apex Equity Holdings Bhd
-KUD MK Equity,6497725,Financial,False,Kuchai Development BHD
-PWP MK Equity,6424541,Furniture & Wood,False,Priceworth International Bhd
-SIGN MK Equity,B2NRG03,Furniture & Wood,False,Signature International Bhd
-EFRAME MK Equity,BMWLDM7,Furniture & Wood,False,Econframe Bhd
-MIEC MK Equity,6599438,Furniture & Wood,False,Mieco Chipboard BHD
-EVF MK Equity,B06HC42,Furniture & Wood,False,Evergreen Fibreboard Bhd
-HAVE MK Equity,B05KCS6,Furniture & Wood,False,HeveaBoard Bhd
-STH MK Equity,6856865,Furniture & Wood,False,Subur Tiasa Holdings Bhd
-FLB MK Equity,B5L7640,Furniture & Wood,False,Focus Lumber Bhd
-SKOU MK Equity,6740281,Furniture & Wood,False,Sern Kou Resource Bhd
-LHI MK Equity,6286893,Furniture & Wood,False,Lii Hen Industries BHD
-PHR MK Equity,6222262,Furniture & Wood,False,Poh Huat Resources Holdings BH
-RKI MK Equity,6507550,Furniture & Wood,False,Rhong Khen International BHD
-ECOMATE MK Equity,BNRP4H3,Furniture & Wood,False,ECOMATE HOLDINGS BHD
-HMCB MK Equity,B63DFW4,Furniture & Wood,False,Homeritz Corp Bhd
-CSB MK Equity,B03P5N9,Furniture & Wood,False,Classic Scenic Bhd
-YOCB MK Equity,B549KB8,Furniture & Wood,False,Yoong Onn Corp BHD
-JAYC MK Equity,6546605,Furniture & Wood,False,Jaycorp Bhd
-SYF MK Equity,6211925,Furniture & Wood,False,M & A Equity Holdings Bhd
-EUHO MK Equity,B05MXJ0,Furniture & Wood,False,Euro Holdings Bhd
-GENT MK Equity,B1VXJL8,Gaming,True,Genting Bhd
-GENM MK Equity,B1VXKN7,Gaming,True,Genting Malaysia Bhd
-SPTOTO MK Equity,6331566,Gaming,False,Sports Toto Bhd
-MAG MK Equity,6609627,Gaming,False,Magnum Bhd
-BL MK Equity,B0RY9Y1,Gaming,False,Berjaya Land Bhd
-BJAB MK Equity,6374646,Gaming,False,Berjaya Assets BHD
-RGB MK Equity,6731036,Gaming,False,RGB International Bhd
-CYP MK Equity,B3ZH2K0,Green Tech,False,Cypark Resources Bhd
-SOLAR MK Equity,BJCVZH5,Green Tech,False,Solarvest Holdings Bhd
-SAMAIDEN MK Equity,BNGCWK4,Green Tech,False,Samaiden Group Bhd
-PEKAT MK Equity,BN2QLH0,Green Tech,False,Pekat Group Bhd
-IHH MK Equity,B83X6P8,Healthcare,True,IHH Healthcare Bhd
-KPJ MK Equity,6493585,Healthcare,True,KPJ Healthcare Bhd
-APEX MK Equity,6248826,Healthcare,False,Apex Healthcare Bhd
-DBB MK Equity,B01QKV7,Healthcare,True,Duopharma Biotech Bhd
-TMCL MK Equity,B0LSTW7,Healthcare,False,TMC Life Sciences Bhd
-KTRI MK Equity,6306218,Healthcare,False,Kotra Industries Bhd
-KAREX MK Equity,BGCB7B2,Healthcare,False,Karex Bhd
-HONGSENG MK Equity,B00STN9,Healthcare,False,Hong Seng Consolidated Bhd
-PHRM MK Equity,6180865,Healthcare,False,Pharmaniaga Bhd
-OPTIMAX MK Equity,BLBR7K5,Healthcare,False,Optimax Holdings Bhd
-MHCARE MK Equity,BD1KFK4,Healthcare,False,Metro Healthcare Bhd
-CENGILD MK Equity,BPDWLV5,Healthcare,False,Cengild Medical Bhd
-FPHB MK Equity,B3WMH69,Healthcare,False,Focus Point Holdings Bhd
-YSP MK Equity,6729837,Healthcare,False,YSP Southeast Asia Holdings Bh
-UMC MK Equity,BLB71Q9,Healthcare,False,Umedic Group Bhd
-NOVA MK Equity,BG47FH0,Healthcare,False,Nova Wellness Group Bhd
-HLI MK Equity,6436308,Industrial,False,Hong Leong Industries Bhd
-BOUS MK Equity,6114659,Industrial,False,Boustead Holdings Bhd
-BC MK Equity,B0W1VM9,Industrial,True,Berjaya Corp Bhd
-COCO MK Equity,B03GWH5,Industrial,False,Coastal Contracts Bhd
-HEXIND MK Equity,BJTMRP3,Industrial,False,Hextar Industries Bhd
-AME MK Equity,BKRQ635,Industrial,False,AME Elite Consortium Bhd
-CBP MK Equity,B09SYR9,Industrial,False,CB Industrial Product Holding
-AJY MK Equity,6013002,Industrial,False,Ajiya BHD
-CWH MK Equity,B01LS18,Industrial,False,Chin Well Holdings BHD
-FAVCO MK Equity,B188WD9,Industrial,False,Favelle Favco Bhd
-KUPS MK Equity,6812771,Industrial,False,Kumpulan Perangsang Selangor B
-BMHB MK Equity,B65XBS0,Industrial,False,Boilermech Holding Bhd
-JSB MK Equity,6458294,Industrial,False,Jentayu Sustainables Bhd
-ASB MK Equity,6084707,Industrial,False,Advance Synergy Bhd
-PNSR MK Equity,6665577,Industrial,False,Pansar BHD
-UULI MK Equity,B03P5K6,Industrial,False,United U-Li Corp BHD
-SCGBHD MK Equity,BLF7DK3,Industrial,False,Southern Cable Group Bhd
-UGB MK Equity,B01VG47,Industrial,False,Unimech Group Bhd
-TECHBND MK Equity,BGKPQG4,Industrial,False,Techbond Group Bhd
-JAG MK Equity,6654984,Industrial,False,JAG Bhd
-TEX MK Equity,6876960,Industrial,False,Texchem Resources Bhd
-NVB MK Equity,B09YCC8,Industrial,False,Notion VTEC Bhd
-AWCF MK Equity,6690290,Industrial,False,AWC Bhd
-RMH MK Equity,BD8DKF6,Industrial,False,Rhone Ma Holdings Bhd
-STC MK Equity,B05LVY8,Industrial,False,Success Transformer Corp Bhd
-DSTN MK Equity,B06KJ28,Industrial,False,Destini Bhd
-PESONA MK Equity,B00QBW6,Industrial,False,Pesona Metro Holdings Bhd
-DOME MK Equity,6707350,Industrial,False,Dominant Enterprise Bhd
-HWG MK Equity,6299910,Industrial,False,Ho Wah Genting BHD
-PCHEM MK Equity,B5KQGT3,Materials & Metals,True,Petronas Chemicals Group Bhd
-PMAH MK Equity,BF0J5S4,Materials & Metals,True,Press Metal Aluminium Holdings
-PMBT MK Equity,6711641,Materials & Metals,True,PMB Technology Bhd
-SCI MK Equity,B1VZ5G1,Materials & Metals,True,Scientex BHD
-TTNP MK Equity,BF3N1G3,Materials & Metals,True,Lotte Chemical Titan Holding B
-ANCOMNY MK Equity,6031758,Materials & Metals,False,Ancom Nylex Bhd
-SMELT MK Equity,6552282,Materials & Metals,False,Malaysia Smelting Corp Bhd
-PER MK Equity,6214106,Materials & Metals,False,Perusahaan Sadur Timah Malaysi
-LUXC MK Equity,B39XYQ4,Materials & Metals,False,Luxchem Corp Bhd
-PARB MK Equity,B131M00,Materials & Metals,False,PA Resources Bhd
-BPP MK Equity,B06B9D2,Materials & Metals,False,BP Plastics Holding Bhd
-LEFORM MK Equity,BNM4Y20,Materials & Metals,False,Leform Bhd
-SSB MK Equity,6825337,Materials & Metals,False,Southern Steel Bhd
-LBA MK Equity,B1W58N8,Materials & Metals,False,LB Aluminium BHD
-CBEE MK Equity,6193012,Materials & Metals,False,Choo Bee Metal Industries Bhd
-ALC MK Equity,6021953,Materials & Metals,False,Alcom Group Bhd
-SCGM MK Equity,B2PFKX6,Materials & Metals,False,SCGM Bhd
-ARNK MK Equity,B08GQF6,Materials & Metals,False,A-Rank Bhd
-HTVB MK Equity,6685081,Materials & Metals,False,Hiap Teck Venture Bhd
-SA MK Equity,6824260,Materials & Metals,False,Southern Acids Malaysia BHD
-UNITRAD MK Equity,BNRKLQ6,Materials & Metals,False,Unitrade Industries Bhd
-SENFONG MK Equity,BP96HY6,Materials & Metals,False,SENG FONG HOLDINGS BHD
-CORAZA MK Equity,BP2RD60,Materials & Metals,False,Coraza Integrated Technology B
-HIL MK Equity,B01WHW5,Materials & Metals,False,Hil Industries BHD
-SLPR MK Equity,B2Q1KT9,Materials & Metals,False,SLP Resources Bhd
-MTAG MK Equity,BJK5171,Materials & Metals,False,MTAG Group Bhd
-HHR MK Equity,BPCWYL7,Materials & Metals,False,Hhrg Bhd
-ENGT MK Equity,6534451,Materials & Metals,False,Engtex Group Bhd
-ASTI MK Equity,6671273,Materials & Metals,False,Astino Bhd
-PGF MK Equity,6694247,Materials & Metals,False,PGF Capital Bhd
-PP MK Equity,B0217L0,Materials & Metals,False,Public Packages Holdings Bhd
-YEWLEE MK Equity,BP81J57,Materials & Metals,False,Yew Lee Pacific Group Bhd
-ALR MK Equity,6248183,Materials & Metals,False,Analabs Resources BHD
-TWH MK Equity,6284950,Materials & Metals,False,Ta Win Holdings BHD
-MTRD MK Equity,B6ZS981,Materials & Metals,False,Metrod Holdings BHD
-DPIH MK Equity,BGKBJ52,Materials & Metals,False,DPI Holdings Bhd
-WHIT MK Equity,6175407,Materials & Metals,False,White Horse Bhd
-HPPHB MK Equity,BLFHKQ8,Materials & Metals,False,HPP Holdings Bhd
-BSLC MK Equity,B0LNJK0,Materials & Metals,False,BSL Corp Bhd
-HAL MK Equity,B4MLCH9,Materials & Metals,True,Hextar Global Bhd
-TGI MK Equity,6087375,Materials & Metals,False,Thong Guan Industries Bhd
-SCIPACK MK Equity,6252195,Materials & Metals,False,Scientex Packaging Ayer Keroh
-WELL MK Equity,B197XV0,Materials & Metals,False,Wellcall Holdings Bhd
-THR MK Equity,6179551,Materials & Metals,False,Tong Herr Resources Bhd
-MUD MK Equity,6609230,Materials & Metals,False,Muda Holdings Bhd
-IMAS MK Equity,B0WW490,Materials & Metals,False,Imaspro Corp Bhd
-RGBH MK Equity,6667261,Materials & Metals,False,RGT BHD
-SAHB MK Equity,B602XT7,Materials & Metals,False,Samchem Holdings Bhd
-TOMY MK Equity,6898403,Materials & Metals,False,Tomypak Holdings BHD
-HEX MK Equity,6644372,Materials & Metals,False,Hexza Corp BHD
-ASTRO MK Equity,B7W5GK3,Media & Entertainment,True,Astro Malaysia Holdings Bhd
-MPR MK Equity,6812555,Media & Entertainment,False,Media Prima Bhd
-STAR MK Equity,6841571,Media & Entertainment,False,Star Media Group Bhd
-SASB MK Equity,BP9DM08,Media & Entertainment,False,Sasbadi Holdings Bhd
-SDH MK Equity,BYVNW76,Oil & Gas,False,Serba Dinamik Holdings Bhd
-DLG MK Equity,B00MRS2,Oil & Gas,True,Dialog Group Bhd
-YNS MK Equity,6986717,Oil & Gas,True,Yinson Holdings BHD
-BAB MK Equity,B3YX6Q3,Oil & Gas,True,Bumi Armada Bhd
-HIBI MK Equity,B5VN637,Oil & Gas,True,Hibiscus Petroleum Bhd
-VEB MK Equity,BDFM6W5,Oil & Gas,True,Velesto Energy Bhd
-DEHB MK Equity,B142NG5,Oil & Gas,True,Dayang Enterprise Holdings Bhd
-MMHE MK Equity,B3W5NN7,Oil & Gas,False,Malaysia Marine and Heavy Engi
-SAPE MK Equity,B7GJ601,Oil & Gas,False,Sapura Energy Bhd
-WSC MK Equity,6535465,Oil & Gas,False,Wasco Bhd
-MUHI MK Equity,6609304,Oil & Gas,False,Muhibbah Engineering M Bhd
-PETR MK Equity,B01LS29,Oil & Gas,False,Perdana Petroleum Bhd
-DLUM MK Equity,B1Y9MF8,Oil & Gas,False,Deleum Bhd
-T7G MK Equity,B09MBH0,Oil & Gas,False,T7 Global Bhd
-KUBM MK Equity,6039514,Oil & Gas,False,KUB Malaysia BHD
-PENB MK Equity,B2369M3,Oil & Gas,False,Petra Energy Bhd
-NHB MK Equity,6691464,Oil & Gas,False,Naim Holdings Bhd
-ICON MK Equity,BNBNPL4,Oil & Gas,False,Icon Offshore Bhd
-KNMG MK Equity,B02JY46,Oil & Gas,False,KNM Group Bhd
-UZMA MK Equity,B3BP9Y1,Oil & Gas,False,Uzma Bhd
-CARIP MK Equity,BSL6X92,Oil & Gas,False,Carimin Petroleum Bhd
-MARG MK Equity,6725631,Oil & Gas,False,Marine & General Bhd
-STRA MK Equity,B081SH7,Oil & Gas,False,Straits Energy Resources Bhd
-EATECH MK Equity,BTF7ZK3,Oil & Gas,False,Ea Technique M Bhd
-RLEB MK Equity,BMFR151,Oil & Gas,False,Reservoir Link Energy Bhd
-SDPL MK Equity,BF6RHY2,Plantation ,True,Sime Darby Plantation Bhd
-IOI MK Equity,B1Y3WG1,Plantation ,True,IOI Corp Bhd
-PEP MK Equity,6681669,Plantation ,True,PPB Group Bhd
-KLK MK Equity,6497446,Plantation ,True,Kuala Lumpur Kepong Bhd
-HAP MK Equity,6297743,Plantation ,False,HAP Seng Consolidated Bhd
-BAK MK Equity,6084622,Plantation ,False,Batu Kawan Bhd
-UPL MK Equity,6917148,Plantation ,True,United Plantations BHD
-GENP MK Equity,6057680,Plantation ,False,Genting Plantations Bhd
-FGV MK Equity,B8L1DR5,Plantation ,False,FGV Holdings Bhd
-FEH MK Equity,6331931,Plantation ,False,FAR East Holdings BHD
-SOP MK Equity,6770556,Plantation ,True,Sarawak Oil Palms Bhd
-KIML MK Equity,6311148,Plantation ,False,Kim Loong Resources Bhd
-BPLANT MK Equity,BNH7MH5,Plantation ,True,Boustead Plantations Bhd
-KHP MK Equity,6498717,Plantation ,False,Kretam Holdings BHD
-HAPL MK Equity,B28VNR6,Plantation ,False,Hap Seng Plantations Holdings
-TAH MK Equity,6183499,Plantation ,True,Ta Ann Holdings Bhd
-TSH MK Equity,B053CZ2,Plantation ,True,TSH Resources Bhd
-KS MK Equity,6486712,Plantation ,False,Keck Seng Malaysia Bhd
-UMR MK Equity,6916684,Plantation ,False,United Malacca Bhd
-BLDP MK Equity,6654898,Plantation ,False,BLD Plantation Bhd
-CTP MK Equity,6191157,Plantation ,False,Chin Teck Plantations BHD
-JT MK Equity,6825531,Plantation ,False,Jaya Tiasa Holdings BHD
-INNO MK Equity,6820796,Plantation ,False,Innoprise Plantations BHD
-SPLB MK Equity,B23WT10,Plantation ,False,Sarawak Plantation Bhd
-FIMA MK Equity,6504368,Plantation ,False,Kumpulan Fima BHD
-THP MK Equity,B13JSP1,Plantation ,False,TH Plantations Bhd
-HARN MK Equity,6606565,Plantation ,False,Harn Len Corp Bhd
-PLS MK Equity,6692326,Plantation ,False,PLS Plantations Bhd
-TDM MK Equity,6904021,Plantation ,False,TDM Bhd
-RSAW MK Equity,B11FKB1,Plantation ,False,Rimbunan Sawit Bhd
-KLR MK Equity,6495633,Plantation ,False,Kluang Rubber Co Malaya BHD
-NSOP MK Equity,6628150,Plantation ,False,Negri Sembilan Oil Palms BHD
-RRE MK Equity,6742469,Plantation ,False,Riverview Rubber Estates BHD
-MAT MK Equity,BYYQB53,Plantation ,False,Matang Bhd
-SBR MK Equity,6860684,Plantation ,False,Sungei Bagan Rubber Co Malaya
-WTKH MK Equity,6771429,Plantation ,False,WTK Holdings Bhd
-NPC MK Equity,6520580,Plantation ,False,NPC Resources BHD
-CWG MK Equity,6417176,Plantation ,False,Cepatwawasan Group BHD
-MHC MK Equity,6312033,Plantation ,False,MHC Plantations Bhd
-GOP MK Equity,6378596,Plantation ,False,Gopeng BHD
-SWB MK Equity,B6VGS93,Real Estate Development,False,Sunway Bhd
-IOIPG MK Equity,BH7JFJ2,Real Estate Development,False,IOI Properties Group Bhd
-UOAD MK Equity,B41LHL9,Real Estate Development,False,UOA Development Bhd
-SDPR MK Equity,BF6RHX1,Real Estate Development,False,Sime Darby Property Bhd
-TRCB MK Equity,6474137,Real Estate Development,False,Tropicana Corp Bhd
-IGBB MK Equity,6874544,Real Estate Development,False,IGB Bhd
-YNHB MK Equity,6712365,Real Estate Development,False,YNH Property Bhd
-SPSB MK Equity,6868774,Real Estate Development,True,SP Setia Bhd Group
-ECW MK Equity,6773737,Real Estate Development,True,Eco World Development Group Bh
-OSK MK Equity,6655040,Real Estate Development,False,OSK Holdings Bhd
-RSB MK Equity,6742715,Real Estate Development,False,Rapid Synergy Bhd
-MCH MK Equity,BB2BGK9,Real Estate Development,True,Matrix Concepts Holdings Bhd
-MSGB MK Equity,B1YYNJ4,Real Estate Development,True,Mah Sing Group Bhd
-ECWI MK Equity,BD9GJH9,Real Estate Development,False,Eco World International Bhd
-UEMS MK Equity,B3FKMY3,Real Estate Development,True,UEM Sunrise Bhd
-IDEAL MK Equity,6915603,Real Estate Development,False,Ideal Capital Bhd
-LAGENDA MK Equity,6739869,Real Estate Development,False,Lagenda Properties Bhd
-HCK MK Equity,6284109,Real Estate Development,False,HCK Capital Group Bhd
-TELADAN MK Equity,BLD7LQ7,Real Estate Development,False,Teladan Group Bhd
-TANC MK Equity,6472818,Real Estate Development,False,Tanco Holdings Bhd
-KSL MK Equity,6433019,Real Estate Development,False,KSL Holdings Bhd
-MKH MK Equity,6579678,Real Estate Development,False,MKH Bhd
-LBS MK Equity,6431284,Real Estate Development,False,LBS Bina Group Bhd
-MEN MK Equity,6577401,Real Estate Development,False,Menang Corp M Bhd
-AYER MK Equity,6069061,Real Estate Development,False,Ayer Holdings Bhd
-PAR MK Equity,6670236,Real Estate Development,False,Paramount Corp Bhd
-EAST MK Equity,6468754,Real Estate Development,False,Eastern & Oriental Bhd
-NCT MK Equity,B03P5P1,Real Estate Development,False,NCT Alliance Bhd
-GUOL MK Equity,6089360,Real Estate Development,False,GuocoLand Malaysia Bhd
-SHLC MK Equity,6787590,Real Estate Development,False,SHL Consolidated Bhd
-OIB MK Equity,6660840,Real Estate Development,False,Oriental Interest Bhd
-SSR MK Equity,6556723,Real Estate Development,False,Sunsuria Bhd
-ECOF MK Equity,6497736,Real Estate Development,False,Ecofirst Consolidated Bhd
-IBHD MK Equity,6776598,Real Estate Development,False,I-Bhd
-TILB MK Equity,B64J4Y6,Real Estate Development,False,Tambun Indah Land Bhd
-PLEN MK Equity,6714800,Real Estate Development,False,Plenitude Bhd
-TTJ MK Equity,BGLC5P6,Real Estate Development,False,Titijaya Land Bhd
-IWCB MK Equity,6381356,Real Estate Development,False,Iskandar Waterfront City Bhd
-CCDO MK Equity,6232777,Real Estate Development,False,Crescendo Corp Bhd
-IBRA MK Equity,B01H3N3,Real Estate Development,False,IBRACO Bhd
-LGH MK Equity,6365491,Real Estate Development,False,Land & General Bhd
-SYML MK Equity,6110668,Real Estate Development,False,Symphony Life Bhd
-MCT MK Equity,B3ZKH48,Real Estate Development,False,Avaland Bhd
-DBHD MK Equity,6490456,Real Estate Development,False,Damansara Holdings Bhd
-MAXIM MK Equity,6666592,Real Estate Development,False,Maxim Global Bhd
-JKG MK Equity,6505587,Real Estate Development,False,JKG Land Bhd
-GLMC MK Equity,6261652,Real Estate Development,False,Glomac Bhd
-DTL MK Equity,B1V7KX9,Real Estate Development,False,DutaLand Bhd
-KPPROP MK Equity,6154376,Real Estate Development,False,Kerjaya Prospek Property Bhd
-MALT MK Equity,6358598,Real Estate Development,False,Malton Bhd
-EWEI MK Equity,B2QG5C2,Real Estate Development,False,Ewein Bhd
-MKL MK Equity,6680116,Real Estate Development,False,MK Land Holdings Bhd
-SDR MK Equity,6794017,Real Estate Development,False,Selangor Dredging Bhd
-TWL MK Equity,6178042,Real Estate Development,False,TWL Holdings Bhd
-MAGNA MK Equity,6525790,Real Estate Development,False,Magna Prima Bhd
-YGCB MK Equity,6028471,Real Estate Development,False,Y&G Corp Bhd
-APH MK Equity,6668963,Real Estate Development,False,Asian Pac Holdings Bhd
-MUIP MK Equity,6556778,Real Estate Development,False,MUI Properties Bhd
-YTB MK Equity,6091462,Real Estate Development,False,Yong Tai Bhd
-PSD MK Equity,6036322,Real Estate Development,False,Pasdec Holdings Bhd
-BCB MK Equity,6086509,Real Estate Development,False,BCB Bhd
-EUPE MK Equity,6320661,Real Estate Development,False,Eupe Corp Bhd
-CVB MK Equity,6523589,Real Estate Development,False,Country View Bhd
-GMUT MK Equity,B05KY68,Real Estate Development,False,Gromutual Bhd
-GOB MK Equity,6692768,Real Estate Development,False,Global Oriental Bhd
-SBC MK Equity,6807272,Real Estate Development,False,SBC Corp Bhd
-KEN MK Equity,6489614,Real Estate Development,False,KEN Holdings Bhd
-ONC MK Equity,6141635,Real Estate Development,False,OCR Group Bhd
-KLCCSS MK Equity,B92NSW7,REIT,False,
-IGBREIT MK Equity,B89JCF2,REIT,False,IGB Real Estate Investment Tru
-SREIT MK Equity,B62QFR9,REIT,False,Sunway Real Estate Investment
-PREIT MK Equity,B79YDV3,REIT,False,Pavilion Real Estate Investmen
-AXRB MK Equity,B0CMCL8,REIT,True,Axis Real Estate Investment Tr
-YTLREIT MK Equity,B0JVKJ2,REIT,False,YTL Hospitality REIT
-CLMT MK Equity,B3RZ1Q1,REIT,False,Capitaland Malaysia Trust
-IGBCR MK Equity,BNM87G7,REIT,False,IGB Commercial Real Estate Inv
-AQAR MK Equity,B1BL6J9,REIT,False,Al-'Aqar Healthcare REIT
-SENTRAL MK Equity,B1M32W9,REIT,False,Sentral REIT
-UOAR MK Equity,B0VY4Z3,REIT,False,UOA Real Estate Investment Tru
-AMEREIT MK Equity,BPDZNK7,REIT,False,AME Real Estate Investment Tru
-KIP MK Equity,BYZLX84,REIT,False,KIP REIT
-ATRM MK Equity,B1TDTF4,REIT,False,Atrium Real Estate Investment
-HEKT MK Equity,B1KKH50,REIT,False,Hektar Real Estate Investment
-AARET MK Equity,B1LJQ04,REIT,False,AmanahRaya Real Estate Investm
-SALAM MK Equity,BYWQH24,REIT,False,Al-Salam Real Estate Investmen
-ARET MK Equity,B1LB9J0,REIT,False,AmFIRST Real Estate Investment
-TRET MK Equity,B11YC23,REIT,False,Tower Real Estate Investment T
-TOPG MK Equity,B05L892,Rubber Glove,True,Top Glove Corp Bhd
-HART MK Equity,B2QPJK5,Rubber Glove,True,Hartalega Holdings Bhd
-KRI MK Equity,B0DD1H9,Rubber Glove,True,Kossan Rubber Industries Bhd
-SUCB MK Equity,B1V7L36,Rubber Glove,True,Supermax Corp Bhd
-HEXCARE MK Equity,6759254,Rubber Glove,False,Hextar Healthcare Bhd
-LSTI MK Equity,6691077,Rubber Glove,False,Luster Industries Bhd
-CG MK Equity,B01RN99,Rubber Glove,False,Comfort Glove Bhd
-CPG MK Equity,B3WLCQ1,Rubber Glove,False,Careplus Group Bhd
-ADV MK Equity,B16TVC6,Rubber Glove,False,Adventa Bhd
-MYEG MK Equity,B1KL2D6,Software & Services,True,My EG Services Bhd
-CTOS MK Equity,BN7GZ51,Software & Services,True,CTOS Digital Bhd
-DSON MK Equity,B8HNYQ1,Software & Services,False,Datasonic Group Bhd
-PRTMA MK Equity,6475806,Software & Services,False,Pertama Digital BHD
-MICL MK Equity,B16FQW9,Software & Services,False,Microlink Solutions Bhd
-GHLS MK Equity,B1Q2KS4,Software & Services,False,GHL Systems Bhd
-INFOM MK Equity,BPNTZZ8,Software & Services,False,Infomina Bhd
-LGMS MK Equity,BMGBB18,Software & Services,False,LGMS Bhd
-SNS MK Equity,BPG51R7,Software & Services,False,SNS Network Technology Bhd
-SCIC MK Equity,B0K4GS1,Software & Services,False,Scicom MSC Bhd
-KAB MK Equity,BTG8635,Software & Services,False,Kronologi Asia Bhd
-ICB MK Equity,6532701,Software & Services,False,Iris Corp Bhd
-AWTC MK Equity,B6WFG06,Software & Services,False,Awanbiru Technology Bhd
-INFOTEC MK Equity,BMD2T87,Software & Services,False,Infoline Tec Group Bhd
-ARTRONIQ MK Equity,6731382,Software & Services,False,Artroniq Bhd
-N2N MK Equity,B0RGJD6,Software & Services,False,N2N Connect Bhd
-RGTB MK Equity,BG5KMD3,Software & Services,False,Radiant Globaltech Ltd
-EFM MK Equity,B055ZL5,Software & Services,False,Excel Force MSC Bhd
-AGMO MK Equity,BNNTYX5,Software & Services,False,AGMO HOLDINGS BHD
-JCB MK Equity,B03HJ88,Software & Services,False,JcbNext Bhd
-WLW MK Equity,6518875,Software & Services,False,Willowglen MSC BHD
-CUSC MK Equity,B01ZS76,Software & Services,False,Cuscapi Bhd
-REVENUE MK Equity,BDRTXM3,Software & Services,False,Revenue Group Bhd
-IFCA MK Equity,6673268,Software & Services,False,IFCA MSC Bhd
-EES MK Equity,B05J818,Software & Services,False,Efficient E-Solutions Bhd
-CSHB MK Equity,B3SQ4Z3,Software & Services,False,Censof Holdings Bhd
-ARBB MK Equity,6740236,Software & Services,False,ARB Bhd
-DATA MK Equity,6207731,Software & Services,False,Dataprep Holdings BHD
-NOVM MK Equity,6680310,Software & Services,False,Nova MSC Bhd
-SYTC MK Equity,B67GVX2,Software & Services,False,Systech Bhd
-DYNAFNT MK Equity,BM94VT2,Software & Services,False,Dynafront Holdings Bhd
-ECH MK Equity,B04QXQ0,Software & Services,False,Ecobuilt Holdings Bhd
-LGB MK Equity,6587121,Software & Services,False,Lambo Group BHD
-MNCW MK Equity,B0MYNT9,Software & Services,False,MNC Wireless Bhd
-NNCB MK Equity,B0J2LF8,Software & Services,False,Nexgram Holdings Bhd
-REDIDEA MK Equity,BYWV8V5,Software & Services,False,Red Ideas Holdings Bhd
-AJR MK Equity,6044370,Materials & Metals,False,Ann Joo Resources Bhd
-CSCS MK Equity,B05DZD1,Materials & Metals,False,CSC Steel Holdings Bhd
-LLB MK Equity,6592921,Materials & Metals,False,Lion Industries Corp Bhd
-MSW MK Equity,B064DY0,Materials & Metals,False,Malaysia Steel Works KL Bhd
-LEFU MK Equity,BBD7NC7,Materials & Metals,False,Leon Fuat Bhd
-PGHB MK Equity,B1RM6F2,Materials & Metals,False,Pantech Group Holdings Bhd
-INRI MK Equity,B54JP79,Technology,True,Inari Amertron Bhd
-VITRO MK Equity,B0KLDR0,Technology,False,ViTrox Corp Bhd
-GREATEC MK Equity,BK0Q1M6,Technology,True,Greatech Technology Bhd
-MPI MK Equity,6556693,Technology,True,Malaysian Pacific Industries B
-DOGT MK Equity,B05DWZ2,Technology,True,D&O Green Technologies Bhd
-FRCB MK Equity,B18TLC4,Technology,True,Frontken Corp Bhd
-UNI MK Equity,B05MGY6,Technology,True,Unisem M Bhd
-PENT MK Equity,6658317,Technology,True,Pentamaster Corp Bhd
-UWC MK Equity,BJ17CJ5,Technology,True,UWC BHD
-SEQB MK Equity,6535186,Technology,True,Sam Engineering & Equipment M
-GENE MK Equity,B0NLT57,Technology,False,Genetec Technology Bhd
-DNEX MK Equity,6891833,Technology,True,Dagang NeXchange Bhd
-MI MK Equity,BZ57CS2,Technology,True,Mi Technovation Bhd
-DUFU MK Equity,B1SVX57,Technology,False,Dufu Technology Corp Bhd
-SCT MK Equity,B02JPH6,Technology,False,Supercomnet Technologies Bhd
-JFTB MK Equity,B2QPF74,Technology,False,JF Technology Bhd
-GTB MK Equity,B00NYQ2,Technology,False,Globetronics Technology BHD
-JHMC MK Equity,B18Z0F8,Technology,False,JHM Consolidation Bhd
-VST MK Equity,B4TKFV4,Technology,False,VSTECS Bhd
-ECA MK Equity,BP7MNQ0,Technology,False,ECA Integrated Solution Bhd
-ELSR MK Equity,B0CL691,Technology,False,Elsoft Research Bhd
-JCYH MK Equity,B62JK51,Technology,False,JCY International Bhd
-KESM MK Equity,6489755,Technology,False,Kesm Industries Bhd
-AIMFLEX MK Equity,BK5PHH5,Technology,False,Aimflex Bhd
-AMLS MK Equity,BYNQJ27,Technology,False,Aemulus Holdings Bhd
-FPG MK Equity,BY9C4F7,Technology,False,FoundPac Group Bhd
-OMST MK Equity,6573175,Technology,False,Omesti Bhd
-MKRMB MK Equity,B0VCDT4,Technology,False,Mikro MSC Bhd
-GRPB MK Equity,B0984J1,Technology,False,Green Packet Bhd
-KGRB MK Equity,B59L1C7,Technology,False,Kelington Group Bhd
-CDB MK Equity,6086242,Telecommunication,True,CELCOMDIGI BHD
-MAXIS MK Equity,B5387L5,Telecommunication,True,Maxis Bhd
-AXIATA MK Equity,B2QZGV5,Telecommunication,True,Axiata Group Bhd
-T MK Equity,6868398,Telecommunication,True,Telekom Malaysia Bhd
-TDC MK Equity,6336538,Telecommunication,True,TIME dotCom Bhd
-OCK MK Equity,B8DB3R3,Telecommunication,False,OCK Group Bhd
-RIB MK Equity,6729525,Telecommunication,False,REDtone Digital Bhd
-OHB MK Equity,6726861,Telecommunication,False,OPCOM Holdings Bhd
-MISC MK Equity,6557997,Transportation,True,MISC Bhd
-MAHB MK Equity,6188193,Transportation,True,Malaysia Airports Holdings Bhd
-WPRTS MK Equity,BDFM1K8,Transportation,True,Westports Holdings Bhd
-CAPITALA MK Equity,B03J9L7,Transportation,False,CAPITAL A BHD
-HEXTECH MK Equity,B2477M1,Transportation,True,HextarTechnologies Solutions B
-BPH MK Equity,6345697,Transportation,False,Bintulu Port Holdings Bhd
-GDX MK Equity,B08TZP8,Transportation,False,GDEX Bhd
-PERAK MK Equity,BDGJPP1,Transportation,False,Perak Transit Bhd
-TASCO MK Equity,B2NB597,Transportation,False,TASCO Bhd
-AAX MK Equity,BB36C61,Transportation,False,AirAsia X Bhd
-SHIN MK Equity,B56H333,Transportation,False,Shin Yang Group Bhd
-HALG MK Equity,6728782,Transportation,False,Harbour-Link Group Bhd
-SURIA MK Equity,6834601,Transportation,False,Suria Capital Holdings Bhd
-POSM MK Equity,6965909,Transportation,False,Pos Malaysia BHD
-SWIFT MK Equity,BN70TV7,Transportation,False,Swift Haulage Bhd
-TNL MK Equity,6892063,Transportation,False,Tiong NAM Logistics Holdings B
-FM MK Equity,B063H67,Transportation,False,FM Global Logistics Holdings B
-MBC MK Equity,6719128,Transportation,False,Malaysian Bulk Carriers Bhd
-CLH MK Equity,6363763,Transportation,False,CJ Century Logistics Holdings
-HUBL MK Equity,6301503,Transportation,False,Hubline Bhd
-TRO MK Equity,6882097,Transportation,False,Transocean Holdings BHD
-TNB MK Equity,6904612,Utilities,True,Tenaga Nasional Bhd
-PTG MK Equity,6703972,Utilities,True,Petronas Gas Bhd
-YTLP MK Equity,B01GQS6,Utilities,False,YTL Power International Bhd
-GMB MK Equity,B8FL1M2,Utilities,True,Gas Malaysia Bhd
-MLK MK Equity,BWXN162,Utilities,False,Malakoff Corp Bhd
-MFCB MK Equity,6575740,Utilities,False,Mega First Corp BHD
-TWK MK Equity,B0DQSM2,Utilities,False,Taliworks Corp Bhd
-RAHH MK Equity,BD0CP78,Utilities,False,Ranhill Utilities Bhd
-JAK MK Equity,B01R1Y0,Utilities,False,JAKS Resources Bhd
-PBAH MK Equity,6510354,Utilities,False,PBA Holdings BHD
-PEST MK Equity,B8095F2,Utilities,False,PESTECH International Bhd
-SALC MK Equity,6791427,Utilities,False,Salcon Bhd
-RTEC MK Equity,6788816,Utilities,False,Rohas Tecnic Bhd
+id,id_bbg,sector,FBM100,name
+6289160,DLM MK Equity,Consumer Staples,False,Dutch Lady Milk Industries BHD
+6381356,IWCB MK Equity,Real Estate Development,False,Iskandar Waterfront City Bhd
+6490092,GKEN MK Equity,Construction,False,George Kent Malaysia BHD
+6308010,EKO MK Equity,Construction,False,Ekovest BHD
+6666592,MAXIM MK Equity,Real Estate Development,False,Maxim Global Bhd
+B0VY431,CGHB MK Equity,,False,Compugates Holdings BHd
+B79YDV3,PREIT MK Equity,REIT,False,Pavilion Real Estate Investmen
+6497736,ECOF MK Equity,Real Estate Development,False,Ecofirst Consolidated Bhd
+6380825,GRND MK Equity,,False,Grand Central Enterprises Bhd
+6179551,THR MK Equity,Materials & Metals,False,Tong Herr Resources Bhd
+6180854,PERM MK Equity,,False,Permaju Industries Bhd
+6557997,MISC MK Equity,Transportation,True,MISC Bhd
+6812599,TURI MK Equity,,False,Turiya Bhd
+B012W42,PBK MK Equity,Banks,True,Public Bank Bhd
+6556693,MPI MK Equity,Technology,True,Malaysian Pacific Industries B
+6513911,PUC MK Equity,,False,PUC BHD
+6812555,MPR MK Equity,Media & Entertainment,False,Media Prima Bhd
+6707350,DOME MK Equity,Industrial,False,Dominant Enterprise Bhd
+6609627,MAG MK Equity,Gaming,False,Magnum Bhd
+6111810,KHIN MK Equity,,False,Khind Holdings Bhd
+6810883,SHL MK Equity,,False,Sin Heng Chan Malaya Bhd
+6609597,MIT MK Equity,Financial,False,Mulpha International Bhd
+6310985,UEME MK Equity,Construction,False,UEM Edgenta Bhd
+6670236,PAR MK Equity,Real Estate Development,False,Paramount Corp Bhd
+6916684,UMR MK Equity,Plantation ,False,United Malacca Bhd
+6556552,SRB MK Equity,,False,Sapura Resources Bhd
+6365491,LGH MK Equity,Real Estate Development,False,Land & General Bhd
+B14L2Q5,MJPR MK Equity,,False,Majuperak Holdings Bhd
+6333153,FIHB MK Equity,,False,Federal International Holdings
+6057680,GENP MK Equity,Plantation ,False,Genting Plantations Bhd
+6575740,MFCB MK Equity,Utilities,False,Mega First Corp BHD
+6381970,GUH MK Equity,,False,GUH Holdings Bhd
+6577401,MEN MK Equity,Real Estate Development,False,Menang Corp M Bhd
+6297743,HAP MK Equity,Plantation ,False,HAP Seng Consolidated Bhd
+B0RY9Y1,BL MK Equity,Gaming,False,Berjaya Land Bhd
+6280174,FACI MK Equity,,False,FACB Industries Inc Bhd
+6577898,MENT MK Equity,,False,Mentiga Corp BHD
+6801519,SHMB MK Equity,Consumer Discretionary,False,Shangri-La Hotels Malaysia Bhd
+6580465,MER MK Equity,,False,Mercury Industries BHD
+6910824,UMWH MK Equity,Automotive,False,UMW Holdings Bhd
+6904690,ZELN MK Equity,,False,Zelan Bhd
+6045470,APOF MK Equity,Consumer Staples,False,Apollo Food Holdings Bhd
+6986717,YNS MK Equity,Oil & Gas,True,Yinson Holdings BHD
+6455217,IJM MK Equity,Construction,False,IJM Corp Bhd
+B04SKF4,PSN MK Equity,,False,Pensonic Holdings BHD
+6472818,TANC MK Equity,Real Estate Development,False,Tanco Holdings Bhd
+6506104,WCE MK Equity,Construction,False,WCE Holdings Bhd
+B0DD1H9,KRI MK Equity,Rubber Glove,True,Kossan Rubber Industries Bhd
+6497446,KLK MK Equity,Plantation ,True,Kuala Lumpur Kepong Bhd
+6716055,SFCA MK Equity,,False,S&F Capital Bhd
+6917148,UPL MK Equity,Plantation ,True,United Plantations BHD
+6495150,LOTUS MK Equity,Consumer Staples,False,Lotus KFM BHD
+6692768,GOB MK Equity,Real Estate Development,False,Global Oriental Bhd
+6555946,FNH MK Equity,Consumer Staples,True,Fraser & Neave Holdings Bhd
+6812771,KUPS MK Equity,Industrial,False,Kumpulan Perangsang Selangor B
+6497725,KUD MK Equity,Financial,False,Kuchai Development BHD
+6759254,HEXCARE MK Equity,Rubber Glove,False,Hextar Healthcare Bhd
+6710723,ABLE MK Equity,Consumer Staples,False,Able Global Bhd
+B01T3D9,INDU MK Equity,,False,Industronics BHD
+6563778,UC MK Equity,,False,UCrest Bhd
+6710358,QC MK Equity,,False,Quality Concrete Holdings Bhd
+B5L7640,FLB MK Equity,Furniture & Wood,False,Focus Lumber Bhd
+6427227,ABB MK Equity,Consumer Discretionary,False,Asia Brands BHD
+6308515,EMI MK Equity,,False,Emico Holdings Bhd
+6708096,PNE MK Equity,,False,PNE PCB BHD
+B05MYX1,MQ MK Equity,,False,MQ Technology Bhd
+6417176,CWG MK Equity,Plantation ,False,Cepatwawasan Group BHD
+B1W2P83,BON MK Equity,Consumer Discretionary,False,Bonia Corp Bhd
+6697644,PCCS MK Equity,Consumer Discretionary,False,PCCS Group BHD
+6017424,ARK MK Equity,,False,Ark Resources Holdings Bhd
+6100562,DRLM MK Equity,,False,Bina Darulaman Bhd
+6552282,SMELT MK Equity,Materials & Metals,False,Malaysia Smelting Corp Bhd
+6524571,PW MK Equity,,False,PWF Corp Bhd
+6436892,HLBK MK Equity,Banks,True,Hong Leong Bank Bhd
+6397803,HEIM MK Equity,Brewery & Tobacco,True,Heineken Malaysia Bhd
+6693266,PINT MK Equity,Construction,False,Pintaras Jaya BHD
+B1HMM21,WAT MK Equity,,False,Watta Holdings BHD
+6149792,BTM MK Equity,,False,BTM Resources BHD
+6728782,HALG MK Equity,Transportation,False,Harbour-Link Group Bhd
+6820796,INNO MK Equity,Plantation ,False,Innoprise Plantations BHD
+B1VZ5G1,SCI MK Equity,Materials & Metals,True,Scientex BHD
+6013002,AJY MK Equity,Industrial,False,Ajiya BHD
+6574877,MCL MK Equity,,False,Jerasia Capital BHD
+B09SYR9,CBP MK Equity,Industrial,False,CB Industrial Product Holding
+6788816,RTEC MK Equity,Utilities,False,Rohas Tecnic Bhd
+6150460,STB MK Equity,,False,Seacera Group Bhd
+B2R8CT3,MCIL MK Equity,Media & Entertainment,False,Media Chinese International Lt
+6910891,BERT MK Equity,,False,Bertam Alliance Bhd
+6677215,PO MK Equity,Financial,False,Pacific & Orient Bhd
+6024996,AMW MK Equity,Consumer Discretionary,False,Amway Malaysia Holdings Bhd
+6877736,GCAP MK Equity,,False,G Capital Bhd
+6232777,CCDO MK Equity,Real Estate Development,False,Crescendo Corp Bhd
+6703972,PTG MK Equity,Utilities,True,Petronas Gas Bhd
+6841571,STAR MK Equity,Media & Entertainment,False,Star Media Group Bhd
+6905563,TWB MK Equity,,False,Timberwell BHD
+6081731,ZEC MK Equity,,False,Zecon Bhd
+6019312,PTT MK Equity,,False,PTT Synergy Group Bhd
+B05L892,TOPG MK Equity,Rubber Glove,True,Top Glove Corp Bhd
+6532701,ICB MK Equity,Software & Services,False,Iris Corp Bhd
+6087375,TGI MK Equity,Materials & Metals,False,Thong Guan Industries Bhd
+6041940,WHB MK Equity,,False,Woodlandor Holdings Bhd
+B00CQY1,EIG MK Equity,,False,Esthetics International Group
+B1VXKN7,GENM MK Equity,Gaming,True,Genting Malaysia Bhd
+6084622,BAK MK Equity,Plantation ,False,Batu Kawan Bhd
+6092391,PPB MK Equity,,False,Pinehill Pacific Bhd
+6794017,SDR MK Equity,Real Estate Development,False,Selangor Dredging Bhd
+6188193,MAHB MK Equity,Transportation,True,Malaysia Airports Holdings Bhd
+6742469,RRE MK Equity,Plantation ,False,Riverview Rubber Estates BHD
+6786757,SEAL MK Equity,,False,Seal Inc Bhd
+6524883,NCHB MK Equity,Consumer Discretionary,False,Niche Capital Emas Holdings BH
+6408084,KPS MK Equity,,False,KPS Consortium BHD
+6565019,MUH MK Equity,,False,Multi-Usage Holdings BHD
+6882729,TGL MK Equity,,False,Teo Guan Lee Corp BHD
+B1W58N8,LBA MK Equity,Materials & Metals,False,LB Aluminium BHD
+6489755,KESM MK Equity,Technology,False,Kesm Industries Bhd
+B142NG5,DEHB MK Equity,Oil & Gas,True,Dayang Enterprise Holdings Bhd
+B1C3ZB9,FIT MK Equity,,False,Fitters Diversified Bhd
+6673699,PROL MK Equity,Consumer Discretionary,False,Prolexus BHD
+6494953,KJB MK Equity,,False,Kumpulan Jetson BHD
+6523589,CVB MK Equity,Real Estate Development,False,Country View Bhd
+6493585,KPJ MK Equity,Healthcare,True,KPJ Healthcare Bhd
+B0684B6,PRST MK Equity,,False,Prestar Resources Bhd
+B0984J1,GRPB MK Equity,Technology,False,Green Packet Bhd
+6269816,DRB MK Equity,Automotive,True,DRB-Hicom Bhd
+B0F1NS6,KFB MK Equity,Consumer Staples,False,Kawan Food Bhd
+6047465,AF MK Equity,Consumer Services,False,Asia File Corp BHD
+6711793,DICB MK Equity,,False,Digistar Corp Bhd
+6708739,LFE MK Equity,,False,LFE Corp Bhd
+6731036,RGB MK Equity,Gaming,False,RGB International Bhd
+B01QKV7,DBB MK Equity,Healthcare,True,Duopharma Biotech Bhd
+6489614,KEN MK Equity,Real Estate Development,False,KEN Holdings Bhd
+6140568,VZH MK Equity,Construction,False,Vizione Holdings Bhd
+6724122,PSIP MK Equity,,False,Ageson Bhd
+6301503,HUBL MK Equity,Transportation,False,Hubline Bhd
+6808123,STMB MK Equity,Financial,True,Syarikat Takaful Malaysia Kelu
+6535186,SEQB MK Equity,Technology,True,Sam Engineering & Equipment M
+6045942,APX MK Equity,Financial,False,Apex Equity Holdings Bhd
+6787590,SHLC MK Equity,Real Estate Development,False,SHL Consolidated Bhd
+6253176,DKSH MK Equity,Consumer Services,False,DKSH Holdings Malaysia Bhd
+6191157,CTP MK Equity,Plantation ,False,Chin Teck Plantations BHD
+6114701,BPAK MK Equity,,False,Box-Pak Malaysia BHD
+6569679,MIG MK Equity,,False,Melewar Industrial Group Bhd
+6024565,PARKWD MK Equity,,False,Parkwood Holdings BHD
+6525790,MAGNA MK Equity,Real Estate Development,False,Magna Prima Bhd
+6038210,ALN MK Equity,Consumer Discretionary,False,Atlan Holdings Bhd
+6907440,TWP MK Equity,Consumer Services,False,Tien Wah Press Holdings Bhd
+6137311,MHBS MK Equity,Financial,False,Manulife Holdings Bhd
+6909093,TGN MK Equity,,False,Teck Guan Perdana BHD
+6302852,EPMB MK Equity,Automotive,False,EP Manufacturing Bhd
+6572600,PMM MK Equity,Consumer Discretionary,False,Panasonic Manufacturing Malays
+B54JP79,INRI MK Equity,Technology,True,Inari Amertron Bhd
+B1SC1H8,PNH MK Equity,,False,Puncak Niaga Holdings Bhd
+6721413,RALC MK Equity,,False,Ralco Corp BHD
+6100863,HUME MK Equity,Construction,False,Hume Cement Industries Bhd
+6113429,VSI MK Equity,EMS,True,VS Industry Bhd
+6113043,NHF MK Equity,Automotive,False,New Hoong Fatt Holdings Bhd
+6153362,AZR MK Equity,Construction,False,Ahmad Zaki Resources Bhd
+6154376,KPPROP MK Equity,Real Estate Development,False,Kerjaya Prospek Property Bhd
+6834601,SURIA MK Equity,Transportation,False,Suria Capital Holdings Bhd
+6040947,KOMA MK Equity,,False,Komarkcorp Bhd
+6742715,RSB MK Equity,Real Estate Development,False,Rapid Synergy Bhd
+B28VNR6,HAPL MK Equity,Plantation ,False,Hap Seng Plantations Holdings
+BBP6LY0,WCTHG MK Equity,Construction,False,WCT Holdings Bhd
+6086242,CDB MK Equity,Telecommunication,True,CELCOMDIGI BHD
+6518875,WLW MK Equity,Software & Services,False,Willowglen MSC BHD
+6563790,PINE MK Equity,,False,Pineapple Resources BHD
+6534592,TRC MK Equity,Construction,False,TRC Synergy Bhd
+6705439,PRG MK Equity,,False,PRG Holdings BHD
+6964810,MYTECH MK Equity,,False,MyTech Group BHD
+6509891,TSRC MK Equity,,False,TSR Capital BHD
+6491448,KHI MK Equity,,False,Kim Hin Industry Bhd
+6534451,ENGT MK Equity,Materials & Metals,False,Engtex Group Bhd
+6889612,MILUX MK Equity,Consumer Discretionary,False,Milux Corp BHD
+B06WMC5,MEXT MK Equity,,False,LYC Healthcare Bhd
+6075745,CIMB MK Equity,Banks,True,CIMB Group Holdings Bhd
+6378596,GOP MK Equity,Plantation ,False,Gopeng BHD
+6731371,AV MK Equity,,False,Avillion BHD
+6609304,MUHI MK Equity,Oil & Gas,False,Muhibbah Engineering M Bhd
+6495633,KLR MK Equity,Plantation ,False,Kluang Rubber Co Malaya BHD
+B05DZD1,CSCS MK Equity,Materials & Metals,False,CSC Steel Holdings Bhd
+6159906,CIH MK Equity,Consumer Staples,False,CI Holdings Bhd
+B0217L0,PP MK Equity,Materials & Metals,False,Public Packages Holdings Bhd
+B06KJ28,DSTN MK Equity,Industrial,False,Destini Bhd
+6348395,FOR MK Equity,EMS,False,Formosa Prosonic Industries BH
+6876960,TEX MK Equity,Industrial,False,Texchem Resources Bhd
+B3KB661,FGB MK Equity,,False,Fintec Global Bhd
+6726827,ONEGLOVE MK Equity,,False,One Glove Group Bhd
+6654928,CLASSITA MK Equity,,False,Classita Holdings Bhd
+6248183,ALR MK Equity,Materials & Metals,False,Analabs Resources BHD
+6608798,CYLC MK Equity,,False,CYL Corp BHD
+B03DHR1,SKP MK Equity,EMS,True,SKP Resources Bhd
+6508520,LAY MK Equity,Consumer Staples,False,Lay Hong BHD
+6587121,LGB MK Equity,Software & Services,False,Lambo Group BHD
+B06HC42,EVF MK Equity,Furniture & Wood,False,Evergreen Fibreboard Bhd
+6719128,MBC MK Equity,Transportation,False,Malaysian Bulk Carriers Bhd
+B1SF2F2,XOXN MK Equity,,False,XOX Networks Bhd
+B3ZKH48,AVALAND MK Equity,Real Estate Development,False,Avaland Bhd
+6044370,AJR MK Equity,Materials & Metals,False,Ann Joo Resources Bhd
+B0WW490,IMAS MK Equity,Materials & Metals,False,Imaspro Corp Bhd
+B01KLG1,NYL MK Equity,,False,Nylex Malaysia BHD
+6091462,YTB MK Equity,Real Estate Development,False,Yong Tai Bhd
+B2NB597,TASCO MK Equity,Transportation,False,TASCO Bhd
+6493488,KKB MK Equity,Construction,False,KKB Engineering BHD
+6868774,SPSB MK Equity,Real Estate Development,True,SP Setia Bhd Group
+B1LDQV7,RESI MK Equity,,False,Resintech Bhd
+6599438,MIEC MK Equity,Furniture & Wood,False,Mieco Chipboard BHD
+6579678,MKH MK Equity,Real Estate Development,False,MKH Bhd
+B02JPH6,SCT MK Equity,Technology,False,Supercomnet Technologies Bhd
+B01LS18,CWH MK Equity,Industrial,False,Chin Well Holdings BHD
+B2Q1KT9,SLPR MK Equity,Materials & Metals,False,SLP Resources Bhd
+6331652,FG MK Equity,,False,Farlim Group BHD
+6461247,ILB MK Equity,,False,ILB Group Bhd
+6809137,SINM MK Equity,,False,Sinmah Capital BHD
+B5Q6WR7,SERES MK Equity,,False,Seremban Engineering Bhd
+6868815,SYS MK Equity,Consumer Staples,False,SEG International BHD
+6282114,OFIH MK Equity,Consumer Staples,False,Oriental Food Industries Holdi
+6696726,POS MK Equity,,False,Lion Posim Bhd
+6202792,APM MK Equity,Automotive,False,APM Automotive Holdings Bhd
+6658458,PRL MK Equity,,False,Parlo Bhd
+6219822,LTKM MK Equity,Consumer Staples,False,LTKM BHD
+B1V7L36,SUCB MK Equity,Rubber Glove,True,Supermax Corp Bhd
+6691077,LSTI MK Equity,Rubber Glove,False,Luster Industries Bhd
+6206556,CNAC MK Equity,,False,CN Asia Corp BHD
+B5VN637,HIBI MK Equity,Oil & Gas,True,Hibiscus Petroleum Bhd
+6202963,WTCH MK Equity,,False,Warisan TC Holdings Bhd
+6587347,OPB MK Equity,,False,Ornapaper Bhd
+6178042,TWL MK Equity,Real Estate Development,False,TWL Holdings Bhd
+B1Q2KS4,GHLS MK Equity,Software & Services,False,GHL Systems Bhd
+6261652,GLMC MK Equity,Real Estate Development,False,Glomac Bhd
+6677442,PJSB MK Equity,,False,PJBUMI Bhd
+6449414,RENEUCO MK Equity,,False,Reneuco BHD
+B39XYQ4,LUXC MK Equity,Materials & Metals,False,Luxchem Corp Bhd
+6586786,XOXT MK Equity,,False,XOX Technology Bhd
+6726861,OHB MK Equity,Telecommunication,False,OPCOM Holdings Bhd
+6654984,JAG MK Equity,Industrial,False,JAG Bhd
+B09MBH0,T7G MK Equity,Oil & Gas,False,T7 Global Bhd
+B134VQ8,JADI MK Equity,,False,Jadi Imaging Holdings Bhd
+B58PQ81,CATCHA MK Equity,,False,Catcha Digital Bhd
+B05LVY8,STC MK Equity,Industrial,False,Success Transformer Corp Bhd
+B0JFQZ2,ZENTECH MK Equity,,False,ZEN Tech International Bhd
+B0HWY40,MAGH MK Equity,Consumer Staples,False,Mag Holdings Bhd
+6534945,TARE MK Equity,Consumer Staples,False,Three-A Resources BHD
+B00H4X1,ANNM MK Equity,,False,Annum Bhd
+B03P5P1,NCT MK Equity,Real Estate Development,False,NCT Alliance Bhd
+B64J4Y6,TILB MK Equity,Real Estate Development,False,Tambun Indah Land Bhd
+6725631,MARG MK Equity,Oil & Gas,False,Marine & General Bhd
+B058J67,VSOL MK Equity,,False,Vsolar Group Bhd
+6141635,ONC MK Equity,Real Estate Development,False,OCR Group Bhd
+6726515,CABC MK Equity,Consumer Staples,False,CAB Cakaran Corp Bhd
+6608453,NETX MK Equity,,False,Netx Holdings Bhd
+6108317,PLB MK Equity,,False,PLB Engineering Bhd
+6609230,MUD MK Equity,Materials & Metals,False,Muda Holdings Bhd
+B1M32W9,SENTRAL MK Equity,REIT,False,Sentral REIT
+B09RBP3,MLAB MK Equity,,False,Mlabs Systems Bhd
+6053990,CME MK Equity,,False,CME Group BHD
+B0519F5,CAM MK Equity,,False,CAM Resources BHD
+6086231,CCK MK Equity,Consumer Staples,False,CCK Consolidated Holdings BHD
+6034155,AHBH MK Equity,,False,AHB Holdings Bhd
+6531377,AEM MK Equity,,False,AE Multi Holdings Bhd
+6084707,ASB MK Equity,Industrial,False,Advance Synergy Bhd
+6674904,PRTA MK Equity,Construction,False,Protasco Bhd
+B3X8MB6,SRCB MK Equity,,False,Sarawak Cable Bhd
+6773737,ECW MK Equity,Real Estate Development,True,Eco World Development Group Bh
+6548719,HYB MK Equity,,False,Hua Yang Bhd
+B0L2MN1,OSKV MK Equity,,False,OSK Ventures International Bhd
+B188WD9,FAVCO MK Equity,Industrial,False,Favelle Favco Bhd
+6467030,IREKA MK Equity,,False,Ireka Corp Bhd
+B01JK05,MSB MK Equity,,False,Mycron Steel Bhd
+B18TLC4,FRCB MK Equity,Technology,True,Frontken Corp Bhd
+6674711,CSH MK Equity,,False,CSH Alliance Bhd
+6740979,PKH MK Equity,Consumer Discretionary,False,Poh Kong Holdings Bhd
+B2QG5C2,EWEI MK Equity,Real Estate Development,False,Ewein Bhd
+6770556,SOP MK Equity,Plantation ,True,Sarawak Oil Palms Bhd
+B18Z0F8,JHMC MK Equity,Technology,False,JHM Consolidation Bhd
+B03GWH5,COCO MK Equity,Industrial,False,Coastal Contracts Bhd
+6776598,IBHD MK Equity,Real Estate Development,False,I-Bhd
+B0CMCL8,AXRB MK Equity,REIT,True,Axis Real Estate Investment Tr
+B1VJC39,MEHB MK Equity,,False,Melati Ehsan Holdings Bhd
+6603362,NTPM MK Equity,Consumer Staples,False,NTPM Holdings Bhd
+6173683,HHM MK Equity,Consumer Services,False,Harrisons Holdings Malaysia Bh
+6419945,XLH MK Equity,Consumer Staples,False,XL Holdings BHD
+6680310,NOVM MK Equity,Software & Services,False,Nova MSC Bhd
+B08BFM1,ALRICH MK Equity,,False,Aldrich Resources Bhd
+6741701,IQZAN MK Equity,,False,Iqzan Holding Bhd
+B00QBW6,PESONA MK Equity,Industrial,False,Pesona Metro Holdings Bhd
+B0CMCW9,EONM MK Equity,,False,Eonmetall Group Bhd
+B02JY46,KNMG MK Equity,Oil & Gas,False,KNM Group Bhd
+B0J2LF8,NNCB MK Equity,Software & Services,False,Nexgram Holdings Bhd
+6712406,MLG MK Equity,Construction,False,MGB Bhd
+B6WFG06,AWTC MK Equity,Software & Services,False,Awanbiru Technology Bhd
+6424541,PWP MK Equity,Furniture & Wood,False,Priceworth International Bhd
+B13JSP1,THP MK Equity,Plantation ,False,TH Plantations Bhd
+B16TVC6,ADV MK Equity,Rubber Glove,False,Adventa Bhd
+B030D96,SER MK Equity,,False,SerSol Bhd
+B0K4GS1,SCIC MK Equity,Software & Services,False,Scicom MSC Bhd
+B0RGJD6,N2N MK Equity,Software & Services,False,N2N Connect Bhd
+B0LSTW7,TMCL MK Equity,Healthcare,False,TMC Life Sciences Bhd
+B0CMD48,MTTB MK Equity,,False,mTouche Technology Bhd
+B03HJ88,JCB MK Equity,Software & Services,False,JcbNext Bhd
+6580391,MESB MK Equity,,False,MESB BHD
+B11FKB1,RSAW MK Equity,Plantation ,False,Rimbunan Sawit Bhd
+B2477M1,HEXTECH MK Equity,Transportation,True,HextarTechnologies Solutions B
+B0KLDR0,VITRO MK Equity,Technology,False,ViTrox Corp Bhd
+B6VGS93,SWB MK Equity,Real Estate Development,False,Sunway Bhd
+6654898,BLDP MK Equity,Plantation ,False,BLD Plantation Bhd
+B1KL2D6,MYEG MK Equity,Software & Services,True,My EG Services Bhd
+6557867,MRC MK Equity,Construction,True,Malaysian Resources Corp Bhd
+6215626,CFM MK Equity,Consumer Services,False,Computer Forms Malaysia Bhd
+B3RZ1Q1,CLMT MK Equity,REIT,False,Capitaland Malaysia Trust
+B08TZP8,GDX MK Equity,Transportation,False,GDEX Bhd
+6520580,NPC MK Equity,Plantation ,False,NPC Resources BHD
+6507204,ACME MK Equity,,False,Acme Holdings Bhd
+6028471,YGCB MK Equity,Real Estate Development,False,Y&G Corp Bhd
+B014958,AYS MK Equity,,False,AYS Ventures Bhd
+B1TDTF4,ATRM MK Equity,REIT,False,Atrium Real Estate Investment
+6507550,RKI MK Equity,Furniture & Wood,False,Rhong Khen International BHD
+6073813,FHB MK Equity,Consumer Discretionary,False,Fiamma Holdings BHD
+6685081,HTVB MK Equity,Materials & Metals,False,Hiap Teck Venture Bhd
+B1W8S37,SLON MK Equity,,False,Superlon Holdings Bhd
+B01VPM8,GII MK Equity,,False,GIIB HOLDINGS Bhd
+6207731,DATA MK Equity,Software & Services,False,Dataprep Holdings BHD
+B65XBS0,BMHB MK Equity,Industrial,False,Boilermech Holding Bhd
+B01WHW5,HIL MK Equity,Materials & Metals,False,Hil Industries BHD
+B23C352,SCW MK Equity,,False,Scanwolf Corp Bhd
+B19VV63,TDEX MK Equity,,False,TechnoDex Bhd
+B62QFR9,SREIT MK Equity,REIT,False,Sunway Real Estate Investment
+6153414,MAA MK Equity,,False,MAA Group Bhd
+6592921,LLB MK Equity,Materials & Metals,False,Lion Industries Corp Bhd
+B09FGC9,CAB MK Equity,Brewery & Tobacco,False,Carlsberg Brewery Malaysia Bhd
+6436717,HO MK Equity,Construction,False,Ho Hup Construction Co Bhd
+6556723,SSR MK Equity,Real Estate Development,False,Sunsuria Bhd
+B05F2W5,ATEC MK Equity,,False,Axteria Group BHD
+B05KY68,GMUT MK Equity,Real Estate Development,False,Gromutual Bhd
+6084086,AMT MK Equity,,False,Amtel Holdings Bhd
+B1VP2N7,TSCB MK Equity,Consumer Staples,False,Teo Seng Capital Bhd
+B0DQSM2,TWK MK Equity,Utilities,False,Taliworks Corp Bhd
+6712365,YNHB MK Equity,Real Estate Development,False,YNH Property Bhd
+6552464,ALLZ MK Equity,Financial,False,Allianz Malaysia Bhd
+6644372,HEX MK Equity,Materials & Metals,False,Hexza Corp BHD
+6543101,MNRB MK Equity,Financial,False,MNRB Holdings Bhd
+B23WT10,SPLB MK Equity,Plantation ,False,Sarawak Plantation Bhd
+B40GYF8,MSM MK Equity,Consumer Staples,False,MSM Malaysia Holdings Bhd
+6210814,ENRA MK Equity,,False,ENRA Group Bhd
+B1RM6F2,PGHB MK Equity,Materials & Metals,False,Pantech Group Holdings Bhd
+6010973,AJI MK Equity,Consumer Staples,False,Ajinomoto Malaysia Bhd
+6680116,MKL MK Equity,Real Estate Development,False,MK Land Holdings Bhd
+B2QZGV5,AXIATA MK Equity,Telecommunication,True,Axiata Group Bhd
+B3FKMY3,UEMS MK Equity,Real Estate Development,True,UEM Sunrise Bhd
+6921398,UMS MK Equity,,False,UMS Holdings BHD
+B06B9D2,BPP MK Equity,Materials & Metals,False,BP Plastics Holding Bhd
+6489045,KHEE MK Equity,,False,Khee San BHD
+B1GJ8D6,GFHB MK Equity,,False,AbleGroup Bhd
+6668963,APH MK Equity,Real Estate Development,False,Asian Pac Holdings Bhd
+B6ZRLP9,SNT MK Equity,,False,Sentoria Group Bhd
+6284950,TWH MK Equity,Materials & Metals,False,Ta Win Holdings BHD
+B064DY0,MSW MK Equity,Materials & Metals,False,Malaysia Steel Works KL Bhd
+B063H67,FM MK Equity,Transportation,False,FM Global Logistics Holdings B
+6510354,PBAH MK Equity,Utilities,False,PBA Holdings BHD
+6871125,TCM MK Equity,Automotive,False,Tan Chong Motor Holdings Bhd
+B4TKFV4,VST MK Equity,Technology,False,VSTECS Bhd
+B00PSW2,UCHI MK Equity,EMS,True,Uchi Technologies Bhd
+6345697,BPH MK Equity,Transportation,False,Bintulu Port Holdings Bhd
+6556756,MUI MK Equity,Consumer Discretionary,False,Malayan United Industries Bhd
+6284109,HCK MK Equity,Real Estate Development,False,HCK Capital Group Bhd
+B03KZT0,JOE MK Equity,,False,JOE HOLDING BHD
+B1YY2W0,KTN MK Equity,,False,Konsortium Transnasional Bhd
+6265007,EURO MK Equity,,False,Eurospan Holdings BHD
+6740236,ARBB MK Equity,Software & Services,False,ARB Bhd
+B6ZS981,MTRD MK Equity,Materials & Metals,False,Metrod Holdings BHD
+B5B9GP7,XIDE MK Equity,,False,Xidelang Holdings Ltd
+6286893,LHI MK Equity,Furniture & Wood,False,Lii Hen Industries BHD
+B29H555,IMPIANA MK Equity,,False,Impiana Hotels Bhd
+6436126,YTL MK Equity,Construction,True,YTL Corp Bhd
+6248826,APEX MK Equity,Healthcare,False,Apex Healthcare Bhd
+6092904,SHC MK Equity,,False,See Hup Consolidated Bhd
+6870586,TALA MK Equity,,False,Talam Transform Bhd
+6989200,HLG MK Equity,Financial,True,Hong Leong Capital Bhd
+6803504,HYR MK Equity,Energy,True,Hengyuan Refining Co Bhd
+B29H4P8,ACSM MK Equity,Financial,False,AEON Credit Service M Bhd
+6807272,SBC MK Equity,Real Estate Development,False,SBC Corp Bhd
+B03FFT5,PICB MK Equity,,False,Progressive Impact Corp Bhd
+6791427,SALC MK Equity,Utilities,False,Salcon Bhd
+B67GVX2,SYTC MK Equity,Software & Services,False,Systech Bhd
+B00NLW7,AURO MK Equity,,False,Auro Holding Bhd
+B123VH7,TRIV MK Equity,,False,Trive Property Group BHD
+B11L7D0,APP MK Equity,,False,AppAsia Bhd
+6799971,PELI MK Equity,Consumer Services,False,Pelikan International Corp Bhd
+B00NYQ2,GTB MK Equity,Technology,False,Globetronics Technology BHD
+B03P5N9,CSB MK Equity,Furniture & Wood,False,Classic Scenic Bhd
+6312033,MHC MK Equity,Plantation ,False,MHC Plantations Bhd
+6681669,PEP MK Equity,Plantation ,True,PPB Group Bhd
+6311148,KIML MK Equity,Plantation ,False,Kim Loong Resources Bhd
+6283322,PDZ MK Equity,,False,PDZ Holdings Bhd
+B03DHS2,WANG MK Equity,,False,Wang-Zheng Bhd
+6045179,PRK MK Equity,,False,Perak Corp BHD
+6183499,TAH MK Equity,Plantation ,True,Ta Ann Holdings Bhd
+B10SMR1,SMRT MK Equity,Consumer Services,False,SMRT Holdings Bhd
+B3XVSZ1,HDL MK Equity,,False,Handal Energy Bhd
+6047023,AMM MK Equity,Banks,True,AMMB Holdings Bhd
+6771429,WTKH MK Equity,Plantation ,False,WTK Holdings Bhd
+6100324,BIG MK Equity,,False,BIG Industries Bhd
+B0JVKJ2,YTLREIT MK Equity,REIT,False,YTL Hospitality REIT
+6306177,HEIT MK Equity,,False,HeiTech Padu Bhd
+6506160,AEON MK Equity,Consumer Staples,True,Aeon Co M Bhd
+B13WDL1,UMSN MK Equity,,False,UMS-Neiken Group Bhd
+B00NLX8,CHGP MK Equity,Construction,False,Chin Hin Group Property Bhd
+B02JHS1,CMT MK Equity,Construction,False,Comintel Corp Bhd
+B60JFL4,KICB MK Equity,Construction,False,Kimlun Corp Bhd
+B13P2T1,PRTB MK Equity,,False,Privasia Technology Bhd
+B02SBM0,GSCB MK Equity,,False,Ge-Shen Corp Bhd
+6606565,HARN MK Equity,Plantation ,False,Harn Len Corp Bhd
+6516910,SMIS MK Equity,,False,SMIS Corp BHD
+B63DFW4,HMCB MK Equity,Furniture & Wood,False,Homeritz Corp Bhd
+6296900,HSI MK Equity,Consumer Staples,False,Hup Seng Industries Bhd
+6353894,KNUS MK Equity,,False,Knusford BHD
+B3D2FW0,BARAKAH MK Equity,,False,Barakah Offshore Petroleum Bhd
+6729837,YSP MK Equity,Healthcare,False,YSP Southeast Asia Holdings Bh
+B5387L5,MAXIS MK Equity,Telecommunication,True,Maxis Bhd
+6505491,LTK MK Equity,Construction,False,Lingkaran Trans Kota Holdings
+B1LB9J0,ARET MK Equity,REIT,False,AmFIRST Real Estate Investment
+B1Y9MF8,DLUM MK Equity,Oil & Gas,False,Deleum Bhd
+B62JK51,JCYH MK Equity,Technology,False,JCY International Bhd
+B11YC23,TRET MK Equity,REIT,False,Tower Real Estate Investment T
+B0WJ4L3,FDGB MK Equity,,False,Focus Dynamics Group Bhd
+B05KKN7,ASD MK Equity,,False,Asdion Bhd
+B590KC7,COWH MK Equity,,False,China Ouhua Winery Holdings Lt
+6525983,OKAC MK Equity,Construction,False,Oka Corp BHD
+B19VC48,DFX MK Equity,,False,Divfex Bhd
+B3BPBW3,SELI MK Equity,,False,Sealink International Bhd
+B1BL6J9,AQAR MK Equity,REIT,False,Al-'Aqar Healthcare REIT
+B3BP9Y1,UZMA MK Equity,Oil & Gas,False,Uzma Bhd
+B08GQF6,ARNK MK Equity,Materials & Metals,False,A-Rank Bhd
+B41RS03,TOB MK Equity,,False,TAS Offshore Bhd
+B2PFKX6,SCGM MK Equity,Materials & Metals,False,SCGM Bhd
+6691464,NHB MK Equity,Oil & Gas,False,Naim Holdings Bhd
+B2PJYS1,TFPS MK Equity,,False,TFP Solutions Bhd
+B3D64D6,SUNZ MK Equity,,False,Sunzen Biotech Bhd
+B06Y599,KGMB MK Equity,,False,Kamdar Group M Bhd
+B549KB8,YOCB MK Equity,Furniture & Wood,False,Yoong Onn Corp BHD
+B2QPJK5,HART MK Equity,Rubber Glove,True,Hartalega Holdings Bhd
+B5TVT01,TMB MK Equity,,False,Turbo-Mech Bhd
+6183916,CGB MK Equity,Construction,False,Central Global Bhd
+B0LKYL7,ESC MK Equity,,False,ES Ceramics Technology Bhd
+6083748,FCW MK Equity,Consumer Discretionary,False,FCW Holdings BHD
+B4572F2,DGB MK Equity,,False,DGB Asia Bhd
+B2QPF74,JFTB MK Equity,Technology,False,JF Technology Bhd
+B3KG7D0,FIBON MK Equity,,False,Fibon Bhd
+6193012,CBEE MK Equity,Materials & Metals,False,Choo Bee Metal Industries Bhd
+B67YS79,MGRC MK Equity,,False,Malaysian Genomics Resource Ce
+6353474,FSBM MK Equity,,False,FSBM Holdings BHD
+B3SQ4Z3,CSHB MK Equity,Software & Services,False,Censof Holdings Bhd
+6660840,OIB MK Equity,Real Estate Development,False,Oriental Interest Bhd
+6182861,CMS MK Equity,Construction,False,Cahya Mata Sarawak Bhd
+6456221,INS MK Equity,Financial,False,Insas Bhd
+B4RLHP7,HBGLOB MK Equity,,False,HB Global Ltd
+6825531,JT MK Equity,Plantation ,False,Jaya Tiasa Holdings BHD
+B56NX86,MBL MK Equity,,False,Muar Ban Lee Group Bhd
+6500388,GADG MK Equity,Construction,False,Gadang Holdings BHD
+B63NKB8,WGB MK Equity,Construction,False,Widad Group Bhd
+6628150,NSOP MK Equity,Plantation ,False,Negri Sembilan Oil Palms BHD
+B012W31,RCE MK Equity,Financial,False,RCE Capital Bhd
+6320661,EUPE MK Equity,Real Estate Development,False,Eupe Corp Bhd
+B41LHL9,UOAD MK Equity,Real Estate Development,False,UOA Development Bhd
+B29TTR1,SIME MK Equity,Automotive,True,Sime Darby Bhd
+B0984H9,REKATECH MK Equity,,False,Rekatech Capital Bhd
+6520427,YB MK Equity,,False,YB Ventures Bhd
+B5KQGT3,PCHEM MK Equity,Materials & Metals,True,Petronas Chemicals Group Bhd
+B59L1C7,KGRB MK Equity,Technology,False,Kelington Group Bhd
+B1V7KX9,DTL MK Equity,Real Estate Development,False,DutaLand Bhd
+6629335,NESZ MK Equity,Consumer Staples,True,Nestle Malaysia Bhd
+B3ZN6B7,SMTG MK Equity,,False,SMTrack Bhd
+B58PZN9,BFD MK Equity,Consumer Discretionary,True,Berjaya Food Bhd
+B1LJQ04,AARET MK Equity,REIT,False,AmanahRaya Real Estate Investm
+B5M4SH7,MPSB MK Equity,,False,ManagePay Systems Bhd
+B6WC5H7,PLAB MK Equity,,False,Peterlabs Holdings Bhd
+6801133,SCIB MK Equity,Construction,False,Sarawak Consolidated Industrie
+B3ZH2K0,CYP MK Equity,Green Tech,False,Cypark Resources Bhd
+B12SNB0,VHB MK Equity,,False,VisDynamics Holdings Bhd
+6912961,KPG MK Equity,Construction,False,Kerjaya Prospek Group Bhd
+B4Y8MQ7,MTB MK Equity,,False,Mclean Technologies Bhd
+6344962,DNON MK Equity,,False,D'Nonce Technology Bhd
+B68KD60,AMGB MK Equity,,False,Asia Media Group Bhd
+B18YC59,TOME MK Equity,,False,Tomei Consolidated Bhd
+B653522,DFITY MK Equity,,False,DFCITY Group Bhd
+6085380,BORNO MK Equity,,False,Borneo Oil Bhd
+B0Q0VH7,REXI MK Equity,,False,Rexit Bhd
+B0LNJK0,BSLC MK Equity,Materials & Metals,False,BSL Corp Bhd
+B602XT7,SAHB MK Equity,Materials & Metals,False,Samchem Holdings Bhd
+B1SVX57,DUFU MK Equity,Technology,False,Dufu Technology Corp Bhd
+B0N45J2,ASPO MK Equity,,False,Asia Poly Holdings Bhd
+B0VY4Z3,UOAR MK Equity,REIT,False,UOA Real Estate Investment Tru
+B0CL691,ELSR MK Equity,Technology,False,Elsoft Research Bhd
+B0JT319,BORN MK Equity,Consumer Staples,False,Bahvest Resources Bhd
+B0CGYN6,CNHB MK Equity,,False,Citra Nusa Holdings Bhd
+B0F1KV8,TEXC MK Equity,,False,Tex Cycle Technology Malaysia
+B0MT2N1,WAJA MK Equity,,False,Waja Konsortium Bhd
+B06N262,GOCB MK Equity,,False,Green Ocean Corp Bhd
+B0VCDT4,MKRMB MK Equity,Technology,False,Mikro MSC Bhd
+B0NJDV5,EDHB MK Equity,,False,Eduspec Holdings Bhd
+B0BV3F7,YGLC MK Equity,,False,YGL Convergence Bhd
+B39XB07,INNC MK Equity,,False,Innity Corp Bhd
+6374646,BJAB MK Equity,Gaming,False,Berjaya Assets BHD
+6379652,PG MK Equity,,False,Paragon Globe Bhd
+6321590,PETRONM MK Equity,Energy,False,Petron Malaysia Refining & Mar
+6505587,JKG MK Equity,Real Estate Development,False,JKG Land Bhd
+B04ZNB2,MARC MK Equity,Consumer Discretionary,False,Marco Holdings BHD
+B01GQS6,YTLP MK Equity,Utilities,False,YTL Power International Bhd
+6110668,SYML MK Equity,Real Estate Development,False,Symphony Life Bhd
+6795322,SENI MK Equity,,False,Seni Jaya Corp BHD
+6139823,MBRIGHT MK Equity,Consumer Services,False,Meta Bright Group Bhd
+6106195,AAB MK Equity,,False,Astral Asia Bhd
+6668918,PMC MK Equity,,False,Pan Malaysia Corp Bhd
+6130019,STHB MK Equity,,False,Stella Holdings BHD
+6331931,FEH MK Equity,Plantation ,False,FAR East Holdings BHD
+6474773,JOH MK Equity,,False,Johan Holdings Bhd
+6486712,KS MK Equity,Plantation ,False,Keck Seng Malaysia Bhd
+6891833,DNEX MK Equity,Technology,True,Dagang NeXchange Bhd
+6498717,KHP MK Equity,Plantation ,False,Kretam Holdings BHD
+B00MRS2,DLG MK Equity,Oil & Gas,True,Dialog Group Bhd
+B0B8R34,IKEN MK Equity,,False,Inch Kenneth Kajang Rubber PLC
+6419064,HWA MK Equity,,False,Hwa Tai Industries BHD
+B1YYNJ4,MSGB MK Equity,Real Estate Development,True,Mah Sing Group Bhd
+6475806,PRTMA MK Equity,Software & Services,False,Pertama Digital BHD
+6483047,ECML MK Equity,,False,ECM Libra Group Bhd
+6690290,AWCF MK Equity,Industrial,False,AWC Bhd
+6556325,MAY MK Equity,Banks,True,Malayan Banking Bhd
+6511603,LBIC MK Equity,,False,LBI Capital Bhd
+6711641,PMBT MK Equity,Materials & Metals,True,PMB Technology Bhd
+6303156,ICONIC MK Equity,,False,Iconic Worldwide BHD
+6017123,ASTEEL MK Equity,,False,ASTEEL Group Bhd
+6783178,SAPU MK Equity,,False,Sapura Industrial Bhd
+6882097,TRO MK Equity,Transportation,False,Transocean Holdings BHD
+6782540,MAYU MK Equity,,False,MAYU GLOBAL GROUP Bhd
+6825337,SSB MK Equity,Materials & Metals,False,Southern Steel Bhd
+6436308,HLI MK Equity,Industrial,False,Hong Leong Industries Bhd
+6892063,TNL MK Equity,Transportation,False,Tiong NAM Logistics Holdings B
+6898403,TOMY MK Equity,Materials & Metals,False,Tomypak Holdings BHD
+6458294,JSB MK Equity,Industrial,False,Jentayu Sustainables Bhd
+6667261,RGBH MK Equity,Materials & Metals,False,RGT BHD
+6567929,EDN MK Equity,,False,Eden Inc Bhd
+B00G234,QLG MK Equity,Consumer Staples,True,QL Resources Bhd
+6820901,ECM MK Equity,,False,ECM Libra Bhd
+6379298,GPB MK Equity,,False,Golden Pharos BHD
+B03KZV2,LDST MK Equity,,False,Leader Steel Holdings BHD
+6904612,TNB MK Equity,Utilities,True,Tenaga Nasional Bhd
+6714800,PLEN MK Equity,Real Estate Development,False,Plenitude Bhd
+6715171,SCP MK Equity,EMS,False,Scope Industries Bhd
+6581844,TGB MK Equity,,False,Thriven Global Bhd
+6518262,MPIRE MK Equity,,False,Mpire Global Bhd
+6739869,LAGENDA MK Equity,Real Estate Development,False,Lagenda Properties Bhd
+6036322,PSD MK Equity,Real Estate Development,False,Pasdec Holdings Bhd
+6089360,GUOL MK Equity,Real Estate Development,False,GuocoLand Malaysia Bhd
+6433019,KSL MK Equity,Real Estate Development,False,KSL Holdings Bhd
+6695938,PETD MK Equity,Energy,True,Petronas Dagangan Bhd
+B0W1VM9,BC MK Equity,Industrial,True,Berjaya Corp Bhd
+6583486,FMB MK Equity,Consumer Services,False,Fima Corp BHD
+6791870,BHIC MK Equity,,False,Boustead Heavy Industries Corp
+6573175,OMST MK Equity,Technology,False,Omesti Bhd
+B00FQS4,SWS MK Equity,,False,SWS Capital Bhd
+6690104,PU MK Equity,Automotive,False,Paragon Union BHD
+6692326,PLS MK Equity,Plantation ,False,PLS Plantations Bhd
+B0FGN81,NHR MK Equity,,False,Ni Hsin Group Bhd
+B1TSHV1,HUAAN MK Equity,,False,TECHNA-X Bhd
+6136415,BPKG MK Equity,,False,Bright Packaging Industry Bhd
+6457570,GLBH MK Equity,,False,Golden Land Bhd
+6358598,MALT MK Equity,Real Estate Development,False,Malton Bhd
+6299910,HWG MK Equity,Industrial,False,Ho Wah Genting BHD
+6228163,CHH MK Equity,,False,Country Heights Holdings BHD
+6550327,MBM MK Equity,Automotive,False,MBM Resources BHD
+6520234,THETA MK Equity,,False,Theta Edge BHD
+6556789,MBS MK Equity,Banks,True,Malaysia Building Society Bhd
+6798150,SHH MK Equity,,False,SHH Resources Holdings BHD
+6553542,MPAC MK Equity,,False,Malpac Holdings BHD
+6021953,ALC MK Equity,Materials & Metals,False,Alcom Group Bhd
+6073835,MPG MK Equity,,False,Master-Pack Group BHD
+6275567,DKLS MK Equity,Construction,False,DKLS Industries Bhd
+6180746,MESI MK Equity,,False,Mesiniaga Bhd
+6180865,PHRM MK Equity,Healthcare,False,Pharmaniaga Bhd
+6860684,SBR MK Equity,Plantation ,False,Sungei Bagan Rubber Co Malaya
+6534558,BTEC MK Equity,,False,Brite-Tech Bhd
+6825423,SMI MK Equity,,False,South Malaysia Industries Bhd
+B05KCS6,HAVE MK Equity,Furniture & Wood,False,HeveaBoard Bhd
+6449425,MEDA MK Equity,,False,Meridian Bhd
+B06FV38,BURSA MK Equity,Financial,True,Bursa Malaysia Bhd
+6904021,TDM MK Equity,Plantation ,False,TDM Bhd
+6740281,SKOU MK Equity,Furniture & Wood,False,Sern Kou Resource Bhd
+B03P5K6,UULI MK Equity,Industrial,False,United U-Li Corp BHD
+B053CZ2,TSH MK Equity,Plantation ,True,TSH Resources Bhd
+B65MJQ1,BHB MK Equity,,False,Benalec Holdings Bhd
+6824260,SA MK Equity,Materials & Metals,False,Southern Acids Malaysia BHD
+6868398,T MK Equity,Telecommunication,True,Telekom Malaysia Bhd
+6665577,PNSR MK Equity,Industrial,False,Pansar BHD
+B055ZL5,EFM MK Equity,Software & Services,False,Excel Force MSC Bhd
+6671273,ASTI MK Equity,Materials & Metals,False,Astino Bhd
+B02TM19,KARY MK Equity,,False,Karyon Industries Bhd
+B05LVV5,CTH MK Equity,,False,Cheetah Holdings Bhd
+6264996,PIE MK Equity,EMS,False,PIE Industrial BHD
+6725653,TPC MK Equity,,False,TPC Plus Bhd
+B2369M3,PENB MK Equity,Oil & Gas,False,Petra Energy Bhd
+B04BNJ8,HM MK Equity,,False,Harvest Miracle Capital Bhd
+6655200,OCM MK Equity,,False,OCB Bhd
+6240413,SYC MK Equity,,False,Sycal Ventures Bhd
+6599074,MHB MK Equity,Construction,False,Mitrajaya Holdings Bhd
+6367743,EDS MK Equity,,False,Edaran Bhd
+6711469,VCB MK Equity,Materials & Metals,False,Versatile Creative Bhd
+B3WMH69,FPHB MK Equity,Healthcare,False,Focus Point Holdings Bhd
+6468754,EAST MK Equity,Real Estate Development,False,Eastern & Oriental Bhd
+6389651,ENCO MK Equity,,False,Encorp Bhd
+6013671,KOBAY MK Equity,EMS,False,Kobay Technology BHD
+B3XH2W4,SCHB MK Equity,,False,SCC Holdings Bhd
+6100517,BIN MK Equity,,False,Bina Puri Holdings BHD
+6225841,MTI MK Equity,Consumer Discretionary,False,Magni-Tech Industries Bhd
+6039514,KUBM MK Equity,Oil & Gas,False,KUB Malaysia BHD
+B01LS29,PETR MK Equity,Oil & Gas,False,Perdana Petroleum Bhd
+6694247,PGF MK Equity,Materials & Metals,False,PGF Capital Bhd
+B04NN83,PAOS MK Equity,,False,Paos Holdings BHD
+B28SPM6,IHB MK Equity,,False,Infraharta Holdings Bhd
+6673053,YBS MK Equity,,False,YBS International Bhd
+B4VRBJ3,XOX MK Equity,,False,XOX BHD
+B03NG52,TEKS MK Equity,,False,Tek Seng Holdings Bhd
+B1WD8F4,ZHCB MK Equity,Consumer Discretionary,False,Zhulian Corp Bhd
+6729525,RIB MK Equity,Telecommunication,False,REDtone Digital Bhd
+B05MXJ0,EUHO MK Equity,Furniture & Wood,False,Euro Holdings Bhd
+6086509,BCB MK Equity,Real Estate Development,False,BCB Bhd
+B0V4FT4,MMSV MK Equity,,False,MMS Ventures Bhd
+6595652,MIN MK Equity,,False,Minho M BHD
+6632300,CBH MK Equity,,False,Crest Builder Holdings Bhd
+6693589,KYM MK Equity,,False,KYM Holdings BHD
+B05J818,EES MK Equity,Software & Services,False,Efficient E-Solutions Bhd
+B09XV17,FAST MK Equity,,False,Fast Energy Holdings Bhd
+6735931,OPEN MK Equity,,False,OpenSys M Bhd
+B012521,MDJ MK Equity,Construction,False,Mudajaya Group Bhd
+6336538,TDC MK Equity,Telecommunication,True,TIME dotCom Bhd
+6728287,KAG MK Equity,,False,Key Alliance Group Bhd
+6485537,KIA MK Equity,,False,Kia Lim Bhd
+6431284,LBS MK Equity,Real Estate Development,False,LBS Bina Group Bhd
+6341651,SKBS MK Equity,,False,SKB Shutters Corp Bhd
+6286398,SPZ MK Equity,Consumer Staples,False,Spritzer BHD
+B01BTP9,SSB8 MK Equity,Construction,False,Southern Score Builders Bhd
+6222262,PHR MK Equity,Furniture & Wood,False,Poh Huat Resources Holdings BH
+B01R1Y0,JAK MK Equity,Utilities,False,JAKS Resources Bhd
+6211925,MA MK Equity,Furniture & Wood,False,M & A Equity Holdings Bhd
+B03HDQ4,JKB MK Equity,,False,Jasa Kita BHD
+6474137,TRCB MK Equity,Real Estate Development,False,Tropicana Corp Bhd
+6740957,MMAG MK Equity,,False,MMAG Holdings Bhd
+B1DQBZ3,SANI MK Equity,,False,Sanichi Technology Bhd
+B09YCC8,NVB MK Equity,Industrial,False,Notion VTEC Bhd
+B01SF96,ALB MK Equity,,False,Ancom Logistics Bhd
+B063789,ATSY MK Equity,,False,AT Systematization Bhd
+B0CMCS5,SOLE MK Equity,,False,Solution Group Bhd
+6742232,G3G MK Equity,,False,G3 Global Bhd
+6546605,JAYC MK Equity,Furniture & Wood,False,Jaycorp Bhd
+6673268,IFCA MK Equity,Software & Services,False,IFCA MSC Bhd
+B1VXJL8,GENT MK Equity,Gaming,True,Genting Bhd
+B02HY95,DPS MK Equity,,False,DPS Resources Bhd
+B0CSZR3,CAN MK Equity,Consumer Staples,False,Can-One Bhd
+B0L7ML4,IQGH MK Equity,,False,IQ Group Holdings Bhd
+B09G428,WEC MK Equity,,False,Wong Engineering Corp Bhd
+6219082,CEP MK Equity,,False,Concrete Engineering Products
+6253154,EG MK Equity,EMS,False,EG Industries Bhd
+B0W5KG8,KONE MK Equity,,False,K-One Technology Bhd
+B0CMCM9,MINE MK Equity,,False,Minetech Resources Bhd
+6920878,UPA MK Equity,,False,UPA Corp Bhd
+B05MGY6,UNI MK Equity,Technology,True,Unisem M Bhd
+B19CNZ9,AMRB MK Equity,,False,Alam Maritim Resources Bhd
+6363763,CLH MK Equity,Transportation,False,CJ Century Logistics Holdings
+B3Y3BC4,INGENIEU MK Equity,,False,Ingenieur Gudang Bhd
+B00STN9,HONGSENG MK Equity,Healthcare,False,Hong Seng Consolidated Bhd
+B016FP6,JMR MK Equity,,False,Jade Marvel Group Bhd
+6252195,SCIPACK MK Equity,Materials & Metals,False,Scientex Packaging Ayer Keroh
+6730011,AIB MK Equity,EMS,False,ATA IMS Bhd
+6892160,PH MK Equity,,False,Pegasus Heights Bhd
+B131M11,AIMB MK Equity,,False,Advance Information Marketing
+6359881,GAM MK Equity,Construction,True,Gamuda Bhd
+B010Q22,APBB MK Equity,Industrial,False,APB Resources Bhd
+6658317,PENT MK Equity,Technology,True,Pentamaster Corp Bhd
+6661434,ORH MK Equity,Automotive,False,Oriental Holdings BHD
+6535465,WSC MK Equity,Oil & Gas,False,Wasco Bhd
+B1KKH50,HEKT MK Equity,REIT,False,Hektar Real Estate Investment
+B033KT4,KEIN MK Equity,,False,Kein Hing International Bhd
+B01VG47,UGB MK Equity,Industrial,False,Unimech Group Bhd
+6679932,PGKH MK Equity,,False,Pan Malaysia Holdings Bhd
+6185796,JIB MK Equity,,False,Jiankun International Bhd
+6556778,MUIP MK Equity,Real Estate Development,False,MUI Properties Bhd
+6556585,MFL MK Equity,Consumer Staples,False,Malayan Flour Mills Bhd
+6874544,IGBB MK Equity,Real Estate Development,False,IGB Bhd
+B29H5B1,NGB MK Equity,Consumer Services,False,Nextgreen Global Bhd
+B1V74R1,OLYM MK Equity,,False,Olympia Industries Bhd
+6655040,OSK MK Equity,Real Estate Development,False,OSK Holdings Bhd
+6018375,CHR MK Equity,,False,Chuan Huat Resources BHD
+6016829,YLI MK Equity,,False,YLI Holding BHD
+B01XZR9,OCP MK Equity,,False,Oceancash Pacific Bhd
+6069061,AYER MK Equity,Real Estate Development,False,Ayer Holdings Bhd
+B01ZS76,CUSC MK Equity,Software & Services,False,Cuscapi Bhd
+B1G49R2,GREE MK Equity,,False,Greenyield Bhd
+6030409,PKS MK Equity,Consumer Discretionary,False,Parkson Holdings Bhd
+6750729,REX MK Equity,,False,Rex Industry Bhd
+6504368,FIMA MK Equity,Plantation ,False,Kumpulan Fima BHD
+B05LHT5,VINVEST MK Equity,Construction,False,Vinvest Capital Holdings Bhd
+B59L2D5,SAUD MK Equity,,False,Saudee Group Bhd
+6856865,STH MK Equity,Furniture & Wood,False,Subur Tiasa Holdings Bhd
+6007919,APT MK Equity,,False,Advanced Packaging Technology
+6504960,LMK MK Equity,,False,Landmarks BHD
+6522672,LPI MK Equity,Financial,False,LPI Capital Bhd
+6214106,PER MK Equity,Materials & Metals,False,Perusahaan Sadur Timah Malaysi
+6081593,SES MK Equity,,False,Scomi Energy Services Bhd
+B2NPQ18,KEYA MK Equity,,False,Key Asic Bhd
+6175407,WHIT MK Equity,Materials & Metals,False,White Horse Bhd
+6731382,ARTRONIQ MK Equity,Software & Services,False,Artroniq Bhd
+6031758,ANCOMNY MK Equity,Materials & Metals,False,Ancom Nylex Bhd
+B05DWZ2,DOGT MK Equity,Technology,True,D&O Green Technologies Bhd
+6556518,LMC MK Equity,Construction,False,Malayan Cement Bhd
+6534569,EKC MK Equity,,False,Eng Kah Corp Bhd
+B3ZB1D8,IVORY MK Equity,,False,Ivory Properties Group Bhd
+B56H333,SYGROUP MK Equity,Transportation,False,Shin Yang Group Bhd
+BNTD3Y5,ADB MK Equity,Software & Services,False,Autocount Dotcom Bhd
+B2ND8F0,CITAGLB MK Equity,Construction,False,Citaglobal Bhd
+B04QXQ0,ECH MK Equity,Software & Services,False,Ecobuilt Holdings Bhd
+6752349,ROTH MK Equity,Brewery & Tobacco,True,British American Tobacco Malay
+B01H3N3,IBRA MK Equity,Real Estate Development,False,IBRACO Bhd
+B0742L9,GUAN MK Equity,Consumer Staples,True,Guan Chong Bhd
+6306218,KTRI MK Equity,Healthcare,False,Kotra Industries Bhd
+B4N0101,OVSE MK Equity,,False,Oversea Enterprise Bhd
+6145325,LHC MK Equity,,False,Lien Hoe Corp BHD
+B1Y3WG1,IOI MK Equity,Plantation ,True,IOI Corp Bhd
+B064179,TAFI MK Equity,Consumer Services,False,TAFI Industries Bhd
+6093167,PAD MK Equity,Consumer Discretionary,True,Padini Holdings Bhd
+6095969,FBC MK Equity,Construction,False,Fajarbaru Builder Group Bhd
+6086190,BKC MK Equity,,False,Bintai Kinden Corp Bhd
+B0166B9,MEGB MK Equity,,False,Metronic Global Bhd
+6965909,POSM MK Equity,Transportation,False,Pos Malaysia BHD
+B131M00,PARB MK Equity,Materials & Metals,False,PA Resources Bhd
+B3WLCQ1,CPG MK Equity,Rubber Glove,False,Careplus Group Bhd
+6096166,H&L MK Equity,,False,Kumpulan H&L High-Tech Bhd
+6436450,HLFG MK Equity,Financial,True,Hong Leong Financial Group Bhd
+B4MLCH9,HAL MK Equity,Materials & Metals,True,Hextar Global Bhd
+B3YX6Q3,BAB MK Equity,Oil & Gas,True,Bumi Armada Bhd
+B3W45N8,EAHB MK Equity,,False,EA Holdings Bhd
+B081SH7,STRA MK Equity,Oil & Gas,False,Straits Energy Resources Bhd
+6331566,SPTOTO MK Equity,Gaming,False,Sports Toto Bhd
+B01RN99,CG MK Equity,Rubber Glove,False,Comfort Glove Bhd
+B4QGNB1,EVSD MK Equity,Construction,False,Eversendai Corp Bhd
+B1XFDH6,PWRT MK Equity,Consumer Staples,False,Power Root Bhd
+B3W5NN7,MMHE MK Equity,Oil & Gas,False,Malaysia Marine and Heavy Engi
+B16FQW9,MICL MK Equity,Software & Services,False,Microlink Solutions Bhd
+B0RYB12,SC MK Equity,,False,SC Estate Builder Bhd
+B0225T7,LSKG MK Equity,,False,Lee Swee Kiat Group Bhd
+B17ZLB2,SRHB MK Equity,,False,Silver Ridge Holdings Bhd
+B67M549,KSSC MK Equity,,False,K Seng Seng Corp Bhd
+B197XV0,WELL MK Equity,Materials & Metals,False,Wellcall Holdings Bhd
+6744216,LDB MK Equity,,False,Lebtech Bhd
+B0MYNT9,MNCW MK Equity,Software & Services,False,MNC Wireless Bhd
+B0NLT57,GENE MK Equity,Technology,False,Genetec Technology Bhd
+6524151,LYSA MK Equity,,False,Lysaght Galvanized Steel Bhd
+6145347,EKSON MK Equity,,False,Eksons Corp BHD
+B7GJ601,SAPE MK Equity,Oil & Gas,False,Sapura Energy Bhd
+B7Z7KV5,EITA MK Equity,EMS,False,EITA Resources Bhd
+6244675,RHBBANK MK Equity,Banks,True,RHB Bank Bhd
+B8095F2,PEST MK Equity,Utilities,False,PESTECH International Bhd
+B8F0GN5,GBLF MK Equity,,False,Globaltec Formation Bhd
+B8FL1M2,GMB MK Equity,Utilities,True,Gas Malaysia Bhd
+BD2Z8V0,KNKIB MK Equity,Financial,False,Kenanga Investment Bank Bhd
+BTF7ZK3,EATECH MK Equity,Oil & Gas,False,Ea Technique M Bhd
+BDVJR61,INTA MK Equity,Construction,False,Inta Bina Group Bhd
+BYQC201,ESR MK Equity,,False,Eversafe Rubber Bhd
+BYVNW76,SDH MK Equity,Oil & Gas,False,Serba Dinamik Holdings Bhd
+BB36C61,AAX MK Equity,Transportation,False,AirAsia X Bhd
+BGCB7B2,KAREX MK Equity,Healthcare,False,Karex Bhd
+BF6RHY2,SDPL MK Equity,Plantation ,True,Sime Darby Plantation Bhd
+B8L1DR5,FGV MK Equity,Plantation ,False,FGV Holdings Bhd
+B83X6P8,IHH MK Equity,Healthcare,True,IHH Healthcare Bhd
+B8DB3R3,OCK MK Equity,Telecommunication,False,OCK Group Bhd
+B7RKJT3,AQRS MK Equity,Construction,False,Gabungan AQRS Bhd
+B710SK3,PSK MK Equity,,False,Pasukhas Group Bhd
+B8HNYQ1,DSON MK Equity,Software & Services,False,Datasonic Group Bhd
+B89JCF2,IGBREIT MK Equity,REIT,False,IGB Real Estate Investment Tru
+B7W5GK3,ASTRO MK Equity,Media & Entertainment,True,Astro Malaysia Holdings Bhd
+B8CNCY0,ELK MK Equity,Financial,False,ELK-Desa Resources Bhd
+BDD2PZ3,SOLID MK Equity,,False,Solid Automotive Bhd
+B8FZ8H8,HHH MK Equity,,False,Hiap Huat Holdings Bhd
+B95RLP0,TIH MK Equity,Financial,False,Tune Protect Group Bhd
+BB2BGK9,MCH MK Equity,Real Estate Development,True,Matrix Concepts Holdings Bhd
+B9XQDY2,MPHB MK Equity,Financial,False,MPHB Capital Bhd
+BBD7NC7,LEFU MK Equity,Materials & Metals,False,Leon Fuat Bhd
+BDFM6W5,VEB MK Equity,Oil & Gas,True,Velesto Energy Bhd
+BCF55Q4,ABM MK Equity,,False,ABM Fujiya Bhd
+BDFM1K8,WPRTS MK Equity,Transportation,True,Westports Holdings Bhd
+BGLKMM6,BAUTO MK Equity,Automotive,True,Bermaz Auto Bhd
+BGLC5P6,TTJ MK Equity,Real Estate Development,False,Titijaya Land Bhd
+BHC8B29,KANGER MK Equity,,False,Kanger International Bhd
+BH7JFJ2,IOIPG MK Equity,Real Estate Development,False,IOI Properties Group Bhd
+BJTMRP3,HEXIND MK Equity,Industrial,False,Hextar Industries Bhd
+BMN9S81,SEM MK Equity,Consumer Staples,False,7-Eleven Malaysia Holdings Bhd
+BNH7MH5,BPLANT MK Equity,Plantation ,True,Boustead Plantations Bhd
+BNG7Y25,ECON MK Equity,Construction,False,Econpile Holdings Bhd
+BNBNPL4,ICON MK Equity,Oil & Gas,False,Icon Offshore Bhd
+BSL6X92,CARIP MK Equity,Oil & Gas,False,Carimin Petroleum Bhd
+BP9DM08,SASB MK Equity,Media & Entertainment,False,Sasbadi Holdings Bhd
+BPCWYL7,HHR MK Equity,Materials & Metals,False,Hhrg Bhd
+BYNXPS6,XINH MK Equity,,False,Xin Hwa Holdings Bhd
+BTG8635,KAB MK Equity,Software & Services,False,Kronologi Asia Bhd
+BY5VR82,DOL MK Equity,,False,Dolphin International Bhd
+BQ1K390,REB MK Equity,,False,Reach Energy Bhd
+BTGQB89,OWG MK Equity,Consumer Services,False,Only World Group Holdings Bhd
+BD977N4,RSENA MK Equity,,False,Red Sena Bhd
+BX909K4,SCGB MK Equity,Construction,False,Sunway Construction Group Bhd
+BYNQJ27,AMLS MK Equity,Technology,False,Aemulus Holdings Bhd
+BWSW131,BIOA MK Equity,,False,Bioalpha Holdings Bhd
+BWXN162,MLK MK Equity,Utilities,False,Malakoff Corp Bhd
+BYXBL71,CHIN MK Equity,Construction,True,Chin Hin Group Bhd
+BYP72D0,SDNA MK Equity,,False,Sedania Innovator Bhd
+BYMVQ00,IJGB MK Equity,,False,Top Builders Capital Bhd
+BYZKLK9,HSS MK Equity,Construction,False,HSS Engineers Bhd
+BDG1T00,MNHB MK Equity,Consumer Discretionary,False,Mynews Holdings Bhd
+BYWQH24,SALAM MK Equity,REIT,False,Al-Salam Real Estate Investmen
+6009454,ABANK MK Equity,Banks,True,AFFIN Bank Bhd
+6017327,MCE MK Equity,,False,MCE Holdings Bhd
+BYSRH65,KTCC MK Equity,,False,Kim Teck Cheong Consolidated B
+BD0CP78,RAHH MK Equity,Utilities,False,Ranhill Utilities Bhd
+6556938,ABMB MK Equity,Banks,True,Alliance Bank Malaysia Bhd
+BYPD8G3,PECCA MK Equity,Automotive,False,Pecca Group Bhd
+BYMJ734,SALUT MK Equity,EMS,False,Salutica Bhd
+BYYSTZ5,LKLI MK Equity,,False,LKL International Bhd
+B2NRG03,SIGN MK Equity,Furniture & Wood,False,Signature International Bhd
+BD0FHK4,DMEC MK Equity,,False,Dancomech Holdings Bhd
+BDGJPP1,PERAK MK Equity,Transportation,False,Perak Transit Bhd
+BYX39S4,BCM MK Equity,,False,BCM Alliance Bhd
+BD9GJH9,ECWI MK Equity,Real Estate Development,False,Eco World International Bhd
+BD8DKF6,RMH MK Equity,Industrial,False,Rhone Ma Holdings Bhd
+BZ6T4Z8,GFM MK Equity,,False,GFM Services Bhd
+BY9C4F7,FPG MK Equity,Technology,False,FoundPac Group Bhd
+BYYQB53,MAT MK Equity,Plantation ,False,Matang Bhd
+BDBD6H7,HLT MK Equity,,False,HLT Global Bhd
+BYZLX84,KIP MK Equity,REIT,False,KIP REIT
+BZ982W5,ADVC MK Equity,,False,Advancecon Holdings Bhd
+BD45QM5,CABN MK Equity,,False,Cabnet Holdings Bhd
+BF3N1G3,TTNP MK Equity,Materials & Metals,True,Lotte Chemical Titan Holding B
+BF0J5S4,PMAH MK Equity,Materials & Metals,True,Press Metal Aluminium Holdings
+BDFFZK5,CWGH MK Equity,,False,CWG Holdings Bhd
+6902014,WMG MK Equity,,False,WMG Holdings Bhd
+6915603,IDEAL MK Equity,Real Estate Development,False,Ideal Capital Bhd
+6910266,PEB MK Equity,,False,Pimpinan Ehsan Bhd
+BF368L6,KASB MK Equity,Construction,False,Kinergy Advancement Bhd
+BF6RHX1,SDPR MK Equity,Real Estate Development,False,Sime Darby Property Bhd
+BD254N4,BINACOM MK Equity,,False,Binasat Communications Bhd
+B3P45R9,CEG MK Equity,,False,Cyberjaya Education Group Bhd
+BG00JS2,QES MK Equity,EMS,False,QES Group Bhd
+BDSCT90,WEGMANS MK Equity,,False,Wegmans Holdings Bhd
+BFMN647,GDB MK Equity,Construction,False,GDB Holdings Bhd
+B03J9L7,CAPITALA MK Equity,Transportation,False,CAPITAL A BHD
+BZ57CS2,MI MK Equity,Technology,True,Mi Technovation Bhd
+BFM6T47,TSMB MK Equity,,False,Tri-Mode System M Bhd
+BDRTXM3,REVENUE MK Equity,Software & Services,False,Revenue Group Bhd
+BG47FH0,NOVA MK Equity,Healthcare,False,Nova Wellness Group Bhd
+BG5KMD3,RGTB MK Equity,Software & Services,False,Radiant Globaltech Ltd
+BF59W33,SMETRIC MK Equity,,False,Securemetric Bhd
+BGKPQG4,TECHBND MK Equity,Industrial,False,Techbond Group Bhd
+BGKBJ52,DPIH MK Equity,Materials & Metals,False,DPI Holdings Bhd
+BG875N2,GNCB MK Equity,Construction,False,Gagasan Nadi Cergas Bhd
+BHNC6X6,LHIB MK Equity,Consumer Staples,False,Leong Hup International Bhd
+BK0Q1M6,GREATEC MK Equity,Technology,True,Greatech Technology Bhd
+BK9TK74,HPMT MK Equity,,False,HPMT Holdings Bhd
+BKDZYC1,MESTRON MK Equity,Construction,False,Mestron Holdings Bhd
+BJ17CJ5,UWC MK Equity,Technology,True,UWC BHD
+BJV8MN2,KHJB MK Equity,,False,Kim Hin Joo Bhd
+BK5PHH5,AIMFLEX MK Equity,Technology,False,Aimflex Bhd
+BJDX3F4,TASHIN MK Equity,,False,Tashin Holdings Bhd
+BJK5171,MTAG MK Equity,Materials & Metals,False,MTAG Group Bhd
+BJNFPY3,SDS MK Equity,Consumer Staples,False,SDS Group Bhd
+BKRQ635,AME MK Equity,Industrial,False,AME Elite Consortium Bhd
+BJCVZH5,SOLAR MK Equity,Green Tech,False,Solarvest Holdings Bhd
+BKTJK85,SPRING MK Equity,,False,Spring Art Holdings Bhd
+6100379,BIMB MK Equity,Banks,False,Bank Islam Malaysia Bhd
+BL1H2P5,PWRWELL MK Equity,,False,Powerwell Holdings Bhd
+BKDMLR6,INNATURE MK Equity,Consumer Discretionary,False,InNature Bhd
+BL3NQS2,ACO MK Equity,,False,ACO Group Bhd
+BMFR151,RLEB MK Equity,Oil & Gas,False,Reservoir Link Energy Bhd
+BKWFV87,TCS MK Equity,,False,TCS Group Holdings Bhd
+BLN9F05,OVH MK Equity,,False,Ocean Vantage Holdings Bhd
+BLBR7K5,OPTIMAX MK Equity,Healthcare,False,Optimax Holdings Bhd
+BNGCWK4,SAMAIDEN MK Equity,Green Tech,False,Samaiden Group Bhd
+BLF7DK3,SCGBHD MK Equity,Industrial,False,Southern Cable Group Bhd
+BMH4WV3,ANEKA MK Equity,,False,Aneka Jaringan Holdings Bhd
+BMWLDM7,EFRAME MK Equity,Furniture & Wood,False,Econframe Bhd
+6712417,TOYOVEN MK Equity,,False,Toyo Ventures Holdings Bhd
+BN4JBJ9,MRDIY MK Equity,Consumer Discretionary,True,MR DIY Group M Bhd
+BLFHKQ8,HPPHB MK Equity,Materials & Metals,False,HPP Holdings Bhd
+B0CMD04,PGB MK Equity,,False,Propel Global Bhd
+6407122,BESHOM MK Equity,Consumer Staples,False,Beshom Holdings Bhd
+BMCXZ38,MOBILIA MK Equity,,False,Mobilia Holdings Bhd
+BLD7LQ7,TELADAN MK Equity,Real Estate Development,False,Teladan Group Bhd
+BN13SM6,FLEXI MK Equity,,False,Flexidynamic Holdings Bhd
+BNMC123,VOLCANO MK Equity,,False,Volcano Bhd
+B4N1F35,SAG MK Equity,,False,Sinaran Advance Group Bhd
+BNG0HC5,TJSETIA MK Equity,,False,Tuju Setia Bhd
+BNM87G7,IGBCR MK Equity,REIT,False,IGB Commercial Real Estate Inv
+BN2QLH0,PEKAT MK Equity,Green Tech,False,Pekat Group Bhd
+BMCPYX7,NESTCON MK Equity,Construction,False,Nestcon Sdn Bhd
