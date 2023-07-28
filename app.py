@@ -23,7 +23,11 @@ df = load_data()
 df['date'] = pd.to_datetime(df['date']).dt.date
 
 glevel = st.multiselect(
-    "Group level", ['sector','name'], default="sector"
+    "Group level", ['sector','name', 'bics_level_1_sector_name',
+       'bics_level_2_industry_group_name', 'bics_level_3_industry_name',
+       'bics_level_4_sub_industry_name', 'gics_sector_name',
+       'gics_industry_group_name', 'gics_industry_name',
+       'gics_sub_industry_name'], default="sector"
 )
 
 col1, col2 = st.columns(2)
