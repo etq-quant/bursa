@@ -1,4 +1,8 @@
-cols = ['id','sector', 'name']
+cols = ['id', 'sector','name', 'bics_level_1_sector_name',
+       'bics_level_2_industry_group_name', 'bics_level_3_industry_name',
+       'bics_level_4_sub_industry_name', 'gics_sector_name',
+       'gics_industry_group_name', 'gics_industry_name',
+       'gics_sub_industry_name']
 
 def highlight_rows(x):
     if x.change_pct>0:
@@ -21,8 +25,6 @@ def highlight_col(x):
     df.loc[mask0, :] = 'background-color: white; color: black'
     df.loc[maskn, :] = 'background-color: #FFA07A; color: black'
     return df 
-
-cols = ['id','sector', 'name']
 
 def get_table(df, glevel, sdate, edate):
     fdf = df.sort_values(['date','id']).reset_index(drop=True)
