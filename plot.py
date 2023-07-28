@@ -48,7 +48,9 @@ def style_table(adf):
             a[k]=white
     return adf.style.format("{:,.2f}%", subset=['change_pct'])\
     .bar(subset=['change_pct'], color=['#FF6347','#54C571'], align="zero")\
-    .set_table_styles(a, axis=1)
+    .set_table_styles(a, axis=1)\
+    .set_table_styles([{'selector': 'tr:hover', 'props': 'background-color: #D5D8DC; font-color: black'},
+                      {'selector': 'th:hover', 'props': 'background-color: #D5D8DC; font-color: black'}], overwrite=False)
 
 def get_table_raw(df, glevel, sdate, edate):
     fdf = df.sort_values(['date','id']).reset_index(drop=True)
@@ -74,4 +76,6 @@ def style_raw_table(adf, sdate, edate):
     .background_gradient(cmap='YlOrRd_r', axis=0)\
     .bar(subset=['change_pct'], color=['#FF6347','#54C571'], align="zero")\
     .apply(highlight_col, subset=[i for i in adf.columns if i!='change_pct'], axis=None)\
-    .set_table_styles(a, axis=1)
+    .set_table_styles(a, axis=1)\
+    .set_table_styles([{'selector': 'tr:hover', 'props': 'background-color: #D5D8DC; font-color: black'},
+                      {'selector': 'th:hover', 'props': 'background-color: #D5D8DC; font-color: black'}], overwrite=False)
