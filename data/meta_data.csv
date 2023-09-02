@@ -668,6 +668,7 @@ B1WD8F4,ZHCB MK Equity,Consumer Discretionary,Consumer Discretionary,Retail & Wh
 B1XFDH6,PWRT MK Equity,Consumer Staples,Consumer Staples,Consumer Staple Products,Beverages,Non-Alcoholic Beverages,Consumer Staples,"Food, Beverage & Tobacco",Beverages,Soft Drinks & Non-alcoholic Beverages,False,Power Root Bhd
 B1Y3WG1,IOI MK Equity,Plantation ,Consumer Staples,Consumer Staple Products,Food,Agricultural Producers,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Services,True,IOI Corp Bhd
 B1Y9MF8,DLUM MK Equity,Oil & Gas,Energy,Oil & Gas,Oil & Gas Services & Equip,Oilfield Services & Equipment,Energy,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,False,Deleum Bhd
+B1YY2W0,EPICON MK Equity,,Industrials,Industrial Services,Transportation & Logistics,Transit Services,Industrials,Transportation,Ground Transportation,Passenger Ground Transportation,False,Epicon Bhd
 B1YYNJ4,MSGB MK Equity,Real Estate Development,Real Estate,Real Estate,Real Estate Owners & Developers,Multi Asset Class Own & Develop,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,True,Mah Sing Group Bhd
 B2369M3,PENB MK Equity,Oil & Gas,Energy,Oil & Gas,Oil & Gas Services & Equip,Oilfield Services & Equipment,Energy,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,False,Petra Energy Bhd
 B23C352,SCW MK Equity,,Industrials,Industrial Products,Industrial Intermediate Prod,Rubber & Plastic,Industrials,Capital Goods,Building Products,Building Products,False,Scanwolf Corp Bhd
@@ -847,6 +848,7 @@ BL3NQS2,ACO MK Equity,,Industrials,Industrial Products,Electrical Equipment,Comm
 BLB71Q9,UMC MK Equity,Healthcare,Health Care,Health Care,Health Care Facilities & Svcs,Health Care Supply Chain,Health Care,Health Care Equipment & Services,Health Care Providers & Services,Health Care Distributors,False,Umedic Group Bhd
 BLBR7K5,OPTIMAX MK Equity,Healthcare,Health Care,Health Care,Health Care Facilities & Svcs,Health Care Facilities,Health Care,Health Care Equipment & Services,Health Care Providers & Services,Health Care Services,False,Optimax Holdings Bhd
 BLCW6W4,MBN MK Equity,,Consumer Staples,Retail & Wholesale - Staples,Retail - Consumer Staples,Food & Drug Stores,,,,,False,MYMBN Bhd
+BLCW6X5,KGW MK Equity,,Industrials,Industrial Services,Transportation & Logistics,Logistics Services,Industrials,Transportation,Marine Transportation,Marine Transportation,False,KGW Group Bhd
 BLD6YZ4,SFPTECH MK Equity,EMS,Industrials,Industrial Products,Machinery,Metalworking Machinery,Industrials,Capital Goods,Machinery,Industrial Machinery & Supplies & Components,False,SFP Tech Holdings Bhd
 BLD7LQ7,TELADAN MK Equity,Real Estate Development,Real Estate,Real Estate,Real Estate Owners & Developers,Multi Asset Class Own & Develop,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,False,Teladan Group Bhd
 BLF7DK3,SCGBHD MK Equity,Industrial,Industrials,Industrial Products,Electrical Equipment,Electrical Components,Industrials,Capital Goods,Electrical Equipment,Electrical Components & Equipment,False,Southern Cable Group Bhd
@@ -883,6 +885,7 @@ BND89T3,HAILY MK Equity,,Industrials,Industrial Services,Engineering & Construct
 BNDMT28,FFB MK Equity,Consumer Staples,Consumer Staples,Consumer Staple Products,Food,Packaged Food,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats,True,Farm Fresh Bhd
 BNDS7N3,BETA MK Equity,EMS,Technology,Tech Hardware & Semiconductors,Technology Hardware,Consumer Electronics,,,,,False,Betamek Bhd
 BNG0HC5,TJSETIA MK Equity,,Industrials,Industrial Services,Engineering & Construction,Building Construction,,,,,False,Tuju Setia Bhd
+BNG2226,GLXT MK Equity,,Industrials,Industrial Services,Commercial Support Services,Building Maintenance Services,,,,,False,Glostrext Bhd
 BNG7Y25,ECON MK Equity,Construction,Energy,Renewable Energy,Renewable Energy,Renewable Energy Project Dev,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,Econpile Holdings Bhd
 BNGC884,OPPSTAR MK Equity,Technology,Technology,Tech Hardware & Semiconductors,Semiconductors,Semiconductor Mfg,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,Semiconductors,False,Oppstar Bhd
 BNGCWK4,SAMAIDEN MK Equity,Green Tech,Industrials,Industrial Services,Engineering & Construction,Engineering Services,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,Samaiden Group Bhd
@@ -910,7 +913,7 @@ BPBK984,ITMAX MK Equity,Technology,Technology,Tech Hardware & Semiconductors,Tec
 BPCTJT1,PPJACK MK Equity,Financial,Financials,Financial Services,Specialty Finance,Other Financial Services,Financials,Financial Services,Consumer Finance,Consumer Finance,False,Pappajack Bhd
 BPCWYL7,HHR MK Equity,Materials & Metals,Utilities,Utilities,Electric Utilities,Power Generation,Energy,Energy,"Oil, Gas & Consumable Fuels",Coal & Consumable Fuels,False,Hhrg Bhd
 BPDWLV5,CENGILD MK Equity,Healthcare,Health Care,Health Care,Health Care Facilities & Svcs,Health Care Services,Health Care,Health Care Equipment & Services,Health Care Providers & Services,Health Care Facilities,False,Cengild Medical Bhd
-BPDZNK7,AMEREIT MK Equity,REIT,Real Estate,Real Estate,REIT,Industrial REIT,,,,,False,AME Real Estate Investment Tru
+BPDZNK7,AMEREIT MK Equity,REIT,Real Estate,Real Estate,REIT,Industrial REIT,Real Estate,Equity Real Estate Investment Trusts (REITs),Industrial REITs,Industrial REITs,False,AME Real Estate Investment Tru
 BPG51R7,SNS MK Equity,Software & Services,Technology,Tech Hardware & Semiconductors,Technology Hardware,Technology Distributors,Information Technology,Technology Hardware & Equipment,"Electronic Equipment, Instruments & Components",Technology Distributors,False,SNS Network Technology Bhd
 BPLLK40,SKYWLD MK Equity,Real Estate Development,Real Estate,Real Estate,Real Estate Owners & Developers,Residential Owners & Developers,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,False,SkyWorld Development Bhd
 BPM01J8,ORGABIO MK Equity,,Consumer Staples,Consumer Staple Products,Beverages,Non-Alcoholic Beverages,,,,,False,Orgabio Holdings Bhd
