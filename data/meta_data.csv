@@ -474,7 +474,7 @@ B012W42,PBK MK Equity,Banks,Financials,Banking,Banking,Banks,Financials,Banks,Ba
 B014958,AYS MK Equity,,Materials,Materials,Steel,Metal Svc Centers & Processors,Industrials,Capital Goods,Trading Companies & Distributors,Trading Companies & Distributors,False,AYS Ventures Bhd
 B0166B9,MEGB MK Equity,,Technology,Software & Tech Services,Technology Services,IT Services,Information Technology,Software & Services,Software,Systems Software,False,Metronic Global Bhd
 B016FP6,JMR MK Equity,,Materials,Materials,Construction Materials,Building Materials,Materials,Materials,Construction Materials,Construction Materials,False,Jade Marvel Group Bhd
-B01BTP9,SSB8 MK Equity,Construction,Financials,Financial Services,Asset Management,Investment Companies,Information Technology,Software & Services,Software,Systems Software,False,Southern Score Builders Bhd
+B01BTP9,SSB8 MK Equity,Construction,Financials,Financial Services,Asset Management,Investment Companies,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,Southern Score Builders Bhd
 B01GQS6,YTLP MK Equity,Utilities,Utilities,Utilities,Electric Utilities,Power Generation,Utilities,Utilities,Multi-Utilities,Multi-Utilities,False,YTL Power International Bhd
 B01H3N3,IBRA MK Equity,Real Estate Development,Real Estate,Real Estate,Real Estate Owners & Developers,Multi Asset Class Own & Develop,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,False,IBRACO Bhd
 B01JK05,MSB MK Equity,,Materials,Materials,Steel,Steel Producers,Materials,Materials,Metals & Mining,Steel,False,Mycron Steel Bhd
@@ -884,7 +884,7 @@ BND89T3,HAILY MK Equity,,Industrials,Industrial Services,Engineering & Construct
 BNDMT28,FFB MK Equity,Consumer Staples,Consumer Staples,Consumer Staple Products,Food,Packaged Food,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats,True,Farm Fresh Bhd
 BNDS7N3,BETA MK Equity,EMS,Technology,Tech Hardware & Semiconductors,Technology Hardware,Consumer Electronics,,,,,False,Betamek Bhd
 BNG0HC5,TJSETIA MK Equity,,Industrials,Industrial Services,Engineering & Construction,Building Construction,,,,,False,Tuju Setia Bhd
-BNG2226,GLXT MK Equity,,Industrials,Industrial Services,Commercial Support Services,Building Maintenance Services,,,,,False,Glostrext Bhd
+BNG2226,GLXT MK Equity,,Industrials,Industrial Services,Commercial Support Services,Building Maintenance Services,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,Glostrext Bhd
 BNG7Y25,ECON MK Equity,Construction,Energy,Renewable Energy,Renewable Energy,Renewable Energy Project Dev,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,Econpile Holdings Bhd
 BNGC884,OPPSTAR MK Equity,Technology,Technology,Tech Hardware & Semiconductors,Semiconductors,Semiconductor Mfg,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,Semiconductors,False,Oppstar Bhd
 BNGCWK4,SAMAIDEN MK Equity,Green Tech,Industrials,Industrial Services,Engineering & Construction,Engineering Services,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,Samaiden Group Bhd
@@ -914,7 +914,7 @@ BPCWYL7,HHR MK Equity,Materials & Metals,Utilities,Utilities,Electric Utilities,
 BPDWLV5,CENGILD MK Equity,Healthcare,Health Care,Health Care,Health Care Facilities & Svcs,Health Care Services,Health Care,Health Care Equipment & Services,Health Care Providers & Services,Health Care Facilities,False,Cengild Medical Bhd
 BPDZNK7,AMEREIT MK Equity,REIT,Real Estate,Real Estate,REIT,Industrial REIT,Real Estate,Equity Real Estate Investment Trusts (REITs),Industrial REITs,Industrial REITs,False,AME Real Estate Investment Tru
 BPG51R7,SNS MK Equity,Software & Services,Technology,Tech Hardware & Semiconductors,Technology Hardware,Technology Distributors,Information Technology,Technology Hardware & Equipment,"Electronic Equipment, Instruments & Components",Technology Distributors,False,SNS Network Technology Bhd
-BPH1226,EMCC MK Equity,,Financials,Financial Services,Specialty Finance,Consumer Finance,,,,,False,Evergreen Max Cash Capital Bhd
+BPH1226,EMCC MK Equity,,Financials,Financial Services,Specialty Finance,Consumer Finance,Financials,Financial Services,Consumer Finance,Consumer Finance,False,Evergreen Max Cash Capital Bhd
 BPLLK40,SKYWLD MK Equity,Real Estate Development,Real Estate,Real Estate,Real Estate Owners & Developers,Residential Owners & Developers,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,False,SkyWorld Development Bhd
 BPM01J8,ORGABIO MK Equity,,Consumer Staples,Consumer Staple Products,Beverages,Non-Alcoholic Beverages,,,,,False,Orgabio Holdings Bhd
 BPNTZZ8,INFOM MK Equity,Software & Services,Technology,Software & Tech Services,Software,Infrastructure Software,Information Technology,Software & Services,IT Services,IT Consulting & Other Services,False,Infomina Bhd
@@ -928,7 +928,7 @@ BQB8HM5,CLOUDPT MK Equity,Software & Services,Financials,Financial Services,Asse
 BQMHPQ1,DAY3 MK Equity,Software & Services,Technology,Software & Tech Services,Technology Services,IT Services,,,,,False,Daythree Digital Sdn Bhd
 BQQ9808,DSS MK Equity,,Materials,Materials,Containers & Packaging,Containers & Packaging,Materials,Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,False,DS Sigma Holdings Bhd
 BQQ9B10,LPBHD MK Equity,Materials & Metals,Materials,Materials,Containers & Packaging,Containers & Packaging,Materials,Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,False,L&P Global Bhd
-BR53530,MERSEC MK Equity,Financial,Financials,Financial Services,Institutional Financial Svcs,Institutional Brokerage,,,,,False,Mercury Securities Group Bhd
+BR53530,MERSEC MK Equity,Financial,Financials,Financial Services,Institutional Financial Svcs,Institutional Brokerage,Financials,Financial Services,Capital Markets,Investment Banking & Brokerage,False,Mercury Securities Group Bhd
 BRJSBM2,RADIUM MK Equity,Real Estate Development,Real Estate,Real Estate,Real Estate Owners & Developers,Multi Asset Class Own & Develop,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,False,Radium Development Bhd
 BSL6X92,CARIP MK Equity,Oil & Gas,Energy,Oil & Gas,Oil & Gas Services & Equip,Oilfield Services & Equipment,Energy,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,False,Carimin Petroleum Bhd
 BTF7ZK3,EATECH MK Equity,Oil & Gas,Industrials,Industrial Services,Transportation & Logistics,Marine Shipping,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,False,Ea Technique M Bhd
