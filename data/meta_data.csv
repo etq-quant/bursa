@@ -1,5 +1,4 @@
 id,id_bbg,sector,bics_level_1_sector_name,bics_level_2_industry_group_name,bics_level_3_industry_name,bics_level_4_sub_industry_name,gics_sector_name,gics_industry_group_name,gics_industry_name,gics_sub_industry_name,FBM100,name
-6007919,APT MK Equity,,Materials,Materials,Containers & Packaging,Containers & Packaging,Materials,Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,False,Advanced Packaging Technology
 6009454,ABANK MK Equity,Banks,Financials,Banking,Banking,Banks,Financials,Banks,Banks,Diversified Banks,True,AFFIN Bank Bhd
 6010973,AJI MK Equity,Consumer Staples,Consumer Staples,Consumer Staple Products,Food,Packaged Food,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats,False,Ajinomoto Malaysia Bhd
 6013002,AJY MK Equity,Industrial,Industrials,Industrial Products,Industrial Intermediate Prod,Fabricated Metal & Hardware,Industrials,Capital Goods,Building Products,Building Products,False,Ajiya BHD
@@ -65,7 +64,6 @@ id,id_bbg,sector,bics_level_1_sector_name,bics_level_2_industry_group_name,bics_
 6113043,NHF MK Equity,Automotive,Consumer Discretionary,Retail & Whsle - Discretionary,Wholesale - Discretionary,Automotive Wholesalers,Consumer Discretionary,Automobiles & Components,Automobile Components,Automotive Parts & Equipment,False,New Hoong Fatt Holdings Bhd
 6113429,VSI MK Equity,EMS,Technology,Tech Hardware & Semiconductors,Technology Hardware,EMS/ODM,Information Technology,Technology Hardware & Equipment,"Electronic Equipment, Instruments & Components",Electronic Manufacturing Services,True,VS Industry Bhd
 6114701,BPAK MK Equity,,Materials,Materials,Containers & Packaging,Containers & Packaging,Materials,Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,False,Box-Pak Malaysia BHD
-6130019,STHB MK Equity,,Industrials,Industrial Services,Engineering & Construction,Infrastructure Construction,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,Stella Holdings BHD
 6136415,BPKG MK Equity,,Materials,Materials,Containers & Packaging,Containers & Packaging,Materials,Materials,Containers & Packaging,"Metal, Glass & Plastic Containers",False,Bright Packaging Industry Bhd
 6137311,MHBS MK Equity,Financial,Financials,Insurance,Insurance,Life Insurance,Financials,Insurance,Insurance,Life & Health Insurance,False,Manulife Holdings Bhd
 6139823,MBRIGHT MK Equity,Consumer Services,Consumer Discretionary,Consumer Discretionary Services,Leisure Facilities & Services,Lodging,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",False,Meta Bright Group Bhd
@@ -851,6 +849,7 @@ BLCW6X5,KGW MK Equity,,Industrials,Industrial Services,Transportation & Logistic
 BLD6YZ4,SFPTECH MK Equity,EMS,Industrials,Industrial Products,Machinery,Metalworking Machinery,Industrials,Capital Goods,Machinery,Industrial Machinery & Supplies & Components,False,SFP Tech Holdings Bhd
 BLD7LQ7,TELADAN MK Equity,Real Estate Development,Real Estate,Real Estate,Real Estate Owners & Developers,Multi Asset Class Own & Develop,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,False,Teladan Group Bhd
 BLF7DK3,SCGBHD MK Equity,Industrial,Industrials,Industrial Products,Electrical Equipment,Electrical Components,Industrials,Capital Goods,Electrical Equipment,Electrical Components & Equipment,False,Southern Cable Group Bhd
+BLFH5T6,PLYTEC MK Equity,,N.A.,N.A.,,,,,,,False,PLYTEC Holding Bhd
 BLFHKQ8,HPPHB MK Equity,Materials & Metals,Materials,Materials,Containers & Packaging,Containers & Packaging,Materials,Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,False,HPP Holdings Bhd
 BLN9F05,OVH MK Equity,,Energy,Oil & Gas,Oil & Gas Services & Equip,Drilling & Drilling Support,Energy,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,False,Ocean Vantage Holdings Bhd
 BM9R113,YXPM MK Equity,,Consumer Discretionary,Consumer Discretionary Products,Apparel & Textile Products,"Apparel, Footwear & Acc Design",Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",False,YX Precious Metals Bhd
@@ -876,6 +875,7 @@ BMYQG54,ATECH MK Equity,EMS,Technology,Tech Hardware & Semiconductors,Technology
 BN13SM6,FLEXI MK Equity,,Industrials,Industrial Products,Machinery,Other Machinery & Equipment,Industrials,Capital Goods,Machinery,Industrial Machinery & Supplies & Components,False,Flexidynamic Holdings Bhd
 BN2CDR2,CEB MK Equity,EMS,Technology,Tech Hardware & Semiconductors,Technology Hardware,Electronics Components,Information Technology,Technology Hardware & Equipment,"Electronic Equipment, Instruments & Components",Electronic Manufacturing Services,False,Cape Ems Manufacturing M Sdn B
 BN2QLH0,PEKAT MK Equity,Green Tech,Energy,Renewable Energy,Renewable Energy,Renewable Energy Equipment,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,Pekat Group Bhd
+BN499Q2,GBAY MK Equity,,N.A.,N.A.,,,,,,,False,Greater Bay Holdings Bhd
 BN4JBJ9,MRDIY MK Equity,Consumer Discretionary,Consumer Discretionary,Retail & Whsle - Discretionary,Retail - Discretionary,Home Products Stores,Consumer Discretionary,Consumer Discretionary Distribution & Retail,Specialty Retail,Home Improvement Retail,True,MR DIY Group M Bhd
 BN6KL90,DXN MK Equity,Consumer Staples,Consumer Staples,Consumer Staple Products,Food,Packaged Food,,,,,False,DXN Holdings Bhd
 BN70TV7,SWIFT MK Equity,Transportation,Industrials,Industrial Services,Transportation & Logistics,Logistics Services,Industrials,Transportation,Air Freight & Logistics,Air Freight & Logistics,False,Swift Haulage Bhd
