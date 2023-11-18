@@ -453,7 +453,7 @@ id,id_bbg,sector,bics_level_1_sector_name,bics_level_2_industry_group_name,bics_
 6921398,UMS MK Equity,,Industrials,Industrial Services,Industrial Support Services,Industrial Wholesale & Rental,Industrials,Capital Goods,Trading Companies & Distributors,Trading Companies & Distributors,False,UMS Holdings BHD
 6964810,MYTECH MK Equity,,Financials,Financial Services,Asset Management,Investment Companies,Industrials,Capital Goods,Machinery,Industrial Machinery & Supplies & Components,False,MyTech Group BHD
 6965909,POSM MK Equity,Transportation,Industrials,Industrial Services,Transportation & Logistics,Courier Services,Industrials,Transportation,Air Freight & Logistics,Air Freight & Logistics,False,Pos Malaysia BHD
-6986717,YNS MK Equity,Oil & Gas,Industrials,Industrial Services,Transportation & Logistics,Marine Shipping,Energy,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,True,Yinson Holdings BHD
+6986717,YNS MK Equity,Oil & Gas,Industrials,Industrial Services,Oil & Gas Services & Equip,Oilfield Services & Equipment,Energy,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,True,Yinson Holdings BHD
 6989200,HLG MK Equity,Financial,Financials,Financial Services,Institutional Financial Svcs,Institutional Brokerage,Financials,Financial Services,Capital Markets,Investment Banking & Brokerage,True,Hong Leong Capital Bhd
 B00CQY1,EIG MK Equity,,Consumer Staples,Consumer Staple Products,Household Products,Personal Care Products,Consumer Discretionary,Consumer Services,Diversified Consumer Services,Specialized Consumer Services,False,Esthetics International Group
 B00FQS4,SWS MK Equity,,Consumer Discretionary,Consumer Discretionary Products,Home & Office Products,Furniture,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Home Furnishings,False,SWS Capital Bhd
@@ -850,7 +850,7 @@ BLCW6X5,KGW MK Equity,,Industrials,Industrial Services,Transportation & Logistic
 BLD6YZ4,SFPTECH MK Equity,EMS,Industrials,Industrial Products,Machinery,Metalworking Machinery,Industrials,Capital Goods,Machinery,Industrial Machinery & Supplies & Components,False,SFP Tech Holdings Bhd
 BLD7LQ7,TELADAN MK Equity,Real Estate Development,Real Estate,Real Estate,Real Estate Owners & Developers,Multi Asset Class Own & Develop,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,False,Teladan Group Bhd
 BLF7DK3,SCGBHD MK Equity,Industrial,Industrials,Industrial Products,Electrical Equipment,Electrical Components,Industrials,Capital Goods,Electrical Equipment,Electrical Components & Equipment,False,Southern Cable Group Bhd
-BLFH5T6,PLYTEC MK Equity,,N.A.,N.A.,,,,,,,False,PLYTEC Holding Bhd
+BLFH5T6,PLYTEC MK Equity,,Materials,Materials,Construction Materials,Building Materials,,,,,False,PLYTEC Holding Bhd
 BLFHKQ8,HPPHB MK Equity,Materials & Metals,Materials,Materials,Containers & Packaging,Containers & Packaging,Materials,Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,False,HPP Holdings Bhd
 BLN9F05,OVH MK Equity,,Energy,Oil & Gas,Oil & Gas Services & Equip,Drilling & Drilling Support,Energy,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,False,Ocean Vantage Holdings Bhd
 BM9R113,YXPM MK Equity,,Consumer Discretionary,Consumer Discretionary Products,Apparel & Textile Products,"Apparel, Footwear & Acc Design",Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",False,YX Precious Metals Bhd
@@ -876,7 +876,7 @@ BMYQG54,ATECH MK Equity,EMS,Technology,Tech Hardware & Semiconductors,Technology
 BN13SM6,FLEXI MK Equity,,Industrials,Industrial Products,Machinery,Other Machinery & Equipment,Industrials,Capital Goods,Machinery,Industrial Machinery & Supplies & Components,False,Flexidynamic Holdings Bhd
 BN2CDR2,CEB MK Equity,EMS,Technology,Tech Hardware & Semiconductors,Technology Hardware,Electronics Components,Information Technology,Technology Hardware & Equipment,"Electronic Equipment, Instruments & Components",Electronic Manufacturing Services,False,Cape Ems Manufacturing M Sdn B
 BN2QLH0,PEKAT MK Equity,Green Tech,Energy,Renewable Energy,Renewable Energy,Renewable Energy Equipment,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,Pekat Group Bhd
-BN499Q2,GBAY MK Equity,,N.A.,N.A.,,,,,,,False,Greater Bay Holdings Bhd
+BN499Q2,GBAY MK Equity,,N.A.,N.A.,Containers & Packaging,Containers & Packaging,Materials,Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,False,Greater Bay Holdings Bhd
 BN4JBJ9,MRDIY MK Equity,Consumer Discretionary,Consumer Discretionary,Retail & Whsle - Discretionary,Retail - Discretionary,Home Products Stores,Consumer Discretionary,Consumer Discretionary Distribution & Retail,Specialty Retail,Home Improvement Retail,True,MR DIY Group M Bhd
 BN6KL90,DXN MK Equity,Consumer Staples,Consumer Staples,Consumer Staple Products,Food,Packaged Food,,,,,False,DXN Holdings Bhd
 BN70TV7,SWIFT MK Equity,Transportation,Industrials,Industrial Services,Transportation & Logistics,Logistics Services,Industrials,Transportation,Air Freight & Logistics,Air Freight & Logistics,False,Swift Haulage Bhd
