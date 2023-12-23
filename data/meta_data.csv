@@ -55,7 +55,7 @@ id,id_bbg,sector,bics_level_1_sector_name,bics_level_2_industry_group_name,bics_
 6096166,H&L MK Equity,,Industrials,Industrial Products,Machinery,Metalworking Machinery,Industrials,Capital Goods,Machinery,Industrial Machinery & Supplies & Components,False,Kumpulan H&L High-Tech Bhd
 6100324,BIG MK Equity,,Materials,Materials,Chemicals,Basic & Diversified Chemicals,Materials,Materials,Construction Materials,Construction Materials,False,BIG Industries Bhd
 6100379,BIMB MK Equity,Banks,Financials,Banking,Banking,Banks,Financials,Banks,Banks,Diversified Banks,True,Bank Islam Malaysia Bhd
-6100517,BIN MK Equity,,Industrials,Industrial Services,Engineering & Construction,Infrastructure Construction,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,Bina Puri Holdings BHD
+6100517,BIN MK Equity,Construction,Industrials,Industrial Services,Engineering & Construction,Infrastructure Construction,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,Bina Puri Holdings BHD
 6100562,DRLM MK Equity,,Industrials,Industrial Services,Engineering & Construction,Infrastructure Construction,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,Bina Darulaman Bhd
 6100863,HUME MK Equity,Construction,Materials,Materials,Construction Materials,Cement & Aggregates,Materials,Materials,Construction Materials,Construction Materials,False,Hume Cement Industries Bhd
 6106195,AAB MK Equity,,Consumer Staples,Consumer Staple Products,Food,Agricultural Producers,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Services,False,Astral Asia Bhd
@@ -181,7 +181,7 @@ id,id_bbg,sector,bics_level_1_sector_name,bics_level_2_industry_group_name,bics_
 6436450,HLFG MK Equity,Financial,Financials,Banking,Banking,Banks,Financials,Banks,Banks,Diversified Banks,True,Hong Leong Financial Group Bhd
 6436717,HO MK Equity,Construction,Real Estate,Real Estate,Real Estate Owners & Developers,Multi Asset Class Own & Develop,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,Ho Hup Construction Co Bhd
 6436892,HLBK MK Equity,Banks,Financials,Banking,Banking,Banks,Financials,Banks,Banks,Diversified Banks,True,Hong Leong Bank Bhd
-6449414,RENEUCO MK Equity,,Energy,Renewable Energy,Renewable Energy,Renewable Energy Project Dev,Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goods",Textiles,False,Reneuco BHD
+6449414,RENEUCO MK Equity,Construction,Energy,Renewable Energy,Renewable Energy,Renewable Energy Project Dev,Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goods",Textiles,False,Reneuco BHD
 6449425,MEDA MK Equity,,Real Estate,Real Estate,Real Estate Owners & Developers,Multi Asset Class Own & Develop,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,False,Meridian Bhd
 6455217,IJM MK Equity,Construction,Industrials,Industrial Services,Engineering & Construction,Infrastructure Construction,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,IJM Corp Bhd
 6456221,INS MK Equity,Financial,Financials,Financial Services,Institutional Financial Svcs,Institutional Brokerage,Financials,Financial Services,Capital Markets,Investment Banking & Brokerage,False,Insas Bhd
@@ -253,7 +253,7 @@ id,id_bbg,sector,bics_level_1_sector_name,bics_level_2_industry_group_name,bics_
 6552282,SMELT MK Equity,Materials & Metals,Materials,Materials,Metals & Mining,Base Metals,Materials,Materials,Metals & Mining,Diversified Metals & Mining,False,Malaysia Smelting Corp Bhd
 6552464,ALLZ MK Equity,Financial,Financials,Insurance,Insurance,Life Insurance,Financials,Insurance,Insurance,Multi-line Insurance,False,Allianz Malaysia Bhd
 6553542,MPAC MK Equity,,Consumer Staples,Consumer Staple Products,Food,Agricultural Producers,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Services,False,Malpac Holdings BHD
-6555946,FNH MK Equity,Consumer Staples,Consumer Staples,Consumer Staple Products,Beverages,Non-Alcoholic Beverages,Consumer Staples,"Food, Beverage & Tobacco",Beverages,Soft Drinks & Non-alcoholic Beverages,True,Fraser & Neave Holdings Bhd
+6555946,FNH MK Equity,Consumer Staples,Consumer Staples,Consumer Staple Products,Food,Packaged Food,Consumer Staples,"Food, Beverage & Tobacco",Beverages,Soft Drinks & Non-alcoholic Beverages,True,Fraser & Neave Holdings Bhd
 6556325,MAY MK Equity,Banks,Financials,Banking,Banking,Banks,Financials,Banks,Banks,Diversified Banks,True,Malayan Banking Bhd
 6556518,LMC MK Equity,Construction,Materials,Materials,Construction Materials,Cement & Aggregates,Materials,Materials,Construction Materials,Construction Materials,True,Malayan Cement Bhd
 6556552,SRB MK Equity,,Real Estate,Real Estate,Real Estate Owners & Developers,Multi Asset Class Own & Develop,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Operating Companies,False,Sapura Resources Bhd
@@ -676,6 +676,7 @@ B2477M1,HEXTECH MK Equity,Transportation,Industrials,Industrial Services,Transpo
 B28SPM6,IHB MK Equity,,Industrials,Industrial Services,Engineering & Construction,Building Construction,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,Infraharta Holdings Bhd
 B28VNR6,HAPL MK Equity,Plantation ,Consumer Staples,Consumer Staple Products,Food,Agricultural Producers,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Services,False,Hap Seng Plantations Holdings
 B29H4P8,ACSM MK Equity,Financial,Financials,Financial Services,Specialty Finance,Consumer Finance,Financials,Financial Services,Consumer Finance,Consumer Finance,False,AEON Credit Service M Bhd
+B29H555,MAGMA MK Equity,,,,Leisure Facilities & Services,Lodging,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",False,Magma Group Bhd
 B29H5B1,NGB MK Equity,Consumer Services,Industrials,Industrial Services,Commercial Support Services,Printing Services,Industrials,Commercial & Professional Services,Commercial Services & Supplies,Commercial Printing,False,Nextgreen Global Bhd
 B29TTR1,SIME MK Equity,Automotive,Consumer Discretionary,Retail & Whsle - Discretionary,Wholesale - Discretionary,Automotive Wholesalers,Industrials,Capital Goods,Industrial Conglomerates,Industrial Conglomerates,True,Sime Darby Bhd
 B2NB597,TASCO MK Equity,Transportation,Industrials,Industrial Services,Transportation & Logistics,Logistics Services,Industrials,Transportation,Air Freight & Logistics,Air Freight & Logistics,False,TASCO Bhd
@@ -890,6 +891,7 @@ BNG7Y25,ECON MK Equity,Construction,Energy,Renewable Energy,Renewable Energy,Ren
 BNGC884,OPPSTAR MK Equity,Technology,Technology,Tech Hardware & Semiconductors,Semiconductors,Semiconductor Mfg,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,Semiconductors,False,Oppstar Bhd
 BNGCWK4,SAMAIDEN MK Equity,Green Tech,Industrials,Industrial Services,Engineering & Construction,Engineering Services,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,Samaiden Group Bhd
 BNH7MH5,BPLANT MK Equity,Plantation ,Consumer Staples,Consumer Staple Products,Food,Agricultural Producers,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Services,True,Boustead Plantations Bhd
+BNKGB27,JTGROUP MK Equity,,Consumer Discretionary,Consumer Discretionary Products,Engineering & Construction,Infrastructure Construction,,,,,False,Jati Tinggi Group Bhd
 BNM4Y20,LEFORM MK Equity,Materials & Metals,Materials,Materials,Steel,Steel Producers,Materials,Materials,Metals & Mining,Steel,False,Leform Bhd
 BNM87G7,IGBCR MK Equity,REIT,Real Estate,Real Estate,REIT,Retail REIT,Real Estate,Equity Real Estate Investment Trusts (REITs),Diversified REITs,Diversified REITs,False,IGB Commercial Real Estate Inv
 BNMC123,VOLCANO MK Equity,,Industrials,Industrial Products,Industrial Intermediate Prod,Fabricated Metal & Hardware,Industrials,Capital Goods,Machinery,Industrial Machinery & Supplies & Components,False,Volcano Bhd
@@ -905,7 +907,7 @@ BP2SS46,MNHLDG MK Equity,,Real Estate,Real Estate,Real Estate Owners & Developer
 BP6DTV1,YENHER MK Equity,Consumer Staples,Consumer Staples,Consumer Staple Products,Food,Agricultural Producers,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats,False,Yenher Holdings Bhd
 BP6DTX3,RAMSSOL MK Equity,,Technology,Software & Tech Services,Software,Application Software,Industrials,Commercial & Professional Services,Professional Services,Human Resource & Employment Services,False,Ramssol Group Bhd
 BP6MDG1,PANDA MK Equity,,Technology,Software & Tech Services,Software,Application Software,,,,,False,Panda Eco System Bhd
-BP6MFV0,CPETECH MK Equity,,Industrials,Industrial Products,Asset Management,Investment Companies,Industrials,Capital Goods,Machinery,Industrial Machinery & Supplies & Components,False,CPE Technology Bhd
+BP6MFV0,CPETECH MK Equity,Technology,Industrials,Industrial Products,Industrial Intermediate Prod,Fabricated Metal & Hardware,Industrials,Capital Goods,Machinery,Industrial Machinery & Supplies & Components,False,CPE Technology Bhd
 BP7MNQ0,ECA MK Equity,Technology,Industrials,Industrial Products,Electrical Equipment,Industrial Automation Controls,Industrials,Capital Goods,Machinery,Industrial Machinery & Supplies & Components,False,ECA Integrated Solution Bhd
 BP81J57,YEWLEE MK Equity,Materials & Metals,Industrials,Industrial Products,Machinery,Other Machinery & Equipment,Industrials,Capital Goods,Building Products,Building Products,False,Yew Lee Pacific Group Bhd
 BP95XF6,SENHENG MK Equity,Consumer Discretionary,Consumer Discretionary,Retail & Whsle - Discretionary,E-Commerce Discretionary,Specialty Online Retailers,Consumer Discretionary,Consumer Discretionary Distribution & Retail,Specialty Retail,Computer & Electronics Retail,False,Senheng New Retail Bhd
@@ -922,6 +924,7 @@ BPLLK40,SKYWLD MK Equity,Real Estate Development,Real Estate,Real Estate,Real Es
 BPM01J8,ORGABIO MK Equity,,Consumer Staples,Consumer Staple Products,Beverages,Non-Alcoholic Beverages,,,,,False,Orgabio Holdings Bhd
 BPNTZZ8,INFOM MK Equity,Software & Services,Technology,Software & Tech Services,Software,Infrastructure Software,Information Technology,Software & Services,IT Services,IT Consulting & Other Services,False,Infomina Bhd
 BPP13Z8,UNIQUE MK Equity,,Industrials,Industrial Products,Electrical Equipment,Comml & Res Bldg Equip & Sys,Industrials,Commercial & Professional Services,Commercial Services & Supplies,Office Services & Supplies,False,Unique Fire Holdings Bhd
+BPSLGR8,CHB MK Equity,,Industrials,Industrial Products,Apparel & Textile Products,"Apparel, Footwear & Acc Design",Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",False,Critical Holdings Bhd
 BPVGHT9,CTIB MK Equity,,Industrials,Industrial Products,Machinery,Flow Control Equipment,,,,,False,Cosmos Technology Internationa
 BPWBMC1,SUNVIEW MK Equity,Green Tech,Utilities,Utilities,Electric Utilities,Power Generation,Industrials,Capital Goods,Electrical Equipment,Electrical Components & Equipment,False,Sunview Group Bhd
 BQ1K390,REB MK Equity,,Energy,Oil & Gas,Oil & Gas Producers,Exploration & Production,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,False,Reach Energy Bhd
