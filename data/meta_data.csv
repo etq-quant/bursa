@@ -469,7 +469,7 @@ B00QBW6,PESONA MK Equity,Industrial,Industrials,Industrial Services,Engineering 
 B00STN9,HONGSENG MK Equity,Healthcare,Communications,Media,Advertising & Marketing,Advertising & Marketing,Health Care,Health Care Equipment & Services,Health Care Providers & Services,Health Care Services,False,Hong Seng Consolidated Bhd
 B010Q22,APBB MK Equity,Industrial,Industrials,Industrial Products,Machinery,Metalworking Machinery,Industrials,Capital Goods,Machinery,Industrial Machinery & Supplies & Components,False,APB Resources Bhd
 B012521,MDJ MK Equity,Construction,Industrials,Industrial Services,Engineering & Construction,Infrastructure Construction,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,Mudajaya Group Bhd
-B012W31,RCE MK Equity,Financial,Financials,Financial Services,Specialty Finance,Consumer Finance,Financials,Financial Services,Consumer Finance,Consumer Finance,False,RCE Capital Bhd
+B012W31,RCE MK Equity,Financial,Financials,Financial Services,Specialty Finance,Consumer Finance,Financials,Financial Services,Consumer Finance,Consumer Finance,True,RCE Capital Bhd
 B012W42,PBK MK Equity,Banks,Financials,Banking,Banking,Banks,Financials,Banks,Banks,Diversified Banks,True,Public Bank Bhd
 B014958,AYS MK Equity,,Materials,Materials,Steel,Metal Svc Centers & Processors,Industrials,Capital Goods,Trading Companies & Distributors,Trading Companies & Distributors,False,AYS Ventures Bhd
 B0166B9,MEGB MK Equity,,Technology,Software & Tech Services,Technology Services,IT Services,Information Technology,Software & Services,Software,Systems Software,False,Metronic Global Bhd
@@ -890,7 +890,7 @@ BNG2226,GLXT MK Equity,,Industrials,Industrial Services,Commercial Support Servi
 BNG7Y25,ECON MK Equity,Construction,Energy,Renewable Energy,Renewable Energy,Renewable Energy Project Dev,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,Econpile Holdings Bhd
 BNGC884,OPPSTAR MK Equity,Technology,Technology,Tech Hardware & Semiconductors,Semiconductors,Semiconductor Mfg,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,Semiconductors,False,Oppstar Bhd
 BNGCWK4,SAMAIDEN MK Equity,Green Tech,Industrials,Industrial Services,Engineering & Construction,Engineering Services,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,Samaiden Group Bhd
-BNH7MH5,BPLANT MK Equity,Plantation ,Consumer Staples,Consumer Staple Products,Food,Agricultural Producers,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Services,True,Boustead Plantations Bhd
+BNH7MH5,BPLANT MK Equity,Plantation ,Consumer Staples,Consumer Staple Products,Food,Agricultural Producers,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Services,False,Boustead Plantations Bhd
 BNKGB27,JTGROUP MK Equity,,Industrials,Industrial Services,Engineering & Construction,Infrastructure Construction,,,,,False,Jati Tinggi Group Bhd
 BNM4Y20,LEFORM MK Equity,Materials & Metals,Materials,Materials,Steel,Steel Producers,Materials,Materials,Metals & Mining,Steel,False,Leform Bhd
 BNM87G7,IGBCR MK Equity,REIT,Real Estate,Real Estate,REIT,Retail REIT,Real Estate,Equity Real Estate Investment Trusts (REITs),Diversified REITs,Diversified REITs,False,IGB Commercial Real Estate Inv
