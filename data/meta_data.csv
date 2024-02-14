@@ -318,6 +318,7 @@ id,id_bbg,sector,bics_level_1_sector_name,bics_level_2_industry_group_name,bics_
 6671273,ASTI MK Equity,Materials & Metals,Industrials,Industrial Products,Industrial Intermediate Prod,Fabricated Metal & Hardware,Industrials,Capital Goods,Building Products,Building Products,False,Astino Bhd
 6673053,YBS MK Equity,,Industrials,Industrial Products,Machinery,Metalworking Machinery,Industrials,Capital Goods,Machinery,Industrial Machinery & Supplies & Components,False,YBS International Bhd
 6673268,IFCA MK Equity,Software & Services,Technology,Software & Tech Services,Software,Application Software,Information Technology,Software & Services,Software,Application Software,False,IFCA MSC Bhd
+6673699,TECHBASE MK Equity,Consumer Discretionary,Consumer Discretionary,Consumer Discretionary Products,Apparel & Textile Products,"Apparel, Footwear & Acc Design",Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",False,Techbase Industries BHD
 6674711,VELOCITY MK Equity,,Financials,Financial Services,Asset Management,Investment Companies,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Housewares & Specialties,False,Velocity Capital Partner Bhd
 6674904,PRTA MK Equity,Construction,Industrials,Industrial Services,Engineering & Construction,Engineering Services,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,Protasco Bhd
 6677215,PO MK Equity,Financial,Financials,Insurance,Insurance,P&C Insurance,Financials,Insurance,Insurance,Property & Casualty Insurance,False,Pacific & Orient Bhd
@@ -927,7 +928,7 @@ BPP13Z8,UNIQUE MK Equity,,Industrials,Industrial Products,Electrical Equipment,C
 BPSLGR8,CHB MK Equity,,Industrials,Industrial Services,Apparel & Textile Products,"Apparel, Footwear & Acc Design",Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",False,Critical Holdings Bhd
 BPVGHT9,CTIB MK Equity,,Industrials,Industrial Products,Machinery,Flow Control Equipment,,,,,False,Cosmos Technology Internationa
 BPWBMC1,SUNVIEW MK Equity,Green Tech,Utilities,Utilities,Electric Utilities,Power Generation,Industrials,Capital Goods,Electrical Equipment,Electrical Components & Equipment,False,Sunview Group Bhd
-BPYRZ84,WENTEL MK Equity,Industrial,N.A.,N.A.,,,,,,,False,WENTEL ENGINEERING HOLDINGS BH
+BPYRZ84,WENTEL MK Equity,Industrial,Industrials,Industrial Products,,,Materials,Materials,Metals & Mining,Diversified Metals & Mining,False,WENTEL ENGINEERING HOLDINGS BH
 BQ1K390,REB MK Equity,,Energy,Oil & Gas,Oil & Gas Producers,Exploration & Production,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,False,Reach Energy Bhd
 BQ749F4,NATGATE MK Equity,EMS,Industrials,Industrial Products,Electrical Equipment,Electrical Components,Information Technology,Technology Hardware & Equipment,"Electronic Equipment, Instruments & Components",Electronic Manufacturing Services,False,Nationgate Holdings Bhd
 BQB88R7,EDELTEQ MK Equity,Technology,Technology,Tech Hardware & Semiconductors,Semiconductors,Semiconductor Mfg,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,Semiconductors,False,Edelteq Holdings Bhd
