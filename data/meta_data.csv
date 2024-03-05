@@ -496,7 +496,7 @@ B02HY95,DPS MK Equity,,Consumer Discretionary,Consumer Discretionary Products,Ho
 B02JHS1,CMT MK Equity,Construction,Technology,Software & Tech Services,Technology Services,IT Services,Information Technology,Technology Hardware & Equipment,"Electronic Equipment, Instruments & Components",Electronic Manufacturing Services,False,Comintel Corp Bhd
 B02JPH6,SCT MK Equity,Technology,Industrials,Industrial Products,Electrical Equipment,Electrical Components,Industrials,Capital Goods,Electrical Equipment,Electrical Components & Equipment,False,Supercomnet Technologies Bhd
 B02JY46,KNMG MK Equity,Oil & Gas,Industrials,Industrial Products,Machinery,Flow Control Equipment,Energy,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,False,KNM Group Bhd
-B02SBM0,GSCB MK Equity,,Industrials,Industrial Products,Machinery,Other Machinery & Equipment,Materials,Materials,Containers & Packaging,"Metal, Glass & Plastic Containers",False,Ge-Shen Corp Bhd
+B02SBM0,GSCB MK Equity,Industrial,Industrials,Industrial Products,Machinery,Other Machinery & Equipment,Materials,Materials,Containers & Packaging,"Metal, Glass & Plastic Containers",False,Ge-Shen Corp Bhd
 B02TM19,KARY MK Equity,,Industrials,Industrial Products,Industrial Intermediate Prod,Rubber & Plastic,Materials,Materials,Chemicals,Commodity Chemicals,False,Karyon Industries Bhd
 B030D96,SER MK Equity,,Materials,Materials,Chemicals,Specialty Chemicals,Materials,Materials,Chemicals,Specialty Chemicals,False,SerSol Bhd
 B033KT4,KEIN MK Equity,,Industrials,Industrial Products,Machinery,Metalworking Machinery,Industrials,Capital Goods,Machinery,Industrial Machinery & Supplies & Components,False,Kein Hing International Bhd
@@ -886,7 +886,7 @@ BNDMT28,FFB MK Equity,Consumer Staples,Consumer Staples,Consumer Staple Products
 BNDS7N3,BETA MK Equity,EMS,Technology,Tech Hardware & Semiconductors,Technology Hardware,Consumer Electronics,Consumer Discretionary,Automobiles & Components,Automobile Components,Automotive Parts & Equipment,False,Betamek Bhd
 BNG0HC5,TJSETIA MK Equity,,Industrials,Industrial Services,Engineering & Construction,Building Construction,,,,,False,Tuju Setia Bhd
 BNG2226,GLXT MK Equity,,Industrials,Industrial Services,Commercial Support Services,Building Maintenance Services,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,Glostrext Bhd
-BNG5K21,TSA MK Equity,,Materials,Materials,,,Industrials,Capital Goods,Trading Companies & Distributors,Trading Companies & Distributors,False,TSA GROUP BHD
+BNG5K21,TSA MK Equity,Materials & Metals,Materials,Materials,,,Industrials,Capital Goods,Trading Companies & Distributors,Trading Companies & Distributors,False,TSA GROUP BHD
 BNG7Y25,ECON MK Equity,Construction,Energy,Renewable Energy,Renewable Energy,Renewable Energy Project Dev,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,Econpile Holdings Bhd
 BNGC884,OPPSTAR MK Equity,Technology,Technology,Tech Hardware & Semiconductors,Semiconductors,Semiconductor Mfg,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,Semiconductors,False,Oppstar Bhd
 BNGCWK4,SAMAIDEN MK Equity,Green Tech,Industrials,Industrial Services,Engineering & Construction,Engineering Services,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,Samaiden Group Bhd
@@ -903,7 +903,7 @@ BNW0X76,EIB MK Equity,,Industrials,Industrial Services,Engineering & Constructio
 BP2G1P2,CNERGEN MK Equity,EMS,Industrials,Industrial Products,Electrical Equipment,Electrical Components,Information Technology,Technology Hardware & Equipment,"Electronic Equipment, Instruments & Components",Technology Distributors,False,Cnergenz Bhd
 BP2RD60,CORAZA MK Equity,Materials & Metals,Industrials,Industrial Products,Industrial Intermediate Prod,Fabricated Metal & Hardware,Materials,Materials,Metals & Mining,Diversified Metals & Mining,False,Coraza Integrated Technology B
 BP2SS46,MNHLDG MK Equity,Construction,Real Estate,Real Estate,Real Estate Owners & Developers,Multi Asset Class Own & Develop,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,MN Holdings Bhd
-BP2T5L5,HEGROUP MK Equity,,Industrials,Industrial Services,,,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,HE Group Bhd
+BP2T5L5,HEGROUP MK Equity,,Industrials,Industrial Products,,,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,HE Group Bhd
 BP6DTV1,YENHER MK Equity,Consumer Staples,Consumer Staples,Consumer Staple Products,Food,Agricultural Producers,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats,False,Yenher Holdings Bhd
 BP6DTX3,RAMSSOL MK Equity,,Technology,Software & Tech Services,Software,Application Software,Industrials,Commercial & Professional Services,Professional Services,Human Resource & Employment Services,False,Ramssol Group Bhd
 BP6MDG1,PANDA MK Equity,,Technology,Software & Tech Services,Software,Application Software,Information Technology,Software & Services,Software,Systems Software,False,Panda Eco System Bhd
@@ -924,7 +924,7 @@ BPLLK40,SKYWLD MK Equity,Real Estate Development,Real Estate,Real Estate,Real Es
 BPM01J8,ORGABIO MK Equity,,Consumer Staples,Consumer Staple Products,Beverages,Non-Alcoholic Beverages,,,,,False,Orgabio Holdings Bhd
 BPNTZZ8,INFOM MK Equity,Software & Services,Technology,Software & Tech Services,Software,Infrastructure Software,Information Technology,Software & Services,IT Services,IT Consulting & Other Services,False,Infomina Bhd
 BPP13Z8,UNIQUE MK Equity,,Industrials,Industrial Products,Electrical Equipment,Comml & Res Bldg Equip & Sys,Industrials,Commercial & Professional Services,Commercial Services & Supplies,Office Services & Supplies,False,Unique Fire Holdings Bhd
-BPSLGR8,CHB MK Equity,,Industrials,Industrial Services,Apparel & Textile Products,"Apparel, Footwear & Acc Design",Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",False,Critical Holdings Bhd
+BPSLGR8,CHB MK Equity,Construction,Industrials,Industrial Services,Apparel & Textile Products,"Apparel, Footwear & Acc Design",Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",False,Critical Holdings Bhd
 BPVGHT9,CTIB MK Equity,,Industrials,Industrial Products,Machinery,Flow Control Equipment,,,,,False,Cosmos Technology Internationa
 BPWBMC1,SUNVIEW MK Equity,Green Tech,Utilities,Utilities,Electric Utilities,Power Generation,Industrials,Capital Goods,Electrical Equipment,Electrical Components & Equipment,False,Sunview Group Bhd
 BPYRZ84,WENTEL MK Equity,Industrial,Industrials,Industrial Products,,,Materials,Materials,Metals & Mining,Diversified Metals & Mining,False,WENTEL ENGINEERING HOLDINGS BH
@@ -933,7 +933,7 @@ BQ749F4,NATGATE MK Equity,EMS,Industrials,Industrial Products,Electrical Equipme
 BQB88R7,EDELTEQ MK Equity,Technology,Technology,Tech Hardware & Semiconductors,Semiconductors,Semiconductor Mfg,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,Semiconductors,False,Edelteq Holdings Bhd
 BQB8HM5,CLOUDPT MK Equity,Software & Services,Financials,Financial Services,Asset Management,Investment Companies,Information Technology,Software & Services,IT Services,IT Consulting & Other Services,False,Cloudpoint Technology Bhd
 BQC5KQ0,SSF MK Equity,Consumer Discretionary,Consumer Discretionary,Retail & Whsle - Discretionary,E-Commerce Discretionary,Specialty Online Retailers,Consumer Discretionary,Consumer Discretionary Distribution & Retail,Specialty Retail,Homefurnishing Retail,False,SSF Home Group Bhd
-BQHNFT7,AGX MK Equity,,Financials,Financial Services,,,,,,,False,AGX GROUP Bhd
+BQHNFT7,AGX MK Equity,,Industrials,Industrial Services,,,Industrials,Transportation,Air Freight & Logistics,Air Freight & Logistics,False,AGX GROUP Bhd
 BQMHPQ1,DAY3 MK Equity,Software & Services,Technology,Software & Tech Services,Technology Services,IT Services,,,,,False,Daythree Digital Bhd
 BQQ9808,DSS MK Equity,,Materials,Materials,Containers & Packaging,Containers & Packaging,Materials,Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,False,DS Sigma Holdings Bhd
 BQQ9B10,LPBHD MK Equity,Materials & Metals,Materials,Materials,Containers & Packaging,Containers & Packaging,Materials,Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,False,L&P Global Bhd
