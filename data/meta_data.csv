@@ -870,6 +870,7 @@ BMGBB18,LGMS MK Equity,Software & Services,Technology,Software & Tech Services,T
 BMGH2X5,PTRB MK Equity,Consumer Staples,Financials,Financial Services,Asset Management,Investment Companies,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats,False,RESOURCES HOLDINGS BHD PT
 BMH4WV3,ANEKA MK Equity,,Industrials,Industrial Services,Engineering & Construction,Infrastructure Construction,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,Aneka Jaringan Holdings Bhd
 BMN9S81,SEM MK Equity,Consumer Staples,Consumer Staples,Retail & Wholesale - Staples,Retail - Consumer Staples,Food & Drug Stores,Consumer Staples,Consumer Staples Distribution & Retail,Consumer Staples Distribution & Retail,Food Retail,False,7-Eleven Malaysia Holdings Bhd
+BMW3LL8,SBH MK Equity,,Industrials,Industrial Services,,,,,,,False,SBH Marine Holdings Bhd
 BMWLDM7,EFRAME MK Equity,Furniture & Wood,Consumer Discretionary,Consumer Discretionary Products,Home Construction,Building Products,Industrials,Capital Goods,Building Products,Building Products,False,Econframe Bhd
 BMXS7G9,MSTGOLF MK Equity,Consumer Discretionary,Consumer Discretionary,Consumer Discretionary Products,Leisure Products,Sporting Goods,Consumer Discretionary,Consumer Discretionary Distribution & Retail,Specialty Retail,Other Specialty Retail,False,MST Golf Group Bhd
 BMYQG54,ATECH MK Equity,EMS,Technology,Tech Hardware & Semiconductors,Technology Hardware,EMS/ODM,Information Technology,Technology Hardware & Equipment,"Electronic Equipment, Instruments & Components",Electronic Manufacturing Services,False,Aurelius Technologies Bhd
@@ -915,7 +916,7 @@ BP96HY6,SENFONG MK Equity,Materials & Metals,Industrials,Industrial Products,Ind
 BP9DM08,SASB MK Equity,Media & Entertainment,Communications,Media,Publishing & Broadcasting,Publishing,Communication Services,Media & Entertainment,Media,Publishing,False,Sasbadi Holdings Bhd
 BPBK984,ITMAX MK Equity,Technology,Technology,Tech Hardware & Semiconductors,Technology Hardware,Specialty Technology Hardware,Information Technology,Technology Hardware & Equipment,"Electronic Equipment, Instruments & Components",Electronic Equipment & Instruments,True,ITMAX SYSTEM Bhd
 BPBMTV3,ZANTAT MK Equity,,Materials,Materials,,,Materials,Materials,Chemicals,Commodity Chemicals,False,Zantat Holdings Sdn Bhd
-BPBMTW4,PLINTAS MK Equity,Industrial,Industrials,Industrial Services,,,,,,,False,Prolintas Infra Business Trust
+BPBMTW4,PLINTAS MK Equity,Industrial,Industrials,Industrial Services,,,Industrials,Transportation,Transportation Infrastructure,Highways & Railtracks,False,Prolintas Infra Business Trust
 BPCTJT1,PPJACK MK Equity,Financial,Financials,Financial Services,Specialty Finance,Other Financial Services,Financials,Financial Services,Consumer Finance,Consumer Finance,False,Pappajack Bhd
 BPCWYL7,HHR MK Equity,Materials & Metals,Utilities,Utilities,Electric Utilities,Power Generation,Energy,Energy,"Oil, Gas & Consumable Fuels",Coal & Consumable Fuels,False,Hhrg Bhd
 BPDWLV5,CENGILD MK Equity,Healthcare,Health Care,Health Care,Health Care Facilities & Svcs,Health Care Services,Health Care,Health Care Equipment & Services,Health Care Providers & Services,Health Care Facilities,False,Cengild Medical Bhd
