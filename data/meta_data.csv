@@ -358,7 +358,7 @@ id,id_bbg,sector,bics_level_1_sector_name,bics_level_2_industry_group_name,bics_
 6716055,SFCA MK Equity,,Real Estate,Real Estate,Real Estate Owners & Developers,Multi Asset Class Own & Develop,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,False,S&F Capital Bhd
 6719128,MBC MK Equity,Transportation,Industrials,Industrial Services,Transportation & Logistics,Marine Shipping,Industrials,Transportation,Marine Transportation,Marine Transportation,False,Maybulk Bhd
 6721413,RALC MK Equity,,Materials,Materials,Containers & Packaging,Containers & Packaging,Materials,Materials,Containers & Packaging,"Metal, Glass & Plastic Containers",False,Ralco Corp BHD
-6724122,AGES MK Equity,,,,Home Construction,Homebuilding,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,Ageson Bhd
+6724122,AGES MK Equity,,Consumer Discretionary,Consumer Discretionary Products,Home Construction,Homebuilding,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,Ageson Bhd
 6725631,MARG MK Equity,Oil & Gas,Energy,Oil & Gas,Oil & Gas Services & Equip,Oilfield Services & Equipment,Energy,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,False,Marine & General Bhd
 6725653,TPC MK Equity,,Consumer Staples,Consumer Staple Products,Food,Agricultural Producers,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats,False,TPC Plus Bhd
 6726515,CABC MK Equity,Consumer Staples,Consumer Staples,Consumer Staple Products,Food,Agricultural Producers,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats,False,CAB Cakaran Corp Bhd
@@ -840,7 +840,7 @@ BKDZYC1,MESTRON MK Equity,Construction,Industrials,Industrial Products,Electrica
 BKP80M0,OMH MK Equity,Materials & Metals,Materials,Materials,Metals & Mining,Base Metals,Materials,Materials,Metals & Mining,Diversified Metals & Mining,False,OM Holdings Ltd
 BKRQ635,AME MK Equity,Industrial,Industrials,Industrial Services,Engineering & Construction,Building Construction,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,AME Elite Consortium Bhd
 BKTJK85,SPRING MK Equity,,Consumer Discretionary,Consumer Discretionary Products,Home & Office Products,Furniture,,,,,False,Spring Art Holdings Bhd
-BKVG5D4,KEYFIELD MK Equity,,N.A.,N.A.,,,,,,,False,Keyfield International Bhd
+BKVG5D4,KEYFIELD MK Equity,,Consumer Discretionary,Consumer Discretionary Services,,,,,,,False,Keyfield International Bhd
 BKWFV87,TCS MK Equity,,Real Estate,Real Estate,Real Estate Services,Real Estate Services,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Homebuilding,False,TCS Group Holdings Bhd
 BL1H2P5,PWRWELL MK Equity,Industrial,Industrials,Industrial Products,Electrical Equipment,Electrical Power Equipment,Industrials,Capital Goods,Electrical Equipment,Heavy Electrical Equipment,False,Powerwell Holdings Bhd
 BL3NQS2,ACO MK Equity,,Industrials,Industrial Products,Electrical Equipment,Comml & Res Bldg Equip & Sys,Industrials,Capital Goods,Trading Companies & Distributors,Trading Companies & Distributors,False,ACO Group Bhd
