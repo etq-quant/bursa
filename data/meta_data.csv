@@ -575,7 +575,7 @@ B0CMD48,MTTB MK Equity,,Technology,Software & Tech Services,Software,Application
 B0CSZR3,CAN MK Equity,Consumer Staples,Materials,Materials,Containers & Packaging,Containers & Packaging,Materials,Materials,Containers & Packaging,"Metal, Glass & Plastic Containers",False,Can-One Bhd
 B0DD1H9,KRI MK Equity,Rubber Glove,Industrials,Industrial Products,Industrial Intermediate Prod,Rubber & Plastic,Health Care,Health Care Equipment & Services,Health Care Equipment & Supplies,Health Care Supplies,True,Kossan Rubber Industries Bhd
 B0DQSM2,TWK MK Equity,Utilities,Industrials,Industrial Services,Commercial Support Services,Waste Management,Utilities,Utilities,Water Utilities,Water Utilities,False,Taliworks Corp Bhd
-B0F1KV8,TEXC MK Equity,,Industrials,Industrial Services,Commercial Support Services,Waste Management,Industrials,Commercial & Professional Services,Commercial Services & Supplies,Environmental & Facilities Services,False,Tex Cycle Technology Malaysia
+B0F1KV8,TEXC MK Equity,Industrial,Industrials,Industrial Services,Commercial Support Services,Waste Management,Industrials,Commercial & Professional Services,Commercial Services & Supplies,Environmental & Facilities Services,False,Tex Cycle Technology Malaysia
 B0F1NS6,KFB MK Equity,Consumer Staples,Consumer Staples,Consumer Staple Products,Food,Packaged Food,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats,False,Kawan Food Bhd
 B0FGN81,NHR MK Equity,,Consumer Discretionary,Consumer Discretionary Products,Home & Office Products,Housewares,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Housewares & Specialties,False,Ni Hsin Group Bhd
 B0HWY40,MAGH MK Equity,Consumer Staples,Consumer Staples,Consumer Staple Products,Food,Agricultural Producers,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats,False,Mag Holdings Bhd
@@ -679,7 +679,7 @@ B29H555,MAGMA MK Equity,Consumer Services,Consumer Discretionary,Consumer Discre
 B29H5B1,NGB MK Equity,Consumer Services,Industrials,Industrial Services,Commercial Support Services,Printing Services,Industrials,Commercial & Professional Services,Commercial Services & Supplies,Commercial Printing,False,Nextgreen Global Bhd
 B29TTR1,SIME MK Equity,Automotive,Consumer Discretionary,Retail & Whsle - Discretionary,Wholesale - Discretionary,Automotive Wholesalers,Industrials,Capital Goods,Industrial Conglomerates,Industrial Conglomerates,True,Sime Darby Bhd
 B2NB597,TASCO MK Equity,Transportation,Industrials,Industrial Services,Transportation & Logistics,Logistics Services,Industrials,Transportation,Air Freight & Logistics,Air Freight & Logistics,False,TASCO Bhd
-B2ND8F0,CITAGLB MK Equity,Construction,Financials,Financial Services,Asset Management,Investment Companies,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,Citaglobal Bhd
+B2ND8F0,CITAGLB MK Equity,Green Tech,Financials,Financial Services,Asset Management,Investment Companies,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,Citaglobal Bhd
 B2NPQ18,KEYA MK Equity,,Technology,Tech Hardware & Semiconductors,Semiconductors,Semiconductor Mfg,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,Semiconductors,False,Key Asic Bhd
 B2NRG03,SIGN MK Equity,Furniture & Wood,Consumer Discretionary,Retail & Whsle - Discretionary,Retail - Discretionary,Home Products Stores,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Home Furnishings,False,Signature International Bhd
 B2PFKX6,SCGM MK Equity,Materials & Metals,Industrials,Industrial Products,Industrial Intermediate Prod,Rubber & Plastic,Materials,Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,False,SCGM Bhd
@@ -705,7 +705,6 @@ B3SQ4Z3,CSHB MK Equity,Software & Services,Technology,Software & Tech Services,S
 B3W45N8,EAHB MK Equity,,Consumer Staples,Retail & Wholesale - Staples,Wholesale - Consumer Staples,Food & Beverage Wholesalers,Information Technology,Software & Services,IT Services,IT Consulting & Other Services,False,EA Holdings Bhd
 B3W5NN7,MMHE MK Equity,Oil & Gas,Energy,Oil & Gas,Oil & Gas Services & Equip,Oilfield Services & Equipment,Energy,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,False,Malaysia Marine and Heavy Engi
 B3WLCQ1,CPG MK Equity,Rubber Glove,Industrials,Industrial Products,Industrial Intermediate Prod,Rubber & Plastic,Health Care,Health Care Equipment & Services,Health Care Equipment & Supplies,Health Care Supplies,False,Careplus Group Bhd
-B3WMH69,FPHB MK Equity,Healthcare,Consumer Discretionary,Retail & Whsle - Discretionary,Retail - Discretionary,Other Spec Retail - Discr,Health Care,Health Care Equipment & Services,Health Care Providers & Services,Health Care Facilities,False,Focus Point Holdings Bhd
 B3X8MB6,SRCB MK Equity,,Industrials,Industrial Products,Electrical Equipment,Electrical Components,Industrials,Capital Goods,Electrical Equipment,Electrical Components & Equipment,False,Sarawak Cable Bhd
 B3XH2W4,SCHB MK Equity,,Health Care,Health Care,Biotech & Pharma,Specialty & Generic Pharma,Industrials,Capital Goods,Trading Companies & Distributors,Trading Companies & Distributors,False,SCC Holdings Bhd
 B3XVSZ1,HDL MK Equity,,Energy,Oil & Gas,Oil & Gas Services & Equip,Oilfield Services & Equipment,Energy,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,False,Handal Energy Bhd
@@ -840,7 +839,7 @@ BKDZYC1,MESTRON MK Equity,Construction,Industrials,Industrial Products,Electrica
 BKP80M0,OMH MK Equity,Materials & Metals,Materials,Materials,Metals & Mining,Base Metals,Materials,Materials,Metals & Mining,Diversified Metals & Mining,False,OM Holdings Ltd
 BKRQ635,AME MK Equity,Industrial,Industrials,Industrial Services,Engineering & Construction,Building Construction,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,AME Elite Consortium Bhd
 BKTJK85,SPRING MK Equity,,Consumer Discretionary,Consumer Discretionary Products,Home & Office Products,Furniture,,,,,False,Spring Art Holdings Bhd
-BKVG5D4,KEYFIELD MK Equity,,Consumer Discretionary,Consumer Discretionary Services,,,,,,,False,Keyfield International Bhd
+BKVG5D4,KEYFIELD MK Equity,Oil & Gas,Consumer Discretionary,Consumer Discretionary Services,,,,,,,False,Keyfield International Bhd
 BKWFV87,TCS MK Equity,,Real Estate,Real Estate,Real Estate Services,Real Estate Services,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Homebuilding,False,TCS Group Holdings Bhd
 BL1H2P5,PWRWELL MK Equity,Industrial,Industrials,Industrial Products,Electrical Equipment,Electrical Power Equipment,Industrials,Capital Goods,Electrical Equipment,Heavy Electrical Equipment,False,Powerwell Holdings Bhd
 BL3NQS2,ACO MK Equity,,Industrials,Industrial Products,Electrical Equipment,Comml & Res Bldg Equip & Sys,Industrials,Capital Goods,Trading Companies & Distributors,Trading Companies & Distributors,False,ACO Group Bhd
@@ -917,7 +916,7 @@ BP96HY6,SENFONG MK Equity,Materials & Metals,Industrials,Industrial Products,Ind
 BP9DM08,SASB MK Equity,Media & Entertainment,Communications,Media,Publishing & Broadcasting,Publishing,Communication Services,Media & Entertainment,Media,Publishing,False,Sasbadi Holdings Bhd
 BPBK984,ITMAX MK Equity,Technology,Technology,Tech Hardware & Semiconductors,Technology Hardware,Specialty Technology Hardware,Information Technology,Technology Hardware & Equipment,"Electronic Equipment, Instruments & Components",Electronic Equipment & Instruments,True,ITMAX SYSTEM Bhd
 BPBMTV3,ZANTAT MK Equity,,Materials,Materials,,,Materials,Materials,Chemicals,Commodity Chemicals,False,Zantat Holdings Sdn Bhd
-BPBMTW4,PLINTAS MK Equity,Industrial,Industrials,Industrial Services,,,Industrials,Transportation,Transportation Infrastructure,Highways & Railtracks,False,Prolintas Infra Business Trust
+BPBMTW4,PLINTAS MK Equity,REIT,Industrials,Industrial Services,,,Industrials,Transportation,Transportation Infrastructure,Highways & Railtracks,False,Prolintas Infra Business Trust
 BPCTJT1,PPJACK MK Equity,Financial,Financials,Financial Services,Specialty Finance,Other Financial Services,Financials,Financial Services,Consumer Finance,Consumer Finance,False,Pappajack Bhd
 BPCWYL7,HHR MK Equity,Materials & Metals,Utilities,Utilities,Electric Utilities,Power Generation,Energy,Energy,"Oil, Gas & Consumable Fuels",Coal & Consumable Fuels,False,Hhrg Bhd
 BPDWLV5,CENGILD MK Equity,Healthcare,Health Care,Health Care,Health Care Facilities & Svcs,Health Care Services,Health Care,Health Care Equipment & Services,Health Care Providers & Services,Health Care Facilities,False,Cengild Medical Bhd
