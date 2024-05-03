@@ -429,7 +429,7 @@ id,id_bbg,sector,bics_level_1_sector_name,bics_level_2_industry_group_name,bics_
 6874544,IGBB MK Equity,Real Estate Development,Real Estate,Real Estate,Real Estate Owners & Developers,Retail Owners & Developers,Financials,Financial Services,Financial Services,Multi-Sector Holdings,False,IGB Bhd
 6876960,TEX MK Equity,Industrial,Materials,Materials,Chemicals,Chemicals Distribution,Industrials,Capital Goods,Industrial Conglomerates,Industrial Conglomerates,False,Texchem Resources Bhd
 6877736,GCAP MK Equity,,Energy,Renewable Energy,Renewable Energy,Renewable Energy Project Dev,Industrials,Transportation,Ground Transportation,Passenger Ground Transportation,False,G Capital Bhd
-6882097,TRO MK Equity,Transportation,Industrials,Industrial Services,Transportation & Logistics,Logistics Services,Industrials,Transportation,Air Freight & Logistics,Air Freight & Logistics,False,Transocean Holdings BHD
+6882097,ARKA MK Equity,Transportation,,,Transportation & Logistics,Logistics Services,Industrials,Transportation,Air Freight & Logistics,Air Freight & Logistics,False,Arka BHD
 6882729,TGL MK Equity,,Consumer Discretionary,Retail & Whsle - Discretionary,Retail - Discretionary,Specialty Apparel Stores,Consumer Discretionary,Consumer Discretionary Distribution & Retail,Specialty Retail,Apparel Retail,False,Teo Guan Lee Corp BHD
 6889612,MILUX MK Equity,Consumer Discretionary,Consumer Discretionary,Consumer Discretionary Products,Home & Office Products,Household Appliances,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Household Appliances,False,Milux Corp BHD
 6891833,DNEX MK Equity,Technology,Technology,Software & Tech Services,Software,Application Software,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,Semiconductors,True,Dagang NeXchange Bhd
@@ -943,9 +943,9 @@ BQQ9808,DSS MK Equity,,Materials,Materials,Containers & Packaging,Containers & P
 BQQ9B10,LPBHD MK Equity,Materials & Metals,Materials,Materials,Containers & Packaging,Containers & Packaging,Materials,Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,False,L&P Global Bhd
 BR53530,MERSEC MK Equity,Financial,Financials,Financial Services,Institutional Financial Svcs,Institutional Brokerage,Financials,Financial Services,Capital Markets,Investment Banking & Brokerage,False,Mercury Securities Group Bhd
 BRJSBM2,RADIUM MK Equity,Real Estate Development,Real Estate,Real Estate,Real Estate Owners & Developers,Multi Asset Class Own & Develop,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,False,Radium Development Bhd
-BRSCC66,TOPMIX MK Equity,,Consumer Discretionary,Retail & Whsle - Discretionary,,,,,,,False,
+BRSCC66,TOPMIX MK Equity,,Consumer Discretionary,Retail & Whsle - Discretionary,,,,,,,False,Topmix Bhd
 BRXH7R2,KJTS MK Equity,Industrial,Industrials,Industrial Services,,,Industrials,Commercial & Professional Services,Commercial Services & Supplies,Environmental & Facilities Services,False,KJTS Group Bhd
-BS2KW96,MKHOP MK Equity,,N.A.,N.A.,,,,,,,False,MKH Oil Palm East Kalimantan S
+BS2KW96,MKHOP MK Equity,,Consumer Staples,Consumer Staple Products,,,,,,,False,MKH Oil Palm East Kalimantan S
 BSB7F33,ALPHA MK Equity,Healthcare,Health Care,Health Care,,,Health Care,Health Care Equipment & Services,Health Care Providers & Services,Health Care Services,False,Alpha IVF Group Bhd
 BSKSMH0,MTEC MK Equity,Industrial,Industrials,Industrial Products,,,Industrials,Capital Goods,Electrical Equipment,Electrical Components & Equipment,False,MASTER TEC GROUP BHD
 BSL6X92,CARIP MK Equity,Oil & Gas,Energy,Oil & Gas,Oil & Gas Services & Equip,Oilfield Services & Equipment,Energy,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,False,Carimin Petroleum Bhd
