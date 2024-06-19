@@ -262,6 +262,7 @@ id,id_bbg,sector,bics_level_1_sector_name,bics_level_2_industry_group_name,bics_
 6556723,SSR MK Equity,Real Estate Development,Real Estate,Real Estate,Real Estate Owners & Developers,Multi Asset Class Own & Develop,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,False,Sunsuria Bhd
 6556756,MUI MK Equity,Consumer Discretionary,Consumer Discretionary,Consumer Discretionary Services,Leisure Facilities & Services,Lodging,Industrials,Capital Goods,Industrial Conglomerates,Industrial Conglomerates,False,Malayan United Industries Bhd
 6556778,MUIP MK Equity,Real Estate Development,Real Estate,Real Estate,Real Estate Owners & Developers,Multi Asset Class Own & Develop,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,False,MUI Properties Bhd
+6556789,MBSB MK Equity,Banks,Financials,,Banking,Banks,Financials,Banks,Banks,Regional Banks,True,MBSB Bhd
 6556938,ABMB MK Equity,Banks,Financials,Banking,Banking,Banks,Financials,Banks,Banks,Diversified Banks,True,Alliance Bank Malaysia Bhd
 6557867,MRC MK Equity,Construction,Industrials,Industrial Services,Engineering & Construction,Building Construction,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,True,Malaysian Resources Corp Bhd
 6557997,MISC MK Equity,Transportation,Industrials,Industrial Services,Transportation & Logistics,Marine Shipping,Industrials,Transportation,Marine Transportation,Marine Transportation,True,MISC Bhd
@@ -953,6 +954,7 @@ BSKSMH0,MTEC MK Equity,Industrial,Industrials,Industrial Products,Electrical Equ
 BSL6X92,CARIP MK Equity,Oil & Gas,Energy,Oil & Gas,Oil & Gas Services & Equip,Oilfield Services & Equipment,Energy,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,False,Carimin Petroleum Bhd
 BSMRLX4,SMART MK Equity,,Materials,Materials,Chemicals,Specialty Chemicals,Materials,Materials,Chemicals,Specialty Chemicals,False,Smart Asia Chemical Bhd
 BSMRQJ5,FEYTECH MK Equity,Automotive,Financials,Financial Services,Asset Management,Investment Companies,Consumer Discretionary,Automobiles & Components,Automobile Components,Automotive Parts & Equipment,False,Feytech Holdings Bhd
+BT03YF4,KTI MK Equity,,Financials,Financial Services,Asset Management,Investment Companies,,,,,False,KTI LANDMARK BHD
 BTF7ZK3,EATECH MK Equity,Oil & Gas,Industrials,Industrial Services,Transportation & Logistics,Marine Shipping,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,False,Ea Technique M Bhd
 BTG8635,KAB MK Equity,Software & Services,Technology,Software & Tech Services,Software,Infrastructure Software,Information Technology,Software & Services,Software,Systems Software,False,Kronologi Asia Bhd
 BTGQB89,OWG MK Equity,Consumer Services,Consumer Discretionary,Consumer Discretionary Services,Leisure Facilities & Services,Entertainment Facilities,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure",Leisure Facilities,False,Only World Group Holdings Bhd
