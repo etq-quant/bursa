@@ -400,7 +400,7 @@ id,id_bbg,sector,bics_level_1_sector_name,bics_level_2_industry_group_name,bics_
 6794017,SDR MK Equity,Real Estate Development,Real Estate,Real Estate,Real Estate Owners & Developers,Multi Asset Class Own & Develop,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,False,Selangor Dredging Bhd
 6795322,SENI MK Equity,,Communications,Media,Publishing & Broadcasting,Out-of-Home Display Advertising,Communication Services,Media & Entertainment,Media,Advertising,False,Seni Jaya Corp BHD
 6798150,SHH MK Equity,,Consumer Discretionary,Consumer Discretionary Products,Home & Office Products,Furniture,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Home Furnishings,False,SHH Resources Holdings BHD
-6799971,PELI MK Equity,Consumer Services,Consumer Discretionary,Consumer Discretionary Products,Home & Office Products,Office Supplies,Industrials,Commercial & Professional Services,Commercial Services & Supplies,Office Services & Supplies,False,Pelikan International Corp Bhd
+6799971,PBSB MK Equity,Consumer Services,Consumer Discretionary,Consumer Discretionary Products,Home & Office Products,Office Supplies,Industrials,Commercial & Professional Services,Commercial Services & Supplies,Office Services & Supplies,False,PBS Bhd
 6801133,SCIB MK Equity,Construction,Materials,Materials,Construction Materials,Building Materials,Industrials,Capital Goods,Building Products,Building Products,False,Sarawak Consolidated Industrie
 6801519,SHMB MK Equity,Consumer Discretionary,Consumer Discretionary,Consumer Discretionary Services,Leisure Facilities & Services,Lodging,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",False,Shangri-La Hotels Malaysia Bhd
 6803504,HYR MK Equity,Energy,Energy,Oil & Gas,Oil & Gas Supply Chain,Refining & Marketing,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing,False,Hengyuan Refining Co Bhd
@@ -953,6 +953,7 @@ BRXH7R2,KJTS MK Equity,Industrial,Industrials,Industrial Services,Industrial Sup
 BS2KW96,MKHOP MK Equity,Plantation ,Consumer Staples,Consumer Staple Products,Food,Agricultural Producers,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Services,False,MKH Oil Palm East Kalimantan B
 BSB7F33,ALPHA MK Equity,Healthcare,Health Care,Health Care,Health Care Facilities & Svcs,Health Care Services,Health Care,Health Care Equipment & Services,Health Care Providers & Services,Health Care Services,False,Alpha IVF Group Bhd
 BSB9NP7,GOHUB MK Equity,,Technology,Software & Tech Services,IT Services,IT Services,,,,,False,Go Hub Capital Sdn Bhd
+BSB9NQ8,JPG MK Equity,,Consumer Staples,Consumer Staple Products,Food,Agricultural Producers,,,,,False,Johor Plantations Group Bhd
 BSB9NT1,OFS MK Equity,,Consumer Staples,Consumer Staple Products,Food,Packaged Food,,,,,False,Ocean-Fresh Sdn Bhd
 BSKSMH0,MTEC MK Equity,Industrial,Industrials,Industrial Products,Electrical Equipment,Electrical Components,Industrials,Capital Goods,Electrical Equipment,Electrical Components & Equipment,False,MASTER TEC GROUP BHD
 BSL6X92,CARIP MK Equity,Oil & Gas,Energy,Oil & Gas,Oil & Gas Services & Equip,Oilfield Services & Equipment,Energy,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,False,Carimin Petroleum Bhd
