@@ -227,7 +227,7 @@ id,id_bbg,sector,bics_level_1_sector_name,bics_level_2_industry_group_name,bics_
 6516910,SMIS MK Equity,,Consumer Discretionary,Consumer Discretionary Products,Automotive,Auto Parts,Consumer Discretionary,Automobiles & Components,Automobile Components,Automotive Parts & Equipment,False,SMIS Corp BHD
 6518262,MPIRE MK Equity,,Consumer Discretionary,Consumer Discretionary Products,Home & Office Products,Furniture,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,Mpire Global Bhd
 6518875,WLW MK Equity,Software & Services,Technology,Software & Tech Services,Software,Application Software,Information Technology,Software & Services,Software,Systems Software,False,Willowglen MSC BHD
-6520234,THETA MK Equity,,Technology,Software & Tech Services,IT Services,IT Services,Information Technology,Software & Services,IT Services,IT Consulting & Other Services,False,Theta Edge BHD
+6520234,THETA MK Equity,Software & Services,Technology,Software & Tech Services,IT Services,IT Services,Information Technology,Software & Services,IT Services,IT Consulting & Other Services,False,Theta Edge BHD
 6520427,YB MK Equity,,Consumer Discretionary,Consumer Discretionary Products,Home Construction,Building Products,Industrials,Capital Goods,Building Products,Building Products,False,YB Ventures Bhd
 6520580,NPC MK Equity,Plantation ,Consumer Staples,Consumer Staple Products,Food,Agricultural Producers,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Services,False,NPC Resources BHD
 6522672,LPI MK Equity,Financial,Financials,Insurance,Insurance,P&C Insurance,Financials,Insurance,Insurance,Property & Casualty Insurance,False,LPI Capital Bhd
@@ -901,7 +901,7 @@ BNMC123,VOLCANO MK Equity,,Industrials,Industrial Products,Industrial Intermedia
 BNNTYX5,AGMO MK Equity,Software & Services,Technology,Software & Tech Services,Software,Application Software,Information Technology,Software & Services,Software,Application Software,False,AGMO HOLDINGS BHD
 BNNW9Z1,AGRICOR MK Equity,,Financials,Financial Services,Asset Management,Investment Companies,Consumer Staples,Consumer Staples Distribution & Retail,Consumer Staples Distribution & Retail,Food Distributors,False,AGRICORE CS HOLDINGS BHD
 BNRKLQ6,UNITRAD MK Equity,Materials & Metals,Consumer Discretionary,Retail & Whsle - Discretionary,Retail - Discretionary,Home Products Stores,Industrials,Capital Goods,Trading Companies & Distributors,Trading Companies & Distributors,False,Unitrade Industries Bhd
-BNRNV21,SIAB MK Equity,,Industrials,Industrial Services,Engineering & Construction,Building Construction,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,SIAB HOLDINGS BHD
+BNRNV21,SIAB MK Equity,Construction,Industrials,Industrial Services,Engineering & Construction,Building Construction,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,SIAB HOLDINGS BHD
 BNRP4H3,ECOMATE MK Equity,Furniture & Wood,Consumer Discretionary,Consumer Discretionary Products,Home & Office Products,Furniture,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Home Furnishings,False,ECOMATE HOLDINGS BHD
 BNTD3Y5,ADB MK Equity,Software & Services,Technology,Software & Tech Services,Software,Application Software,Information Technology,Software & Services,Software,Application Software,False,Autocount Dotcom Bhd
 BNW0X76,EIB MK Equity,,Industrials,Industrial Services,Engineering & Construction,Engineering Services,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,Ecoscience International Bhd
@@ -959,9 +959,10 @@ BSKSMH0,MTEC MK Equity,Industrial,Industrials,Industrial Products,Electrical Equ
 BSL6X92,CARIP MK Equity,Oil & Gas,Energy,Oil & Gas,Oil & Gas Services & Equip,Oilfield Services & Equipment,Energy,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,False,Carimin Petroleum Bhd
 BSMRLX4,SMART MK Equity,,Materials,Materials,Chemicals,Specialty Chemicals,Materials,Materials,Chemicals,Specialty Chemicals,False,Smart Asia Chemical Bhd
 BSMRQJ5,FEYTECH MK Equity,Automotive,Financials,Financial Services,Asset Management,Investment Companies,Consumer Discretionary,Automobiles & Components,Automobile Components,Automotive Parts & Equipment,False,Feytech Holdings Bhd
-BSY23R5,BWYS MK Equity,,Materials,Materials,Steel,Steel Producers,,,,,False,BWYS GROUP BHD
+BSY23R5,BWYS MK Equity,Materials & Metals,Materials,Materials,Steel,Steel Producers,,,,,False,BWYS GROUP BHD
 BT03YF4,KTI MK Equity,,Financials,Financial Services,Asset Management,Investment Companies,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,False,KTI LANDMARK BHD
-BT3KM25,WELLCHIP MK Equity,,Consumer Discretionary,Retail & Whsle - Discretionary,Retail - Discretionary,Jewelry & Watch Stores,,,,,False,Well Chip Group Bhd
+BT3KM25,WELLCHIP MK Equity,Financial,Consumer Discretionary,Retail & Whsle - Discretionary,Retail - Discretionary,Jewelry & Watch Stores,,,,,False,Well Chip Group Bhd
+BT3MCV0,KUCINGKO MK Equity,,Communications,Media,Entertainment Content,Film & TV,,,,,False,KUCINGKO BHD
 BTF7ZK3,EATECH MK Equity,Oil & Gas,Industrials,Industrial Services,Transportation & Logistics,Marine Shipping,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,False,Ea Technique M Bhd
 BTG8635,KAB MK Equity,Software & Services,Technology,Software & Tech Services,Software,Infrastructure Software,Information Technology,Software & Services,Software,Systems Software,False,Kronologi Asia Bhd
 BTGQB89,OWG MK Equity,Consumer Services,Consumer Discretionary,Consumer Discretionary Services,Leisure Facilities & Services,Entertainment Facilities,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure",Leisure Facilities,False,Only World Group Holdings Bhd
