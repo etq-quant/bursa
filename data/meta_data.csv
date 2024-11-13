@@ -909,12 +909,12 @@ BP2G1P2,CNERGEN MK Equity,EMS,Industrials,Industrial Products,Electrical Equipme
 BP2RD60,CORAZA MK Equity,Materials & Metals,Industrials,Industrial Products,Industrial Intermediate Prod,Fabricated Metal & Hardware,Materials,Materials,Metals & Mining,Diversified Metals & Mining,False,Coraza Integrated Technology B
 BP2SS46,MNHLDG MK Equity,Construction,Real Estate,Real Estate,Real Estate Owners & Developers,Multi Asset Class Own & Develop,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,MN Holdings Bhd
 BP2T5L5,HEGROUP MK Equity,Industrial,Industrials,Industrial Products,Electrical Equipment,Electrical Components,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,HE Group Bhd
-BP38VZ7,AZAMJAYA MK Equity,,Industrials,Industrial Services,Engineering & Construction,Building Construction,,,,,False,Azam Jaya Bhd
+BP38VZ7,AZAMJAYA MK Equity,Construction,Industrials,Industrial Services,Engineering & Construction,Building Construction,,,,,False,Azam Jaya Bhd
 BP4YF96,SKHAWK MK Equity,,Energy,Oil & Gas,Oil & Gas Services & Equip,Oilfield Services & Equipment,Energy,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,False,Steel Hawk Bhd
 BP69TG4,NE MK Equity,Technology,Technology,Tech Hardware & Semiconductors,Technology Hardware,Electronics Components,Information Technology,Technology Hardware & Equipment,"Electronic Equipment, Instruments & Components",Electronic Components,False,Northeast Group Sdn Bhd
 BP69TR5,OBHB MK Equity,,Financials,Financial Services,Asset Management,Investment Companies,,,,,False,OB Holdings Bhd
 BP6DTV1,YENHER MK Equity,Consumer Staples,Consumer Staples,Consumer Staple Products,Food,Agricultural Producers,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats,False,Yenher Holdings Bhd
-BP6DTX3,RAMSSOL MK Equity,,Technology,Software & Tech Services,Software,Application Software,Industrials,Commercial & Professional Services,Professional Services,Human Resource & Employment Services,False,Ramssol Group Bhd
+BP6DTX3,RAMSSOL MK Equity,Software & Services,Technology,Software & Tech Services,Software,Application Software,Industrials,Commercial & Professional Services,Professional Services,Human Resource & Employment Services,False,Ramssol Group Bhd
 BP6MDG1,PANDA MK Equity,Software & Services,Technology,Software & Tech Services,Software,Application Software,Information Technology,Software & Services,Software,Systems Software,False,Panda Eco System Bhd
 BP6MFV0,CPETECH MK Equity,Technology,Industrials,Industrial Products,Industrial Intermediate Prod,Fabricated Metal & Hardware,Industrials,Capital Goods,Machinery,Industrial Machinery & Supplies & Components,False,CPE Technology Bhd
 BP7MNQ0,ECA MK Equity,Technology,Industrials,Industrial Products,Electrical Equipment,Industrial Automation Controls,Industrials,Capital Goods,Machinery,Industrial Machinery & Supplies & Components,False,ECA Integrated Solution Bhd
@@ -948,9 +948,9 @@ BQB88R7,EDELTEQ MK Equity,Technology,Technology,Tech Hardware & Semiconductors,S
 BQB8HM5,CLOUDPT MK Equity,Software & Services,Financials,Financial Services,Asset Management,Investment Companies,Information Technology,Software & Services,IT Services,IT Consulting & Other Services,False,Cloudpoint Technology Bhd
 BQC5KQ0,SSF MK Equity,Consumer Discretionary,Consumer Discretionary,Retail & Whsle - Discretionary,E-Commerce Discretionary,Specialty Online Retailers,Consumer Discretionary,Consumer Discretionary Distribution & Retail,Specialty Retail,Homefurnishing Retail,False,SSF Home Group Bhd
 BQFN0B6,CREST MK Equity,Technology,Technology,Tech Hardware & Semiconductors,Technology Hardware,Specialty Technology Hardware,Information Technology,Technology Hardware & Equipment,"Electronic Equipment, Instruments & Components",Technology Distributors,False,Crest Group Bhd
-BQHNFT7,AGX MK Equity,,Industrials,Industrial Services,Transportation & Logistics,Logistics Services,Industrials,Transportation,Air Freight & Logistics,Air Freight & Logistics,False,AGX GROUP Bhd
+BQHNFT7,AGX MK Equity,Transportation,Industrials,Industrial Services,Transportation & Logistics,Logistics Services,Industrials,Transportation,Air Freight & Logistics,Air Freight & Logistics,False,AGX GROUP Bhd
 BQMHPQ1,DAY3 MK Equity,Software & Services,Technology,Software & Tech Services,IT Services,IT Services,,,,,False,Daythree Digital Bhd
-BQPCQJ3,MEGAFB MK Equity,,Industrials,Industrial Products,Electrical Equipment,Comml & Res Bldg Equip & Sys,,,,,False,Mega Fortris Bhd
+BQPCQJ3,MEGAFB MK Equity,Industrial,Industrials,Industrial Products,Electrical Equipment,Comml & Res Bldg Equip & Sys,,,,,False,Mega Fortris Bhd
 BQQ9808,DSS MK Equity,,Materials,Materials,Containers & Packaging,Containers & Packaging,Materials,Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,False,DS Sigma Holdings Bhd
 BQQ9B10,LPBHD MK Equity,Materials & Metals,Materials,Materials,Containers & Packaging,Containers & Packaging,Materials,Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,False,L&P Global Bhd
 BR3XL45,EPB MK Equity,,Industrials,Industrial Products,Machinery,Other Machinery & Equipment,Industrials,Capital Goods,Machinery,Industrial Machinery & Supplies & Components,False,Epb Group Bhd
@@ -972,6 +972,7 @@ BSMRLX4,SMART MK Equity,,Materials,Materials,Chemicals,Specialty Chemicals,Mater
 BSMRQJ5,FEYTECH MK Equity,Automotive,Financials,Financial Services,Asset Management,Investment Companies,Consumer Discretionary,Automobiles & Components,Automobile Components,Automotive Parts & Equipment,False,Feytech Holdings Bhd
 BSPSYH9,SDCG MK Equity,,Utilities,Utilities,Electric Utilities,Power Generation,,,,,False,Solar District Cooling Group B
 BSY23R5,BWYS MK Equity,Materials & Metals,Materials,Materials,Steel,Steel Producers,Materials,Materials,Metals & Mining,Steel,False,BWYS GROUP BHD
+BSZ88K0,LWSABAH MK Equity,,Consumer Staples,Consumer Staple Products,Beverages,Non-Alcoholic Beverages,,,,,False,Life Water Bhd
 BT03YF4,KTI MK Equity,Real Estate Development,Financials,Financial Services,Asset Management,Investment Companies,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,False,KTI LANDMARK BHD
 BT3KM25,WELLCHIP MK Equity,Financial,Consumer Discretionary,Retail & Whsle - Discretionary,Retail - Discretionary,Jewelry & Watch Stores,Financials,Financial Services,Consumer Finance,Consumer Finance,False,Well Chip Group Bhd
 BT3MCV0,KUCINGKO MK Equity,,Communications,Media,Entertainment Content,Film & TV,Communication Services,Media & Entertainment,Entertainment,Movies & Entertainment,False,KUCINGKO BHD
