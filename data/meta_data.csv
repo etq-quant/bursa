@@ -277,7 +277,6 @@ id,id_bbg,sector,bics_level_1_sector_name,bics_level_2_industry_group_name,bics_
 6577401,MEN MK Equity,Real Estate Development,Industrials,Industrial Services,Transportation & Logistics,Transport Operations & Services,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,False,Menang Corp M Bhd
 6577898,MENT MK Equity,,Materials,Materials,"Forestry, Paper & Wood Products",Forestry & Logging,Materials,Materials,Paper & Forest Products,Forest Products,False,Mentiga Corp BHD
 6579678,MKH MK Equity,Real Estate Development,Real Estate,Real Estate,Real Estate Owners & Developers,Multi Asset Class Own & Develop,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,False,MKH Bhd
-6580391,MESB MK Equity,,Consumer Discretionary,Consumer Discretionary Products,Apparel & Textile Products,"Apparel, Footwear & Acc Design",Consumer Discretionary,Consumer Discretionary Distribution & Retail,Specialty Retail,Apparel Retail,False,MESB BHD
 6580465,MER MK Equity,,Industrials,Industrial Services,Engineering & Construction,Engineering Services,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,Mercury Industries BHD
 6581844,TGB MK Equity,,Real Estate,Real Estate,Real Estate Owners & Developers,Multi Asset Class Own & Develop,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,False,Thriven Global Bhd
 6583486,FMB MK Equity,Consumer Services,Industrials,Industrial Services,Commercial Support Services,Printing Services,Industrials,Commercial & Professional Services,Commercial Services & Supplies,Commercial Printing,False,Fima Corp BHD
@@ -887,6 +886,7 @@ BN6KL90,DXN MK Equity,Consumer Staples,Consumer Staples,Consumer Staple Products
 BN70TV7,SWIFT MK Equity,Transportation,Industrials,Industrial Services,Transportation & Logistics,Logistics Services,Industrials,Transportation,Air Freight & Logistics,Air Freight & Logistics,False,Swift Haulage Bhd
 BN7GZ51,CTOS MK Equity,Software & Services,Financials,Financial Services,Specialty Finance,Other Financial Services,Industrials,Commercial & Professional Services,Professional Services,Research & Consulting Services,True,CTOS Digital Bhd
 BN7T6Q8,SUPREME MK Equity,,Consumer Staples,Retail & Wholesale - Staples,Wholesale - Consumer Staples,Food & Beverage Wholesalers,,,,,False,SUPREME Consolidated Resources
+BN92494,WINSTAR MK Equity,,Industrials,Industrial Products,Industrial Intermediate Prod,Fabricated Metal & Hardware,,,,,False,WINSTAR CAPITAL Bhd
 BN924C7,TMK MK Equity,,Materials,Materials,Chemicals,Basic & Diversified Chemicals,,,,,False,TMK CHEMICAL BHD
 BNBNPL4,ICON MK Equity,Oil & Gas,Energy,Oil & Gas,Oil & Gas Services & Equip,Oilfield Services & Equipment,Energy,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,False,Icon Offshore Bhd
 BND89T3,HAILY MK Equity,,Industrials,Industrial Services,Engineering & Construction,Building Construction,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Homebuilding,False,Haily Group Bhd
