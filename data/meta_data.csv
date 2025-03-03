@@ -96,7 +96,7 @@ id,id_bbg,sector,bics_level_1_sector_name,bics_level_2_industry_group_name,bics_
 6206556,CNAC MK Equity,,Industrials,Industrial Products,Industrial Intermediate Prod,Fabricated Metal & Hardware,Industrials,Capital Goods,Machinery,Industrial Machinery & Supplies & Components,False,CN Asia Corp BHD
 6207731,DATA MK Equity,Software & Services,Technology,Software & Tech Services,IT Services,IT Services,Information Technology,Software & Services,IT Services,IT Consulting & Other Services,False,Dataprep Holdings BHD
 6210814,ENRA MK Equity,,Real Estate,Real Estate,Real Estate Owners & Developers,Multi Asset Class Own & Develop,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,False,ENRA Group Bhd
-6211925,MA MK Equity,Furniture & Wood,Consumer Discretionary,Consumer Discretionary Products,Home & Office Products,Furniture,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Home Furnishings,False,M & A Equity Holdings Bhd
+6211925,MA MK Equity,Furniture & Wood,Consumer Discretionary,Consumer Discretionary Products,Home & Office Products,Furniture,Financials,Financial Services,Capital Markets,Investment Banking & Brokerage,False,M & A Equity Holdings Bhd
 6214106,PER MK Equity,Materials & Metals,Industrials,Industrial Products,Industrial Intermediate Prod,Fabricated Metal & Hardware,Materials,Materials,Metals & Mining,Diversified Metals & Mining,False,Perusahaan Sadur Timah Malaysi
 6215626,CFM MK Equity,Consumer Services,Industrials,Industrial Services,Commercial Support Services,Printing Services,Industrials,Commercial & Professional Services,Commercial Services & Supplies,Commercial Printing,False,Computer Forms Malaysia Bhd
 6219082,CEP MK Equity,,Materials,Materials,Construction Materials,Building Materials,Materials,Materials,Construction Materials,Construction Materials,False,Concrete Engineering Products
@@ -774,6 +774,7 @@ B8DB3R3,OCK MK Equity,Telecommunication,Communications,Telecommunications,Teleco
 B8F0GN5,GBLF MK Equity,,Consumer Discretionary,Consumer Discretionary Products,Automotive,Auto Parts,Information Technology,Technology Hardware & Equipment,"Electronic Equipment, Instruments & Components",Electronic Manufacturing Services,False,Globaltec Formation Bhd
 B8FL1M2,GMB MK Equity,Utilities,Energy,Oil & Gas,Oil & Gas Supply Chain,Midstream - Oil & Gas,Utilities,Utilities,Gas Utilities,Gas Utilities,True,Gas Malaysia Bhd
 B8FZ8H8,HHH MK Equity,,Energy,Oil & Gas,Oil & Gas Supply Chain,Refining & Marketing,Industrials,Commercial & Professional Services,Commercial Services & Supplies,Environmental & Facilities Services,False,Hiap Huat Holdings Bhd
+B8HNYQ1,NEXG MK Equity,Software & Services,Technology,Tech Hardware & Semiconductors,Technology Hardware,Specialty Technology Hardware,Information Technology,Software & Services,IT Services,IT Consulting & Other Services,False,NEXG Bhd
 B8L1DR5,FGV MK Equity,Plantation ,Consumer Staples,Consumer Staple Products,Food,Agricultural Producers,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Services,False,FGV Holdings Bhd
 B95RLP0,TIH MK Equity,Financial,Financials,Insurance,Insurance,P&C Insurance,Financials,Insurance,Insurance,Multi-line Insurance,False,Tune Protect Group Bhd
 BB2BGK9,MCH MK Equity,Real Estate Development,Real Estate,Real Estate,Real Estate Owners & Developers,Multi Asset Class Own & Develop,Real Estate,Real Estate Management & Development,Real Estate Management & Development,Real Estate Development,True,Matrix Concepts Holdings Bhd
@@ -979,7 +980,7 @@ BSL6X92,CARIP MK Equity,Oil & Gas,Energy,Oil & Gas,Oil & Gas Services & Equip,Oi
 BSMRLX4,SMART MK Equity,,Materials,Materials,Chemicals,Specialty Chemicals,Materials,Materials,Chemicals,Specialty Chemicals,False,Smart Asia Chemical Bhd
 BSMRQJ5,FEYTECH MK Equity,Automotive,Financials,Financial Services,Asset Management,Investment Companies,Consumer Discretionary,Automobiles & Components,Automobile Components,Automotive Parts & Equipment,False,Feytech Holdings Bhd
 BSPSYH9,SDCG MK Equity,,Utilities,Utilities,Electric Utilities,Power Generation,Industrials,Commercial & Professional Services,Commercial Services & Supplies,Environmental & Facilities Services,False,Solar District Cooling Group B
-BSRLJV5,SUNLOGY MK Equity,,Industrials,Industrial Services,Engineering & Construction,Engineering Services,,,,,False,ES Sunlogy Bhd
+BSRLJV5,SUNLOGY MK Equity,,Industrials,Industrial Services,Engineering & Construction,Engineering Services,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,False,ES Sunlogy Bhd
 BSY23R5,BWYS MK Equity,Materials & Metals,Materials,Materials,Steel,Steel Producers,Materials,Materials,Metals & Mining,Steel,False,BWYS GROUP BHD
 BSZ88K0,LWSABAH MK Equity,Consumer Staples,Consumer Staples,Consumer Staple Products,Beverages,Non-Alcoholic Beverages,Consumer Staples,"Food, Beverage & Tobacco",Beverages,Soft Drinks & Non-alcoholic Beverages,False,Life Water Bhd
 BSZ8KD7,TOPVISN MK Equity,,Health Care,Health Care,Health Care Facilities & Svcs,Health Care Services,Health Care,Health Care Equipment & Services,Health Care Providers & Services,Health Care Services,False,TOPVISION Eye Specialist Bhd
@@ -991,7 +992,8 @@ BT8R4K3,KHB MK Equity,,Financials,Financial Services,Asset Management,Investment
 BTF7ZK3,AVANGAAD MK Equity,Oil & Gas,Industrials,Industrial Services,Transportation & Logistics,Marine Shipping,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,False,Avangaad Bhd
 BTG8635,KAB MK Equity,Software & Services,Technology,Software & Tech Services,Software,Infrastructure Software,Information Technology,Software & Services,Software,Systems Software,False,Kronologi Asia Bhd
 BTGQB89,OWG MK Equity,Consumer Services,Consumer Discretionary,Consumer Discretionary Services,Leisure Facilities & Services,Entertainment Facilities,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure",Leisure Facilities,False,Only World Group Holdings Bhd
-BTHXYS0,COLFORM MK Equity,,Materials,Materials,Steel,Steel Producers,,,,,False,Colform Group Bhd
+BTHXYS0,COLFORM MK Equity,,Materials,Materials,Steel,Steel Producers,Materials,Materials,Metals & Mining,Steel,False,Colform Group Bhd
+BTXSGW7,PGLOBAL MK Equity,,Materials,Materials,Steel,Steel Producers,,,,,False,Pantech Global Bhd
 BWSW131,BIOA MK Equity,,Consumer Discretionary,Retail & Whsle - Discretionary,Retail - Discretionary,Other Spec Retail - Discr,Consumer Staples,Household & Personal Products,Personal Care Products,Personal Care Products,False,Bioalpha Holdings Bhd
 BWXN162,MLK MK Equity,Utilities,Utilities,Utilities,Electric Utilities,Power Generation,Utilities,Utilities,Independent Power and Renewable Electricity Producers,Independent Power Producers & Energy Traders,True,Malakoff Corp Bhd
 BX909K4,SCGB MK Equity,Construction,Industrials,Industrial Services,Engineering & Construction,Building Construction,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering,True,Sunway Construction Group Bhd
